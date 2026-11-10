@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '17 1 * * 1'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['data/curated.json', 'scripts/**']
 
 permissions:
   contents: write
