@@ -495,7 +495,7 @@
   "longitude": 150.84,
   "locationApproximate": true,
   "status": "permitting",
-  "statusNote": "NSW 주요개발(SSD-113934740) 환경영향평가 준비 단계. OpenAI와 MOU",
+  "statusNote": "NSW 주요개발(SSD-113934740) 환경영향평가 준비 단계. OpenAI와 MOU / 2026-10-21 NEXTDC 신규 개발·부지 매입 전면 보류 발표 — 본 프로젝트 영향 여부 미공개",
   "facilityType": "AI",
   "itLoad": null,
   "campusPower": {
@@ -517,6 +517,10 @@
    {
     "title": "baxtel — NEXTDC S7 612MW",
     "url": "https://baxtel.com/data-center/dyibnw"
+   },
+   {
+    "title": "W.Media — NextDC pauses new projects over M3 power delay",
+    "url": "https://w.media/?p=44554"
    }
   ],
   "lastVerified": "2026-11-10",
@@ -532,7 +536,7 @@
   "longitude": 144.87,
   "locationApproximate": true,
   "status": "operational",
-  "statusNote": "부분 가동 — 확장공사 진행 중",
+  "statusNote": "부분 가동 — 2026-10-21 NEXTDC 발표: Jemena 66kV 공사 중단(2026-09, 2027-02 이전 재개 불가)으로 추가 그리드 공급이 FY2028로 지연",
   "facilityType": "Hyperscale cloud",
   "itLoad": {
    "mw": 225,
@@ -545,7 +549,7 @@
   "investment": null,
   "powerSources": [],
   "originalTargetDate": null,
-  "currentTargetDate": null,
+  "currentTargetDate": "FY2028 (추가 전력 공급)",
   "sources": [
    {
     "title": "Commercial Property Marketing — DCs Australia 2026",
@@ -554,6 +558,10 @@
    {
     "title": "ITK — Australia top 10 under construction",
     "url": "https://itkservices3.com/background/data_centres_australia_top10_construction"
+   },
+   {
+    "title": "W.Media — NextDC pauses new projects over M3 power delay",
+    "url": "https://w.media/?p=44554"
    }
   ],
   "lastVerified": "2026-11-10"
@@ -568,7 +576,7 @@
   "longitude": 144.93,
   "locationApproximate": true,
   "status": "approved",
-  "statusNote": "2026-01-19 개발 승인",
+  "statusNote": "2026-01-19 개발 승인 / 2026-10-21 NEXTDC 신규 개발·부지 매입 전면 보류 발표 — 본 프로젝트 영향 여부 미공개",
   "facilityType": "Hyperscale cloud",
   "itLoad": null,
   "campusPower": {
@@ -593,6 +601,10 @@
    {
     "title": "Certified Strategic — Australia DC 2026",
     "url": "https://certifiedstrategic.com/insights/top-data-centres-in-australia-2026-directory-and-market-overview"
+   },
+   {
+    "title": "W.Media — NextDC pauses new projects over M3 power delay",
+    "url": "https://w.media/?p=44554"
    }
   ],
   "lastVerified": "2026-11-10"
@@ -983,5 +995,530 @@
    }
   ],
   "lastVerified": "2026-11-10"
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": null,
+  "campusPower": {
+   "mw": 100,
+   "quality": "confirmed",
+   "note": "초기 계획 용량. 1GW 확장 계획(SKT, 2026-07)은 미확정"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "약 7조원 (약 US$52억, 보도)",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": "2027년 (단계적 가동)",
+  "currentTargetDate": "2027년 하반기 (가동 시작)",
+  "lastVerified": "2026-11-10",
+  "id": "kr-sk-aws-ulsan",
+  "name": "SK Telecom–AWS Ulsan AI Data Center",
+  "operator": "SK Telecom / SK Group",
+  "tenant": "AWS",
+  "country": "한국",
+  "location": "Ulsan",
+  "latitude": 35.54,
+  "longitude": 129.31,
+  "status": "construction",
+  "statusNote": "2025-08-29 착공. 2026-07 SKT가 1GW 확장 계획 발표, 2026-09-13 최태원 회장 \"900MW 근접\" 언급 (확장 공식 발표 전)",
+  "facilityType": "AI",
+  "sources": [
+   {
+    "title": "Korea Times — Ulsan nearing 900MW",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260913/sk-chairman-says-ulsan-ai-data-center-expansion-nearing-900-megawatts"
+   },
+   {
+    "title": "Korea JoongAng Daily — SK breaks ground in Ulsan",
+    "url": "https://www.koreajoongangdaily.com/business/sk-group-breaks-ground-on-ai-only-data-center-in-ulsan/12451117"
+   },
+   {
+    "title": "Korea Times — SKT 15GW plan",
+    "url": "https://www.koreatimes.co.kr/business/tech-science/20260705/sk-telecom-plans-15gw-ai-data-center-buildout-across-korea-by-2035"
+   }
+  ]
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": null,
+  "campusPower": {
+   "mw": 3000,
+   "quality": "reported",
+   "note": "계획 총 전력 3GW"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "약 US$350억 (보도)",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": "2028년 (완공)",
+  "currentTargetDate": "2028년 (완공)",
+  "lastVerified": "2026-11-10",
+  "id": "kr-sfr-jeonnam",
+  "name": "Jeonnam AI Data Center (Stock Farm Road)",
+  "operator": "Stock Farm Road (SFR)",
+  "country": "한국",
+  "location": "전라남도 (서남부, 세부 부지 미공개)",
+  "latitude": 34.8,
+  "longitude": 126.6,
+  "status": "announced",
+  "statusNote": "2025-02 전라남도-SFR MOU. 2026-11 기준 착공 확인 안 됨",
+  "facilityType": "AI",
+  "sources": [
+   {
+    "title": "Tom's Hardware — 3GW Korea data center",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/worlds-largest-data-center-gets-go-ahead-from-korean-govt-facility-to-require-3-gw-of-power"
+   },
+   {
+    "title": "Korea JoongAng Daily — World's largest AI data center",
+    "url": "https://www.koreajoongangdaily.com/business/worlds-largest-ai-data-center-to-be-built-in-korea/12167945"
+   }
+  ]
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": null,
+  "campusPower": {
+   "mw": 270,
+   "quality": "reported",
+   "note": "캠퍼스 계획 총 용량"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "AI 팩토리 확장 US$100억 (Brookfield 최대 $90억 + Nvidia $10억 등, 보도)",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": "2028년 (AI 팩토리 200MW)",
+  "lastVerified": "2026-11-10",
+  "id": "kr-naver-gak-sejong",
+  "name": "NAVER Gak Sejong",
+  "operator": "NAVER Cloud",
+  "country": "한국",
+  "location": "Sejong",
+  "latitude": 36.48,
+  "longitude": 127.29,
+  "status": "operational",
+  "statusNote": "2023-11 1단계 개소(부분 가동). 2026-10-29 Brookfield 최대 US$90억 금융 계약 — AI 팩토리 55MW(2027 상반기)→100MW(2027 말)→200MW(2028) 확장 예정",
+  "facilityType": "Hyperscale cloud",
+  "sources": [
+   {
+    "title": "DCD — Naver launches 270MW Sejong campus",
+    "url": "https://datacenterdynamics.com/en/news/naver-launches-270mw-data-center-campus-in-sejong-south-korea"
+   },
+   {
+    "title": "Baxtel — Naver $9B Brookfield deal, 200MW AI factory",
+    "url": "https://baxtel.com/news/naver-signs-9b-brookfield-deal-for-200mw-sejong-ai-factory"
+   }
+  ]
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": null,
+  "campusPower": {
+   "mw": 300,
+   "quality": "reported",
+   "note": "50MW 건물 6동"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "lastVerified": "2026-11-10",
+  "id": "kr-nfd-dangjin",
+  "name": "NFD Korea Dangjin Campus",
+  "operator": "NFD Korea",
+  "country": "한국",
+  "location": "Dangjin, Chungcheongnam-do",
+  "latitude": 36.89,
+  "longitude": 126.63,
+  "status": "approved",
+  "statusNote": "2026-06 건축 허가 및 KEPCO 전력 계약 확보 (보도). 착공일 미공개",
+  "facilityType": "Hyperscale cloud",
+  "sources": [
+   {
+    "title": "Baxtel — NFD Korea 300MW campus",
+    "url": "https://baxtel.com/data-center/sc-zeus-samsong-bldg-b"
+   }
+  ]
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": null,
+  "campusPower": {
+   "mw": 150,
+   "quality": "reported",
+   "note": "초기 약 150MW, 향후 400MW 이상 가능"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "부지 매입 약 ¥1,000억 (보도)",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": "2025년 (가동)",
+  "currentTargetDate": "2027 회계연도 (완공)",
+  "lastVerified": "2026-11-10",
+  "id": "jp-softbank-sakai",
+  "name": "SoftBank Osaka Sakai AI Data Center",
+  "operator": "SoftBank Corp.",
+  "country": "일본",
+  "location": "Sakai, Osaka",
+  "latitude": 34.57,
+  "longitude": 135.46,
+  "status": "construction",
+  "statusNote": "옛 Sharp Sakai LCD 공장 부지 전환. 2026-05 SoftBank가 완공 목표를 2027 회계연도로 제시 (당초 2025년 가동 계획에서 지연)",
+  "facilityType": "AI",
+  "sources": [
+   {
+    "title": "DCD — SoftBank 150MW Sakai",
+    "url": "https://www.datacenterdynamics.com/en/news/japans-softbank-plans-150mw-8-million-sq-ft-data-center-at-lcd-panel-manufacturing-site-in-osaka/"
+   },
+   {
+    "title": "Baxtel — SoftBank Sakai",
+    "url": "https://baxtel.com/data-center/softbank-sakai"
+   },
+   {
+    "title": "SoftBank press release 2026-05-11",
+    "url": "https://www.softbank.jp/en/corp/news/press/sbkk/2026/20260511_01"
+   }
+  ]
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": null,
+  "campusPower": {
+   "mw": 300,
+   "quality": "reported",
+   "note": "장기 계획 (SoftBank 통합보고서 2024). 1단계 50MW"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "¥650억 (경제산업성 보조금 최대 ¥300억, 보도)",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": "2026년 (1단계 완공)",
+  "currentTargetDate": "2026 회계연도 (~2027-03, 1단계 가동)",
+  "lastVerified": "2026-11-10",
+  "id": "jp-softbank-tomakomai",
+  "name": "SoftBank Hokkaido Tomakomai AI Data Center",
+  "operator": "SoftBank Corp.",
+  "country": "일본",
+  "location": "Tomakomai, Hokkaido",
+  "latitude": 42.63,
+  "longitude": 141.6,
+  "status": "construction",
+  "statusNote": "2025-04 착공. 2026-02 공정률 약 60~70% (설계·행정 포함, SoftBank)",
+  "facilityType": "AI",
+  "sources": [
+   {
+    "title": "W.Media — SoftBank breaks ground in Hokkaido",
+    "url": "https://w.media/?p=21242"
+   },
+   {
+    "title": "SoftBank News — Tomakomai progress (2026-02)",
+    "url": "https://www.softbank.jp/en/sbnews/entry/20260225_01"
+   }
+  ]
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": {
+   "mw": 300,
+   "quality": "reported",
+   "note": "최종 확장 시 300MW 이상"
+  },
+  "campusPower": null,
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "lastVerified": "2026-11-10",
+  "id": "jp-airtrunk-tok1",
+  "name": "AirTrunk TOK1",
+  "operator": "AirTrunk",
+  "country": "일본",
+  "location": "Inzai, Chiba (Tokyo 동부)",
+  "latitude": 35.83,
+  "longitude": 140.15,
+  "status": "operational",
+  "statusNote": "2021-11 개소, 부분 가동. 2026-10 US$12.1억 그린론 — 100MW 이상 IT 확장 공사 착수",
+  "facilityType": "Hyperscale cloud",
+  "sources": [
+   {
+    "title": "W.Media — AirTrunk TOK1 green loan (2026-10)",
+    "url": "https://w.media/airtrunk-secures-us-1-24-billion-green-loan-for-tokyo-data-center-expansion/"
+   },
+   {
+    "title": "Baxtel — AirTrunk TOK1",
+    "url": "https://baxtel.com/data-center/airtrunk-tokyo-tok1"
+   }
+  ]
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": null,
+  "campusPower": {
+   "mw": 400,
+   "quality": "reported",
+   "note": "최대 400MW"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "US$150억 이상 (약 2.3조엔, 보도)",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "JERA Chiba 화력발전소 부지 전력"
+  ],
+  "originalTargetDate": "2028년경 (가동)",
+  "currentTargetDate": "2028년경 (가동)",
+  "lastVerified": "2026-11-10",
+  "id": "jp-jera-chiba-ai",
+  "name": "JERA Chiba AI Data Center",
+  "operator": "RHAELM / JERA",
+  "tenant": "Dell Technologies (컴퓨팅 공급)",
+  "country": "일본",
+  "location": "JERA Chiba 화력발전소, Chiba",
+  "latitude": 35.58,
+  "longitude": 140.11,
+  "status": "announced",
+  "statusNote": "Dell·JERA·RHAELM MOU 체결 (계획 단계). Apollo가 금융 파트너 예정",
+  "facilityType": "AI",
+  "sources": [
+   {
+    "title": "Channel Insider — Dell, JERA $15B Japan AI data center",
+    "url": "https://www.channelinsider.com/ai/news-japan-ai-data-center-dell-jera-140b-apac/"
+   }
+  ]
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": null,
+  "campusPower": {
+   "mw": 3100,
+   "quality": "reported",
+   "note": "전체 3.1GW, 1단계 약 400MW"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": "2028년 말 (부지 서비스 준비)",
+  "currentTargetDate": "2028년 말 (부지 서비스 준비)",
+  "lastVerified": "2026-11-10",
+  "id": "jp-gigastream-toyama",
+  "name": "GigaStream Toyama Data Centre Hub",
+  "operator": "GigaStream Toyama",
+  "country": "일본",
+  "location": "Nanto, Toyama",
+  "latitude": 36.56,
+  "longitude": 136.88,
+  "status": "announced",
+  "statusNote": "2025-12 Nanto시·GigaStream 계획 발표 (Reuters). 1단계 약 400MW",
+  "facilityType": "Hyperscale cloud",
+  "sources": [
+   {
+    "title": "Reuters (via Tiger) — Japan's biggest data centre hub in Toyama",
+    "url": "https://www-web.itiger.com/news/2592915332"
+   }
+  ]
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": null,
+  "campusPower": {
+   "mw": 1000,
+   "quality": "reported",
+   "note": "최대 1GW"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "US$120억 (보도)",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "lastVerified": "2026-11-10",
+  "id": "jp-gmi-kagoshima",
+  "name": "GMI Cloud Kagoshima Sovereign AI Campus",
+  "operator": "Kai Shin Digital Infrastructure (CDIB Capital / Shinetsu Science Industry JV)",
+  "tenant": "GMI Cloud",
+  "country": "일본",
+  "location": "Satsumasendai, Kagoshima",
+  "latitude": 31.81,
+  "longitude": 130.3,
+  "status": "announced",
+  "statusNote": "계획 발표. 2026년 말 착공 예정 (보도). 전력 조달 미공개",
+  "facilityType": "AI",
+  "sources": [
+   {
+    "title": "DataCenterNews — GMI Cloud $12bn Japan site",
+    "url": "https://datacenter.news/story/gmi-cloud-plans-usd-12bn-sovereign-ai-site-in-japan"
+   }
+  ]
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": null,
+  "campusPower": {
+   "mw": 100,
+   "quality": "confirmed",
+   "note": "Foxconn 발표 목표 총 전력"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": "2026년 (전체 구축, 보도)",
+  "currentTargetDate": "2026년 (전체 구축, 보도)",
+  "lastVerified": "2026-11-10",
+  "id": "tw-foxconn-kaohsiung",
+  "name": "Foxconn–NVIDIA AI Supercomputing Center",
+  "operator": "Foxconn (Hon Hai)",
+  "tenant": "NVIDIA 협력",
+  "country": "대만",
+  "location": "Kaohsiung",
+  "latitude": 22.63,
+  "longitude": 120.3,
+  "status": "construction",
+  "statusNote": "2025-05 Computex 발표. 단계적 구축 — 1단계(약 20MW) 가오슝. 후속 부지는 전력 여건에 따라 결정",
+  "facilityType": "AI",
+  "sources": [
+   {
+    "title": "GuruFocus — Foxconn 100MW AI data center",
+    "url": "https://www.gurufocus.com/news/2877808/foxconn-to-build-100-mw-ai-data-center-with-nvidia-nvda"
+   },
+   {
+    "title": "Black Ridge Research — Taiwan data center projects",
+    "url": "https://www.blackridgeresearch.com/blog/latest-list-top-largest-upcoming-new-data-center-projects-taiwan"
+   }
+  ]
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": null,
+  "campusPower": {
+   "mw": 1000,
+   "quality": "reported",
+   "note": "1GW (Bloomberg 보도)"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": "2027년 말~2028년 초 (부분 가동)",
+  "currentTargetDate": "2027년 말~2028년 초 (부분 가동)",
+  "lastVerified": "2026-11-10",
+  "id": "cn-deepseek-ulanqab",
+  "name": "DeepSeek Ulanqab AI Data Center",
+  "operator": "DeepSeek",
+  "country": "중국",
+  "location": "Ulanqab, Inner Mongolia",
+  "latitude": 40.99,
+  "longitude": 113.13,
+  "status": "announced",
+  "statusNote": "2026 Bloomberg 보도 — 자체 구축 계획 (공식 발표 없음)",
+  "facilityType": "AI",
+  "sources": [
+   {
+    "title": "DCD — DeepSeek planning 1GW in Inner Mongolia",
+    "url": "https://datacenterdynamics.com/en/news/deepseek-planning-1gw-data-center-in-inner-mongolia-china-report"
+   },
+   {
+    "title": "Forkast — DeepSeek 1GW Ulanqab",
+    "url": "https://forkast.news/deepseeks-1gw-ulanqab-pivot-signals-chinas-sovereign-compute-escalation/"
+   }
+  ]
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": null,
+  "campusPower": {
+   "mw": 1200,
+   "quality": "reported",
+   "note": "버지니아 SCC 제출 서류 기준"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [
+   "Dominion Energy"
+  ],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "lastVerified": "2026-11-10",
+  "id": "us-google-goochland",
+  "name": "Google West Creek Campus (Goochland)",
+  "operator": "Google",
+  "country": "미국",
+  "location": "West Creek Business Park, Goochland County, Virginia",
+  "latitude": 37.6,
+  "longitude": -77.65,
+  "status": "announced",
+  "statusNote": "2026-10-28 카운티가 Google을 사용자로 공개. 기술 오버레이 지구 내 by-right(공청회 불필요), Google 실사 중. 오버레이 지구 관련 주민 소송 진행",
+  "facilityType": "Hyperscale cloud",
+  "sources": [
+   {
+    "title": "Baxtel — Google behind 1,200MW Goochland campus",
+    "url": "https://baxtel.com/news/google-identified-as-user-behind-1-200mw-goochland-data-center-campus"
+   },
+   {
+    "title": "Richmond BizSense — Google eyeing West Creek",
+    "url": "https://richmondbizsense.com/2026/10/28/breaking-news-google-eyeing-data-center-campus-in-goochlands-west-creek/"
+   }
+  ]
+ },
+ {
+  "locationApproximate": true,
+  "itLoad": null,
+  "campusPower": {
+   "mw": 6000,
+   "quality": "reported",
+   "note": "계획 전력 부하 6GW, 건물 9동"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [
+   "AEPCO 도매 전력 (SSVEC 소매)",
+   "BESS",
+   "가스 백업 발전기 90MW"
+  ],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "lastVerified": "2026-11-10",
+  "id": "us-cochise-supercomputer",
+  "name": "Cochise Supercomputer Campus",
+  "operator": "Tombstone Resources LLC",
+  "country": "미국",
+  "location": "Cochise, Cochise County, Arizona",
+  "latitude": 32.11,
+  "longitude": -109.92,
+  "status": "permitting",
+  "statusNote": "2026-11-04 첫 주민설명회, 2026-12-09 카운티 계획·구역위원회 공청회 예정. 반대 청원 1,000명 이상",
+  "facilityType": "AI",
+  "sources": [
+   {
+    "title": "KJZZ — Largest data center proposal in Arizona",
+    "url": "https://www.kjzz.org/business/2026-11-03/largest-data-center-proposal-in-arizona-heads-to-cochise-county-1st-community-meeting-scheduled"
+   }
+  ]
  }
 ]
