@@ -213,5 +213,775 @@
    }
   ],
   "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-airtrunk-syd1",
+  "name": "AirTrunk SYD1",
+  "operator": "AirTrunk (Blackstone·CPP Investments)",
+  "country": "호주",
+  "location": "Eastern Creek, Sydney NSW",
+  "latitude": -33.8,
+  "longitude": 150.87,
+  "locationApproximate": true,
+  "status": "operational",
+  "statusNote": "가동중",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 121,
+   "quality": "confirmed",
+   "note": "AirTrunk 발표 \"121MW+\""
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "IT Brief — AirTrunk MEL2 (전체 캠퍼스 용량 목록)",
+    "url": "https://itbrief.com.au/story/airtrunk-to-invest-aud-5bn-in-new-melbourne-ai-campus"
+   },
+   {
+    "title": "RenewMap — NSW data centre projects",
+    "url": "https://renewmap.com.au/resources/projects/nsw/datacentre/"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-airtrunk-syd2",
+  "name": "AirTrunk SYD2",
+  "operator": "AirTrunk (Blackstone·CPP Investments)",
+  "country": "호주",
+  "location": "Lane Cove West, Sydney NSW",
+  "latitude": -33.81,
+  "longitude": 151.15,
+  "locationApproximate": true,
+  "status": "operational",
+  "statusNote": "가동중 — NSW 최대 가동 데이터센터",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 158,
+   "quality": "confirmed",
+   "note": "AirTrunk 발표 \"158MW+\""
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "IT Brief — AirTrunk MEL2 (전체 캠퍼스 용량 목록)",
+    "url": "https://itbrief.com.au/story/airtrunk-to-invest-aud-5bn-in-new-melbourne-ai-campus"
+   },
+   {
+    "title": "RenewMap — NSW data centre projects",
+    "url": "https://renewmap.com.au/resources/projects/nsw/datacentre/"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-airtrunk-syd3",
+  "name": "AirTrunk SYD3",
+  "operator": "AirTrunk (Blackstone·CPP Investments)",
+  "country": "호주",
+  "location": "Huntingwood, Sydney NSW",
+  "latitude": -33.8,
+  "longitude": 150.89,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "건설중 — 2026-10 A$42.5억 그린론 확보, 확장공사 2028년 중반 완공 예정",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 400,
+   "quality": "confirmed",
+   "note": "AirTrunk 웹사이트 \"400MW+\" (2021년 발표 당시 320MW+)"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "A$42.5억 그린론 (건설 자금)",
+   "quality": "confirmed"
+  },
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": "2028년 중반 (확장공사 완공)",
+  "sources": [
+   {
+    "title": "baxtel — AirTrunk A$4.25B green loan for SYD3",
+    "url": "https://baxtel.com/data-center/6di72o"
+   },
+   {
+    "title": "uanalyze — SYD3 green loan (2026-10-27)",
+    "url": "https://uanalyze.com.tw/index.php/articles/8725857746"
+   },
+   {
+    "title": "RenewMap — NSW pipeline",
+    "url": "https://renewmap.com.au/resources/projects/nsw/datacentre/"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-airtrunk-mel1",
+  "name": "AirTrunk MEL1",
+  "operator": "AirTrunk (Blackstone·CPP Investments)",
+  "country": "호주",
+  "location": "Derrimut, Melbourne VIC",
+  "latitude": -37.8,
+  "longitude": 144.77,
+  "locationApproximate": true,
+  "status": "operational",
+  "statusNote": "가동중 — 빅토리아주 최대 데이터센터",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 276,
+   "quality": "confirmed",
+   "note": "AirTrunk 발표 \"276MW+\""
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "IT Brief — AirTrunk MEL2 (전체 캠퍼스 용량 목록)",
+    "url": "https://itbrief.com.au/story/airtrunk-to-invest-aud-5bn-in-new-melbourne-ai-campus"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-airtrunk-mel2",
+  "name": "AirTrunk MEL2",
+  "operator": "AirTrunk (Blackstone·CPP Investments)",
+  "country": "호주",
+  "location": "Tullamarine, Melbourne VIC",
+  "latitude": -37.69,
+  "longitude": 144.88,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "2025-12 부지 매입 발표",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 354,
+   "quality": "confirmed",
+   "note": "AirTrunk 발표 \"354MW+\""
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "A$50억 이상",
+   "quality": "confirmed"
+  },
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "AirTrunk — MEL2 announcement",
+    "url": "https://airtrunk.com/?p=16454"
+   },
+   {
+    "title": "IT Brief — AirTrunk MEL2",
+    "url": "https://itbrief.com.au/story/airtrunk-to-invest-aud-5bn-in-new-melbourne-ai-campus"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-mamre-road-syd4",
+  "name": "Mamre Road Data Centre Campus (AirTrunk SYD4 \"Summit\")",
+  "operator": "ISPT/IFM Investors (부지) — AirTrunk 인수 예정 (보도)",
+  "country": "호주",
+  "location": "Kemps Creek, Sydney NSW",
+  "latitude": -33.86,
+  "longitude": 150.78,
+  "locationApproximate": true,
+  "status": "permitting",
+  "statusNote": "NSW 주요개발(SSD-92743706) 심사 중 — 제출의견 대응 단계. 호주 최초 1GW 초과 계획",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 1200,
+   "quality": "reported",
+   "note": "신청서 1GW, 수정안 최대 1.2GW (보도)"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "A$50억 이상 (보도)",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "ACS Information Age — Mamre Road 1.2GW",
+    "url": "https://ia.acs.org.au/article/2026/concern-over-australia-s-most-power-hungry-data-centre.html"
+   },
+   {
+    "title": "NSW Planning Portal — Mamre Road Data Centre Campus",
+    "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/mamre-road-data-centre-campus?page=0"
+   },
+   {
+    "title": "DCD — AirTrunk set to buy 1GW site",
+    "url": "https://www.datacenterdynamics.com/en/news/airtrunk-set-to-buy-planned-1gw-data-center-site-in-western-sydney-australia/"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-nextdc-s4",
+  "name": "NEXTDC S4 Sydney",
+  "operator": "NEXTDC",
+  "country": "호주",
+  "location": "Horsley Park, Sydney NSW",
+  "latitude": -33.85,
+  "longitude": 150.85,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "2026-03 착공 (Multiplex). NSW 송전망 직접 연결 승인 1호",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": {
+   "mw": 365,
+   "quality": "confirmed",
+   "note": "NEXTDC 발표 최대 IT 용량 (이전 발표 350MW)"
+  },
+  "campusPower": null,
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [
+   "NSW 송전망 직접 연결"
+  ],
+  "originalTargetDate": null,
+  "currentTargetDate": "2027년 중반 (1단계 건물 완공)",
+  "sources": [
+   {
+    "title": "W.Media — S4 recycled water, 365MW IT",
+    "url": "https://w.media/?p=44914"
+   },
+   {
+    "title": "Property Markets — S4 construction start",
+    "url": "https://propertymarkets.news/nextdcs-350mw-western-sydney-data-centre/"
+   },
+   {
+    "title": "IT Brief — Multiplex starts S4",
+    "url": "https://itbrief.com.au/story/multiplex-starts-construction-on-nextdc-s-s4-sydney"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-nextdc-s7",
+  "name": "NEXTDC S7 Sydney (OpenAI 협력)",
+  "operator": "NEXTDC",
+  "country": "호주",
+  "location": "Eastern Creek, Sydney NSW",
+  "latitude": -33.8,
+  "longitude": 150.84,
+  "locationApproximate": true,
+  "status": "permitting",
+  "statusNote": "NSW 주요개발(SSD-113934740) 환경영향평가 준비 단계. OpenAI와 MOU",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 612,
+   "quality": "reported",
+   "note": "인허가 서류 612MW (NEXTDC 650MW 언급)"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "AI Scale Business — Australian DC pipeline",
+    "url": "https://aiscalebusiness.com/data-centre-projects"
+   },
+   {
+    "title": "baxtel — NEXTDC S7 612MW",
+    "url": "https://baxtel.com/data-center/dyibnw"
+   }
+  ],
+  "lastVerified": "2026-11-10",
+  "tenant": "OpenAI (MOU, 확정 계약 아님)"
+ },
+ {
+  "id": "au-nextdc-m3",
+  "name": "NEXTDC M3 Melbourne",
+  "operator": "NEXTDC",
+  "country": "호주",
+  "location": "West Footscray, Melbourne VIC",
+  "latitude": -37.8,
+  "longitude": 144.87,
+  "locationApproximate": true,
+  "status": "operational",
+  "statusNote": "부분 가동 — 확장공사 진행 중",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": {
+   "mw": 225,
+   "quality": "confirmed",
+   "note": "NEXTDC 발표 계획 용량"
+  },
+  "campusPower": null,
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "Commercial Property Marketing — DCs Australia 2026",
+    "url": "https://commercialpropertymarketing.com.au/data-centres-australia-2026-major-projects-by-city/"
+   },
+   {
+    "title": "ITK — Australia top 10 under construction",
+    "url": "https://itkservices3.com/background/data_centres_australia_top10_construction"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-nextdc-m4",
+  "name": "NEXTDC M4 Melbourne",
+  "operator": "NEXTDC",
+  "country": "호주",
+  "location": "Port Melbourne VIC",
+  "latitude": -37.83,
+  "longitude": 144.93,
+  "locationApproximate": true,
+  "status": "approved",
+  "statusNote": "2026-01-19 개발 승인",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 162,
+   "quality": "reported",
+   "note": "보도 150~162MW"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "약 A$20억 (보도)",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "AI Scale Business — Australian DC pipeline",
+    "url": "https://aiscalebusiness.com/data-centre-projects"
+   },
+   {
+    "title": "Certified Strategic — Australia DC 2026",
+    "url": "https://certifiedstrategic.com/insights/top-data-centres-in-australia-2026-directory-and-market-overview"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-cdc-marsden-park",
+  "name": "CDC Marsden Park",
+  "operator": "CDC Data Centres",
+  "country": "호주",
+  "location": "Marsden Park, Sydney NSW",
+  "latitude": -33.69,
+  "longitude": 150.84,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "2024-10 착공, 2025-11 NSW 승인. 6개 건물",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": {
+   "mw": 504,
+   "quality": "confirmed",
+   "note": "ICT 용량 504MW"
+  },
+  "campusPower": null,
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "A$31억",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "Commercial Property Marketing — DCs Australia 2026",
+    "url": "https://commercialpropertymarketing.com.au/data-centres-australia-2026-major-projects-by-city/"
+   },
+   {
+    "title": "AI Scale Business — Australian DC pipeline",
+    "url": "https://aiscalebusiness.com/data-centre-projects"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-cdc-laverton",
+  "name": "CDC Laverton",
+  "operator": "CDC Data Centres",
+  "country": "호주",
+  "location": "Laverton North, Melbourne VIC",
+  "latitude": -37.83,
+  "longitude": 144.76,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "2025-02 착공. Campus One 150MW + Campus Two 300MW",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 450,
+   "quality": "reported",
+   "note": "Campus One 150MW + Campus Two 300MW (CDC 부지 계획 400MW+)"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "ITK — Australia top 10 under construction",
+    "url": "https://itkservices3.com/background/data_centres_australia_top10_construction"
+   },
+   {
+    "title": "AI Scale Business — Australian DC pipeline",
+    "url": "https://aiscalebusiness.com/data-centre-projects"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-cdc-maddington",
+  "name": "CDC Perth (Maddington)",
+  "operator": "CDC Data Centres",
+  "country": "호주",
+  "location": "Maddington, Perth WA",
+  "latitude": -32.05,
+  "longitude": 116.0,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "승인 완료, 건설중 — 서호주 최대 AI 데이터센터 계획",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 200,
+   "quality": "confirmed",
+   "note": "CDC 발표 \"최대 200MW+\""
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "1단계 A$4.15억",
+   "quality": "confirmed"
+  },
+  "powerSources": [],
+  "originalTargetDate": "2026년 (1단계 가동)",
+  "currentTargetDate": "2026년 (1단계 가동 목표)",
+  "sources": [
+   {
+    "title": "W.Media — CDC WA largest AI campus",
+    "url": "https://w.media/cdc-data-centres-plans-was-largest-ai-and-advanced-technology-campus/"
+   },
+   {
+    "title": "CDC — WA brochure",
+    "url": "https://issuu.com/cdcdatacentres/docs/wa._secured."
+   },
+   {
+    "title": "Commercial Property Marketing — DCs Australia 2026",
+    "url": "https://commercialpropertymarketing.com.au/data-centres-australia-2026-major-projects-by-city/"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-cdc-wagga",
+  "name": "CDC Wagga Wagga (Gregadoo) Campus",
+  "operator": "CDC Data Centres",
+  "country": "호주",
+  "location": "Gregadoo, Wagga Wagga NSW",
+  "latitude": -35.19,
+  "longitude": 147.39,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "2026-09 구상 단계 — NSW SEARs 준비, 토지용도 변경 필요. 주민 반대 청원",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": null,
+  "gridConnection": {
+   "mw": 1400,
+   "quality": "confirmed",
+   "note": "총 전력 수요 최대 1.4GW (scoping report)"
+  },
+  "operationalNow": null,
+  "investment": {
+   "text": "약 A$150억 (GST 제외)",
+   "quality": "confirmed"
+  },
+  "powerSources": [
+   "Transgrid Wagga 330kV 변전소 인접"
+  ],
+  "originalTargetDate": null,
+  "currentTargetDate": "2030년 (보도)",
+  "sources": [
+   {
+    "title": "NSW Planning Portal — Ashfords Road Data Centre",
+    "url": "https://www.planningportal.nsw.gov.au/major-projects/projects/ashfords-road-data-centre-gregadoo"
+   },
+   {
+    "title": "W.Media — CDC A$15bn 1.4GW",
+    "url": "https://w.media/cdc-plans-aud-15bn-1-4gw-data-centre-campus-near-wagga-wagga/"
+   },
+   {
+    "title": "DCD — CDC gigawatt campus Wagga",
+    "url": "https://datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-iren-redbank",
+  "name": "IREN Redbank",
+  "operator": "IREN",
+  "country": "호주",
+  "location": "Gregadoo, Wagga Wagga NSW",
+  "latitude": -35.18,
+  "longitude": 147.37,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "2026-10 초기 계획 발표 — 전력 미확보 (보도)",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 900,
+   "quality": "confirmed",
+   "note": "IREN 발표"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "A$100억 이상 (보도)",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": "2029년 (초기 가동 목표)",
+  "sources": [
+   {
+    "title": "DCD — IREN 900MW Wagga Wagga",
+    "url": "https://datacenterdynamics.com/en/news/iren-targets-900mw-data-center-campus-in-wagga-wagga-australia"
+   },
+   {
+    "title": "W.Media — IREN Redbank",
+    "url": "https://w.media/?p=44359"
+   },
+   {
+    "title": "baxtel — power not yet secured",
+    "url": "https://baxtel.com/news/iren-proposes-900mw-redbank-campus-near-wagga-wagga-power-not-yet-secured"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-iren-bundey",
+  "name": "IREN Bundey",
+  "operator": "IREN",
+  "country": "호주",
+  "location": "Bundey, South Australia",
+  "latitude": -33.93,
+  "longitude": 139.33,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "2026-06 송전 연결 계약 체결 (330kV 4회선, 망 증강 불필요). 인허가 대기",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": null,
+  "gridConnection": {
+   "mw": 800,
+   "quality": "confirmed",
+   "note": "송전 연결 계약 기준"
+  },
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [
+   "ElectraNet 330kV 송전망",
+   "SA 재생에너지 (주 목표 2027년 순 100%)"
+  ],
+  "originalTargetDate": "2028년 (가동 시작)",
+  "currentTargetDate": "2028년 (가동 시작)",
+  "sources": [
+   {
+    "title": "pv magazine — IREN 800MW SA",
+    "url": "https://www.pv-magazine-australia.com/?p=16212"
+   },
+   {
+    "title": "W.Media — IREN Bundey",
+    "url": "https://w.media/iren-targets-bundey-transmission-hub-for-800mw-australian-data-centre-campus/"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-zerra-wddp",
+  "name": "Western Downs Digital Park",
+  "operator": "Zerra DC (Dexus·Macquarie 참여)",
+  "country": "호주",
+  "location": "Kogan (Dalby 인근), Queensland",
+  "latitude": -26.98,
+  "longitude": 151.0,
+  "locationApproximate": true,
+  "status": "permitting",
+  "statusNote": "2026-08 개발신청(DA) 제출 — 시의회·FIRB 승인 대기. Anthropic 1단계 임차 계약 (추론용)",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 2160,
+   "quality": "reported",
+   "note": "최대 2.16GW 계획 (DA: 360MW 건물 4동)"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "약 A$319억 (보도)",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "기존 전력망 연결",
+   "재생에너지 PPA (보도)"
+  ],
+  "originalTargetDate": "2027년 (1단계)",
+  "currentTargetDate": "2027년 (1단계, 인허가 조건부)",
+  "sources": [
+   {
+    "title": "IT Brief — Anthropic leases first stage",
+    "url": "https://itbrief.com.au/story/anthropic-leases-first-stage-of-queensland-data-campus"
+   },
+   {
+    "title": "Real Estate Source — Zerra files $31.9b DA",
+    "url": "https://www.realestatesource.com.au/zerra-files-plans-for-31bn-queensland-data-centre-campus/amp/"
+   },
+   {
+    "title": "iTnews — Anthropic first Australian DC",
+    "url": "https://www.itnews.com.au/news/anthropic-signs-first-australia-data-centre-agreement-628972"
+   }
+  ],
+  "lastVerified": "2026-11-10",
+  "tenant": "Anthropic (1단계)"
+ },
+ {
+  "id": "au-microsoft-kemps-creek",
+  "name": "Microsoft Kemps Creek",
+  "operator": "Microsoft",
+  "country": "호주",
+  "location": "Kemps Creek, Sydney NSW",
+  "latitude": -33.87,
+  "longitude": 150.79,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "건설중 (RenewMap)",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 190,
+   "quality": "reported",
+   "note": "RenewMap 집계"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "RenewMap — NSW pipeline",
+    "url": "https://renewmap.com.au/resources/projects/nsw/datacentre/"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-cdc-kc1",
+  "name": "CDC Kemps Creek KC1",
+  "operator": "CDC Data Centres",
+  "country": "호주",
+  "location": "Kemps Creek, Sydney NSW",
+  "latitude": -33.88,
+  "longitude": 150.77,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "NSW SEARs 신청 단계",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 144,
+   "quality": "confirmed",
+   "note": "SEARs 신청서 144MW"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "DCD — CDC files Kemps Creek",
+    "url": "https://www.datacenterdynamics.com/en/news/australias-cdc-files-for-data-center-in-kemps-creek-sydney/"
+   }
+  ],
+  "lastVerified": "2026-11-10"
+ },
+ {
+  "id": "au-greensquare-wai1",
+  "name": "GreenSquareDC WAi1 (Hazelmere)",
+  "operator": "GreenSquareDC",
+  "country": "호주",
+  "location": "Hazelmere, Perth WA",
+  "latitude": -31.92,
+  "longitude": 116.0,
+  "locationApproximate": true,
+  "status": "cancelled",
+  "statusNote": "2026-05 신청 철회",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 120,
+   "quality": "reported"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "baxtel — GreenSquareDC withdraws 120MW",
+    "url": "https://baxtel.com/news/greensquaredc-withdraws-120mw-perth-data-center-application"
+   }
+  ],
+  "lastVerified": "2026-11-10"
  }
 ]
