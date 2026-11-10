@@ -1,6 +1,6 @@
 {
  "generatedAt": "2026-11-10",
- "count": 119,
+ "count": 131,
  "attribution": "Epoch AI, \"AI data centers\" (CC BY 4.0), https://epoch.ai/data/ai-data-centers — 변환·가공됨. 직접 조사 레코드는 각 출처 참조.",
  "records": [
   {
@@ -1522,6 +1522,430 @@
     {
      "title": "KJZZ — Largest data center proposal in Arizona",
      "url": "https://www.kjzz.org/business/2026-11-03/largest-data-center-proposal-in-arizona-heads-to-cochise-county-1st-community-meeting-scheduled"
+    }
+   ]
+  },
+  {
+   "locationApproximate": true,
+   "itLoad": null,
+   "campusPower": {
+    "mw": 1000,
+    "quality": "reported",
+    "note": "\"단일 부지 약 1GW\" (Adani Group 이사 발언). Google은 MW 미공개, \"기가와트급\""
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "US$150억 (2026~2030)",
+    "quality": "confirmed"
+   },
+   "powerSources": [],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "lastVerified": "2026-11-10",
+   "id": "in-google-vizag",
+   "name": "Google India AI Hub (Visakhapatnam)",
+   "operator": "Google (AdaniConneX · Nxtra by Airtel 시공)",
+   "country": "인도",
+   "location": "Tarluvada, Visakhapatnam, Andhra Pradesh",
+   "latitude": 17.88,
+   "longitude": 83.39,
+   "status": "construction",
+   "statusNote": "2025-10 발표, 2026-04-28 착공 (Google 발표). 데이터센터 캠퍼스 3곳으로 구성",
+   "facilityType": "AI",
+   "sources": [
+    {
+     "title": "Google Cloud Press — Google breaks ground on India AI Hub",
+     "url": "https://www.googlecloudpresscorner.com/2026-04-28-Google-Breaks-Ground-on-India-AI-Hub%2C-Launching-a-National-Industrial-Ecosystem-Alongside-Indias-Digital-Infrastructure-Milestone"
+    },
+    {
+     "title": "YourStory — Google breaks ground in Visakhapatnam",
+     "url": "https://yourstory.com/2026/04/google-breaks-ground-on-ai-hub-in-visakhapatnam"
+    }
+   ]
+  },
+  {
+   "locationApproximate": true,
+   "itLoad": {
+    "mw": 1250,
+    "quality": "reported",
+    "note": "IT 전력 1.25GW (단계별)"
+   },
+   "campusPower": null,
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "약 ₹1.77 lakh crore (보도)",
+    "quality": "reported"
+   },
+   "powerSources": [],
+   "originalTargetDate": "2027~2036년 (5단계)",
+   "currentTargetDate": "2027~2036년 (5단계)",
+   "lastVerified": "2026-11-10",
+   "id": "in-rmz-colt-vizag",
+   "name": "RMZ–Colt DCS Visakhapatnam Hyperscale Campus",
+   "operator": "RMZ Group / Colt DCS (50:50 JV)",
+   "country": "인도",
+   "location": "Anandapuram, Visakhapatnam, Andhra Pradesh",
+   "latitude": 17.9,
+   "longitude": 83.37,
+   "status": "approved",
+   "statusNote": "2026-08 안드라프라데시 주 투자촉진위원회(SIPC) 승인 (보도). 2027~2036년 5단계 개발",
+   "facilityType": "Hyperscale cloud",
+   "sources": [
+    {
+     "title": "SSF Global — RMZ & Colt DCS 1.25GW Visakhapatnam",
+     "url": "https://ssfglobal.in/industry_action/rmz-and-colt-dcs-to-develop-1-25-gw-hyperscale-data-centre-campus-in-visakhapatnam/"
+    }
+   ]
+  },
+  {
+   "locationApproximate": true,
+   "itLoad": null,
+   "campusPower": {
+    "mw": 168,
+    "quality": "confirmed",
+    "note": "1단계 용량 (IT/전체 구분 미공개), 확장 옵션"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": null,
+   "powerSources": [
+    "재생에너지",
+    "해수 담수화 냉각수"
+   ],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "lastVerified": "2026-11-10",
+   "id": "in-reliance-meta-jamnagar",
+   "name": "Reliance–Meta Jamnagar AI Data Centre",
+   "operator": "Reliance Industries",
+   "tenant": "Meta",
+   "country": "인도",
+   "location": "Jamnagar, Gujarat",
+   "latitude": 22.47,
+   "longitude": 70.06,
+   "status": "announced",
+   "statusNote": "2026-06-09 Reliance 건설·Meta 임차 계약 발표 (Meta). 착공 여부 미공개",
+   "facilityType": "AI",
+   "sources": [
+    {
+     "title": "Meta Newsroom — Meta partners with Reliance",
+     "url": "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india/"
+    }
+   ]
+  },
+  {
+   "locationApproximate": true,
+   "itLoad": null,
+   "campusPower": {
+    "mw": 1000,
+    "quality": "reported",
+    "note": "1GW 모듈형"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": null,
+   "powerSources": [
+    "태양광 약 6GWp (계획)"
+   ],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "lastVerified": "2026-11-10",
+   "id": "in-reliance-andhra",
+   "name": "Reliance Andhra Pradesh AI Data Centre",
+   "operator": "Reliance Industries",
+   "country": "인도",
+   "location": "Andhra Pradesh (세부 부지 미공개)",
+   "latitude": 16.5,
+   "longitude": 80.6,
+   "status": "announced",
+   "statusNote": "2025-11-14 안드라프라데시 주정부와 MOU (Jamnagar 캠퍼스의 쌍둥이 계획)",
+   "facilityType": "AI",
+   "sources": [
+    {
+     "title": "Outlook Business — Reliance 1GW AI data centre in AP",
+     "url": "https://www.outlookbusiness.com/start-up/deeptech/after-google-reliance-plans-to-set-up-1-gw-ai-data-centre-in-andhra-pradesh"
+    }
+   ]
+  },
+  {
+   "locationApproximate": true,
+   "itLoad": null,
+   "campusPower": {
+    "mw": 1000,
+    "quality": "reported",
+    "note": "최대 1GW"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "최대 ₹70,000 crore (보도)",
+    "quality": "reported"
+   },
+   "powerSources": [],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "lastVerified": "2026-11-10",
+   "id": "in-tcs-hypervault-hyderabad",
+   "name": "TCS HyperVault Hyderabad AI Campus",
+   "operator": "HyperVault (TCS 자회사, TPG 공동투자)",
+   "country": "인도",
+   "location": "Hyderabad, Telangana",
+   "latitude": 17.39,
+   "longitude": 78.49,
+   "status": "announced",
+   "statusNote": "2026-09 264에이커 부지 확보, 수요에 따라 단계 개발 (보도)",
+   "facilityType": "AI",
+   "sources": [
+    {
+     "title": "CRN Asia — TCS HyperVault 1GW Hyderabad",
+     "url": "https://www.crnasia.com/india/news/2026/tcs-hypervault-makes-70-000-crore-ai-infrastructure-play-with-1-gw-hyderabad-campus"
+    }
+   ]
+  },
+  {
+   "locationApproximate": true,
+   "itLoad": {
+    "mw": 150,
+    "quality": "reported",
+    "note": "JHB1 계획 용량"
+   },
+   "campusPower": null,
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": null,
+   "powerSources": [],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "lastVerified": "2026-11-10",
+   "id": "my-airtrunk-jhb1",
+   "name": "AirTrunk JHB1",
+   "operator": "AirTrunk",
+   "country": "말레이시아",
+   "location": "Johor Bahru, Johor",
+   "latitude": 1.49,
+   "longitude": 103.74,
+   "status": "operational",
+   "statusNote": "2024-07 개소. 2026-04 기준 JHB1·JHB2 합계 IT 420MW 이상, 거의 100% 계약 (AirTrunk)",
+   "facilityType": "Hyperscale cloud",
+   "sources": [
+    {
+     "title": "W.Media — AirTrunk opens 150MW Johor Bahru",
+     "url": "https://w.media/airtrunk-opens-150mw-hyperscale-data-center-in-johor-bahru/"
+    },
+    {
+     "title": "W.Media — AirTrunk JHB3/JHB4 280MW",
+     "url": "https://w.media/airtrunk-to-invest-us-3-billion-in-johor-to-build-two-hyperscale-campuses-totaling-280mw-capacity/"
+    }
+   ]
+  },
+  {
+   "locationApproximate": true,
+   "itLoad": {
+    "mw": 280,
+    "quality": "confirmed",
+    "note": "2개 캠퍼스 합계"
+   },
+   "campusPower": null,
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "RM120억 (약 US$30억)",
+    "quality": "confirmed"
+   },
+   "powerSources": [],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "lastVerified": "2026-11-10",
+   "id": "my-airtrunk-jhb3-jhb4",
+   "name": "AirTrunk JHB3 · JHB4",
+   "operator": "AirTrunk",
+   "country": "말레이시아",
+   "location": "Iskandar Puteri, Johor",
+   "latitude": 1.43,
+   "longitude": 103.64,
+   "status": "announced",
+   "statusNote": "2026-04-30 신규 캠퍼스 2곳 발표. 일정 미공개",
+   "facilityType": "Hyperscale cloud",
+   "sources": [
+    {
+     "title": "W.Media — AirTrunk JHB3/JHB4 280MW",
+     "url": "https://w.media/airtrunk-to-invest-us-3-billion-in-johor-to-build-two-hyperscale-campuses-totaling-280mw-capacity/"
+    }
+   ]
+  },
+  {
+   "locationApproximate": true,
+   "itLoad": {
+    "mw": 166,
+    "quality": "reported",
+    "note": "캠퍼스 총 용량"
+   },
+   "campusPower": null,
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "그린 파이낸싱 최대 US$13.7억",
+    "quality": "reported"
+   },
+   "powerSources": [],
+   "originalTargetDate": "2027년 (1단계 완공)",
+   "currentTargetDate": "2027년 (1단계 완공)",
+   "lastVerified": "2026-11-10",
+   "id": "my-stt-johor",
+   "name": "STT GDC Johor Campus",
+   "operator": "ST Telemedia Global Data Centres",
+   "country": "말레이시아",
+   "location": "Nusa Cemerlang Industrial Park, Iskandar Puteri, Johor",
+   "latitude": 1.42,
+   "longitude": 103.62,
+   "status": "construction",
+   "statusNote": "2025-02 착공. 2026-08 최대 US$13.7억 그린 파이낸싱 확보. 1단계 16MW",
+   "facilityType": "Colocation",
+   "sources": [
+    {
+     "title": "Baxtel — STT GDC $1.37bn for 166MW Malaysia",
+     "url": "https://baxtel.com/news/stt-gdc-secures-1-37bn-funding-for-166mw-malaysia-data-center"
+    }
+   ]
+  },
+  {
+   "locationApproximate": true,
+   "itLoad": null,
+   "campusPower": {
+    "mw": 360,
+    "quality": "reported",
+    "note": "NVIDIA DSX AI Factory 캠퍼스"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": null,
+   "powerSources": [
+    "PLN Batam (PPA 450MW)"
+   ],
+   "originalTargetDate": "2027년 1분기 (가동 시작)",
+   "currentTargetDate": "2027년 1분기 (가동 시작)",
+   "lastVerified": "2026-11-10",
+   "id": "id-firmus-dayone-batam",
+   "name": "Firmus–DayOne Batam AI Factory (Kabil)",
+   "operator": "DayOne / Firmus Technologies",
+   "tenant": "NVIDIA 협력",
+   "country": "인도네시아",
+   "location": "Kabil Tech Park, Batam",
+   "latitude": 1.07,
+   "longitude": 104.13,
+   "status": "announced",
+   "statusNote": "2026-07 개발 합의 발표. DayOne–PLN Batam 450MW 전력구매계약 확보",
+   "facilityType": "AI",
+   "sources": [
+    {
+     "title": "BTW Media — Firmus, Nvidia 360MW Batam",
+     "url": "https://btw.media/en/firmus-nvidia-plan-360mw-ai-hub-in-batam"
+    }
+   ]
+  },
+  {
+   "locationApproximate": true,
+   "itLoad": {
+    "mw": 144,
+    "quality": "reported",
+    "note": "계획 용량"
+   },
+   "campusPower": null,
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "US$23억 (보도)",
+    "quality": "reported"
+   },
+   "powerSources": [],
+   "originalTargetDate": "2026년 12월 (1단계)",
+   "currentTargetDate": "2026년 12월 (1단계)",
+   "lastVerified": "2026-11-10",
+   "id": "id-edgnex-jakarta",
+   "name": "EDGNEX Jakarta AI Data Centre",
+   "operator": "EDGNEX (DAMAC)",
+   "country": "인도네시아",
+   "location": "Jakarta",
+   "latitude": -6.2,
+   "longitude": 106.85,
+   "status": "construction",
+   "statusNote": "2025-03 부지 확보, 2025-06 초기 공사 단계 (보도, 이후 진척 미확인)",
+   "facilityType": "AI",
+   "sources": [
+    {
+     "title": "DataCenterNews Asia — EDGNEX $2.3bn Jakarta",
+     "url": "https://datacenternews.asia/story/edgnex-invests-usd-2-3-billion-in-jakarta-ai-data-centre"
+    }
+   ]
+  },
+  {
+   "locationApproximate": true,
+   "itLoad": null,
+   "campusPower": {
+    "mw": 300,
+    "quality": "reported",
+    "note": "CTP1 확장 후. CTP2 포함 1GW 계획"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": null,
+   "powerSources": [
+    "수상 태양광 42.5MWp (2027 가동 예정)"
+   ],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "lastVerified": "2026-11-10",
+   "id": "th-dayone-chonburi",
+   "name": "DayOne Chonburi Tech Park (CTP1)",
+   "operator": "DayOne / Amata Corp",
+   "country": "태국",
+   "location": "Chonburi, Eastern Economic Corridor",
+   "latitude": 13.4,
+   "longitude": 101.0,
+   "status": "construction",
+   "statusNote": "2025-11 CTP1 확장으로 300MW, CTP2 포함 1GW 전력 플랫폼 계획 (CTP2는 계획 단계)",
+   "facilityType": "Hyperscale cloud",
+   "sources": [
+    {
+     "title": "W.Media — DayOne, Amata 1GW Thailand",
+     "url": "https://w.media/?p=19455"
+    }
+   ]
+  },
+  {
+   "locationApproximate": true,
+   "itLoad": {
+    "mw": 200,
+    "quality": "reported",
+    "note": "IT 부하"
+   },
+   "campusPower": null,
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "₿460억 (약 US$14억)",
+    "quality": "reported"
+   },
+   "powerSources": [],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "lastVerified": "2026-11-10",
+   "id": "th-skyline-damac-chachoengsao",
+   "name": "Skyline Data Center (DAMAC) Chachoengsao",
+   "operator": "Skyline Data Center and Cloud Services (DAMAC Group)",
+   "country": "태국",
+   "location": "Chachoengsao",
+   "latitude": 13.69,
+   "longitude": 101.07,
+   "status": "approved",
+   "statusNote": "2026-05 태국 투자청(BOI) 투자 승인 (인허가·착공 아님)",
+   "facilityType": "Hyperscale cloud",
+   "sources": [
+    {
+     "title": "The Next Web — Thailand $29bn approvals",
+     "url": "https://thenextweb.com/news/thailand-29-billion-tiktok-data-center-approval"
     }
    ]
   },
