@@ -15,9 +15,7 @@ EPOCH_URL = 'https://epoch.ai/data/ai-data-centers'
 CURATED_OVERLAP = {'OpenAI Stargate Abilene', 'Colossus 1', 'Microsoft Fairwater Wisconsin', 'Meta Hyperion'}
 
 COUNTRY_KO = {
-    'United States': '미국', 'China': '중국', 'Malaysia': '말레이시아', 'Norway': '노르웨이',
-    'United Kingdom': '영국', 'Indonesia': '인도네시아', 'Finland': '핀란드', 'Australia': '호주',
-    'Portugal': '포르투갈', 'Iceland': '아이슬란드', 'Sweden': '스웨덴', 'United Arab Emirates': 'UAE',
+    'United Arab Emirates': 'UAE',
 }
 
 # 우편번호로 찾지 못한 곳: 도시/지역 단위 근사 좌표 (lat, lng, 위치명)
@@ -86,9 +84,9 @@ def clean_party(s):
             continue
         name = re.sub(r'\s*#\w+', '', p).strip()
         if '#speculative' in p:
-            name += ' (불확실)'
+            name += ' (speculative)'
         elif '#likely' in p:
-            name += ' (유력)'
+            name += ' (likely)'
         parts.append(name)
     return ', '.join(dict.fromkeys(parts)) or None
 
@@ -106,7 +104,7 @@ def ym(date):
 
 def fmt_cost(b):
     eok = round(b * 10)
-    return f'약 US${eok:,}억 (칩 포함 총 자본비용, 2025년 달러)'
+    return f'About US${b:,.1f}bn (total capex incl. chips, 2025 USD)'
 
 
 dc = pd.read_csv(f'{src}/data_centers.csv')
@@ -153,23 +151,23 @@ for _, r in dc.iterrows():
 
     if cur_p > 0:
         status = 'operational'
-        note = '부분 가동' if cur_p < max_p * 0.95 else '전체 가동'
+        note = 'Partially operational' if cur_p < max_p * 0.95 else 'Fully operational'
     else:
         status = 'construction'
-        note = '건설중'
-    note += ' (Epoch AI 위성·인허가 분석 기준)'
+        note = 'Under construction'
+    note += ' (per Epoch AI satellite & permit analysis)'
 
-    target = f"{ym(full_date)} — {'전체 가동 도달' if full_date <= TODAY else '전체 가동 예정'} (Epoch 추정)"
+    target = f"{ym(full_date)} — {'full capacity reached' if full_date <= TODAY else 'full capacity expected'} (Epoch estimate)"
 
     energy = r['Energy companies']
-    power_sources = [f'전력 공급사: {e.strip()}' for e in str(energy).split(',')] if isinstance(energy, str) else []
+    power_sources = [f'Utility: {e.strip()}' for e in str(energy).split(',')] if isinstance(energy, str) else []
 
     srcs = [{'title': 'Epoch AI — AI Data Centers (CC BY 4.0)', 'url': EPOCH_URL}] + links(r['Selected Sources'])
 
     records.append({
         'id': 'epoch-' + re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-'),
         'name': name,
-        'operator': clean_party(r['Owner']) or '미공개',
+        'operator': clean_party(r['Owner']) or 'Not disclosed',
         'tenant': clean_party(r['Users']),
         'country': COUNTRY_KO.get(r['Country'], r['Country']),
         'location': loc,
@@ -179,10 +177,10 @@ for _, r in dc.iterrows():
         'status': status,
         'statusNote': note,
         'facilityType': 'AI',
-        'itLoad': {'mw': round(max_it), 'quality': 'estimate', 'note': '완공 시 IT 부하 (Epoch AI 추정)'} if max_it > 0 else None,
-        'campusPower': {'mw': round(max_p), 'quality': 'estimate', 'note': '완공 시 시설 전체 전력 (Epoch AI 추정)'},
+        'itLoad': {'mw': round(max_it), 'quality': 'estimate', 'note': 'IT load at full build-out (Epoch AI estimate)'} if max_it > 0 else None,
+        'campusPower': {'mw': round(max_p), 'quality': 'estimate', 'note': 'Total facility power at full build-out (Epoch AI estimate)'},
         'gridConnection': None,
-        'operationalNow': {'mw': round(cur_p), 'quality': 'estimate', 'note': f'현재 가동 전력 (Epoch AI 추정, {past["Date"].iloc[-1]} 기준)'} if cur_p > 0 else None,
+        'operationalNow': {'mw': round(cur_p), 'quality': 'estimate', 'note': f'Current operating power (Epoch AI estimate, as of {past["Date"].iloc[-1]})'} if cur_p > 0 else None,
         'investment': {'text': fmt_cost(max_cost), 'quality': 'estimate'} if max_cost > 0 else None,
         'powerSources': power_sources,
         'originalTargetDate': None,
@@ -201,7 +199,7 @@ allrec = curated + records
 payload = {
     'generatedAt': TODAY,
     'count': len(allrec),
-    'attribution': 'Epoch AI, "AI data centers" (CC BY 4.0), https://epoch.ai/data/ai-data-centers — 변환·가공됨. 직접 조사 레코드는 각 출처 참조.',
+    'attribution': 'Epoch AI, "AI data centers" (CC BY 4.0), https://epoch.ai/data/ai-data-centers — transformed. Curated records cite their own sources.',
     'records': allrec,
 }
 json.dump(payload, open(out, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
