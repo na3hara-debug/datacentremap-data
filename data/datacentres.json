@@ -101,7 +101,10 @@
      "url": "https://www.globaldatacenterhub.com/p/meta-scales-hyperion-to-5gw-and-over"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "investors": [
+    "Blue Owl"
+   ]
   },
   {
    "id": "xai-colossus-1",
@@ -252,7 +255,11 @@
      "url": "https://renewmap.com.au/resources/projects/nsw/datacentre/"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "investors": [
+    "Blackstone",
+    "CPP Investments"
+   ]
   },
   {
    "id": "au-airtrunk-syd2",
@@ -288,7 +295,11 @@
      "url": "https://renewmap.com.au/resources/projects/nsw/datacentre/"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "investors": [
+    "Blackstone",
+    "CPP Investments"
+   ]
   },
   {
    "id": "au-airtrunk-syd3",
@@ -331,7 +342,11 @@
      "url": "https://renewmap.com.au/resources/projects/nsw/datacentre/"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "investors": [
+    "Blackstone",
+    "CPP Investments"
+   ]
   },
   {
    "id": "au-airtrunk-mel1",
@@ -363,7 +378,11 @@
      "url": "https://itbrief.com.au/story/airtrunk-to-invest-aud-5bn-in-new-melbourne-ai-campus"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "investors": [
+    "Blackstone",
+    "CPP Investments"
+   ]
   },
   {
    "id": "au-airtrunk-mel2",
@@ -402,7 +421,11 @@
      "url": "https://itbrief.com.au/story/airtrunk-to-invest-aud-5bn-in-new-melbourne-ai-campus"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "investors": [
+    "Blackstone",
+    "CPP Investments"
+   ]
   },
   {
    "id": "au-mamre-road-syd4",
@@ -445,7 +468,11 @@
      "url": "https://www.datacenterdynamics.com/en/news/airtrunk-set-to-buy-planned-1gw-data-center-site-in-western-sydney-australia/"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "investors": [
+    "IFM Investors",
+    "ISPT"
+   ]
   },
   {
    "id": "au-nextdc-s4",
@@ -903,7 +930,11 @@
     }
    ],
    "lastVerified": "2026-11-10",
-   "tenant": "Anthropic (Phase 1)"
+   "tenant": "Anthropic (Phase 1)",
+   "investors": [
+    "Dexus",
+    "Macquarie"
+   ]
   },
   {
    "id": "au-microsoft-kemps-creek",
@@ -1120,6 +1151,10 @@
      "title": "Baxtel — Naver $9B Brookfield deal, 200MW AI factory",
      "url": "https://baxtel.com/news/naver-signs-9b-brookfield-deal-for-200mw-sejong-ai-factory"
     }
+   ],
+   "investors": [
+    "Brookfield",
+    "NVIDIA"
    ]
   },
   {
@@ -1308,6 +1343,9 @@
      "title": "Channel Insider — Dell, JERA $15B Japan AI data center",
      "url": "https://www.channelinsider.com/ai/news-japan-ai-data-center-dell-jera-140b-apac/"
     }
+   ],
+   "investors": [
+    "Apollo"
    ]
   },
   {
@@ -1702,6 +1740,9 @@
      "title": "CRN Asia — TCS HyperVault 1GW Hyderabad",
      "url": "https://www.crnasia.com/india/news/2026/tcs-hypervault-makes-70-000-crore-ai-infrastructure-play-with-1-gw-hyderabad-campus"
     }
+   ],
+   "investors": [
+    "TPG"
    ]
   },
   {
