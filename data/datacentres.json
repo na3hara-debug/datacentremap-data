@@ -1,40 +1,40 @@
 {
- "generatedAt": "2026-11-10",
+ "generatedAt": "2026-11-12",
  "count": 131,
- "attribution": "Epoch AI, \"AI data centers\" (CC BY 4.0), https://epoch.ai/data/ai-data-centers — 변환·가공됨. 직접 조사 레코드는 각 출처 참조.",
+ "attribution": "Epoch AI, \"AI data centers\" (CC BY 4.0), https://epoch.ai/data/ai-data-centers — transformed. Curated records cite their own sources.",
  "records": [
   {
    "id": "stargate-abilene",
    "name": "Stargate Abilene",
-   "operator": "Crusoe (개발) / Oracle",
+   "operator": "Crusoe (developer) / Oracle",
    "tenant": "OpenAI",
-   "country": "미국",
+   "country": "United States",
    "location": "Abilene, Texas",
    "latitude": 32.45,
    "longitude": -99.73,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 — 8개 건물 중 6개(618MW) 고객 인도 (Oracle, 2026-09-10)",
+   "statusNote": "Partially operational — 6 of 8 buildings (618MW) delivered to customer (Oracle, 2026-09-10)",
    "facilityType": "AI",
    "itLoad": null,
    "campusPower": {
     "mw": 1200,
     "quality": "confirmed",
-    "note": "계획 총 용량 (8개 건물)"
+    "note": "Planned total capacity (8 buildings)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 618,
     "quality": "confirmed",
-    "note": "고객 인도 기준 (가동과 다를 수 있음)"
+    "note": "Delivered to customer (may differ from operational)"
    },
    "investment": null,
    "powerSources": [
-    "ERCOT 그리드",
-    "현장 가스터빈 (360MW 구축, 2026-01)"
+    "ERCOT grid",
+    "On-site gas turbines (360MW built, 2026-01)"
    ],
-   "originalTargetDate": "2026년 중반 (전체 1.2GW)",
-   "currentTargetDate": "2026년 말 (전체 1.2GW)",
+   "originalTargetDate": "Mid 2026 (full 1.2GW)",
+   "currentTargetDate": "End 2026 (full 1.2GW)",
    "sources": [
     {
      "title": "Epoch AI — Stargate Abilene",
@@ -58,35 +58,35 @@
   {
    "id": "meta-hyperion",
    "name": "Meta Hyperion",
-   "operator": "Meta (Blue Owl 합작 투자)",
-   "country": "미국",
+   "operator": "Meta (Blue Owl joint venture)",
+   "country": "United States",
    "location": "Richland Parish, Louisiana",
    "latitude": 32.43,
    "longitude": -91.66,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "2024-12 착공. 2026-07 2GW → 5GW로 확대 발표",
+   "statusNote": "Construction started 2024-12. Expansion from 2GW to 5GW announced 2026-07",
    "facilityType": "AI",
    "itLoad": null,
    "campusPower": {
     "mw": 5000,
     "quality": "confirmed",
-    "note": "전체 완공 시 컴퓨팅 용량 (Meta 발표)"
+    "note": "Compute capacity at full build-out (Meta)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "US$500억 이상 (최초 US$100억)",
+    "text": "US$50bn+ (initially US$10bn)",
     "quality": "confirmed"
    },
    "powerSources": [
-    "Entergy Louisiana 신규 가스발전소",
-    "배터리 저장",
-    "원전 출력 증강",
-    "태양광"
+    "New Entergy Louisiana gas plants",
+    "Battery storage",
+    "Nuclear uprates",
+    "Solar"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "첫 2GW 2030년, 전체 5GW 약 2032년 (보도)",
+   "currentTargetDate": "First 2GW by 2030, full 5GW around 2032 (reported)",
    "sources": [
     {
      "title": "DCD — Meta expands Hyperion to 5GW",
@@ -107,35 +107,35 @@
    "id": "xai-colossus-1",
    "name": "xAI Colossus 1",
    "operator": "xAI",
-   "country": "미국",
+   "country": "United States",
    "location": "Memphis, Tennessee",
    "latitude": 35.06,
    "longitude": -90.15,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "2024-09부터 가동",
+   "statusNote": "Operational since 2024-09",
    "facilityType": "AI",
    "itLoad": null,
    "campusPower": {
     "mw": 500,
     "quality": "estimate",
-    "note": "그리드 300MW + 현장 가스 약 198MW (위성 분석 추정)"
+    "note": "Grid 300MW + on-site gas ~198MW (satellite-based estimate)"
    },
    "gridConnection": {
     "mw": 300,
     "quality": "reported",
-    "note": "MLGW 그리드"
+    "note": "MLGW grid"
    },
    "operationalNow": null,
    "investment": null,
    "powerSources": [
-    "MLGW/TVA 그리드",
-    "현장 가스터빈",
-    "Tesla Megapack 배터리",
-    "100MW 태양광 (건설중)"
+    "MLGW/TVA grid",
+    "On-site gas turbines",
+    "Tesla Megapack batteries",
+    "100MW solar (under construction)"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2024-09 (가동)",
+   "currentTargetDate": "2024-09 (operational)",
    "sources": [
     {
      "title": "Cleanview — Colossus 1 & 2",
@@ -150,27 +150,27 @@
   },
   {
    "id": "ms-fairwater-1",
-   "name": "Microsoft Fairwater (1단계)",
+   "name": "Microsoft Fairwater (Phase 1)",
    "operator": "Microsoft",
-   "country": "미국",
+   "country": "United States",
    "location": "Mount Pleasant, Wisconsin",
    "latitude": 42.7,
    "longitude": -87.93,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "2026-06-23 가동 발표",
+   "statusNote": "Operational status announced 2026-06-23",
    "facilityType": "AI",
    "itLoad": null,
    "campusPower": null,
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "US$33억",
+    "text": "US$3.3bn",
     "quality": "confirmed"
    },
    "powerSources": [],
-   "originalTargetDate": "2026년 초",
-   "currentTargetDate": "2026-06-23 (가동)",
+   "originalTargetDate": "Early 2026",
+   "currentTargetDate": "2026-06-23 (operational)",
    "sources": [
     {
      "title": "Microsoft — Made in Wisconsin (2025-09)",
@@ -185,27 +185,27 @@
   },
   {
    "id": "ms-fairwater-2",
-   "name": "Microsoft Mount Pleasant (2단계)",
+   "name": "Microsoft Mount Pleasant (Phase 2)",
    "operator": "Microsoft",
-   "country": "미국",
+   "country": "United States",
    "location": "Mount Pleasant, Wisconsin",
    "latitude": 42.72,
    "longitude": -87.93,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "1단계 바로 옆. 기초·철골 공사 중",
+   "statusNote": "Next to Phase 1. Foundations and steelwork under way",
    "facilityType": "AI",
    "itLoad": null,
    "campusPower": null,
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "US$40억",
+    "text": "US$4bn",
     "quality": "confirmed"
    },
    "powerSources": [],
-   "originalTargetDate": "2028년 말",
-   "currentTargetDate": "2028년",
+   "originalTargetDate": "End 2028",
+   "currentTargetDate": "2028",
    "sources": [
     {
      "title": "Microsoft — Made in Wisconsin (2025-09)",
@@ -222,19 +222,19 @@
    "id": "au-airtrunk-syd1",
    "name": "AirTrunk SYD1",
    "operator": "AirTrunk (Blackstone·CPP Investments)",
-   "country": "호주",
+   "country": "Australia",
    "location": "Eastern Creek, Sydney NSW",
    "latitude": -33.8,
    "longitude": 150.87,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "가동중",
+   "statusNote": "Operational",
    "facilityType": "Hyperscale cloud",
    "itLoad": null,
    "campusPower": {
     "mw": 121,
     "quality": "confirmed",
-    "note": "AirTrunk 발표 \"121MW+\""
+    "note": "AirTrunk: \"121MW+\""
    },
    "gridConnection": null,
    "operationalNow": null,
@@ -244,7 +244,7 @@
    "currentTargetDate": null,
    "sources": [
     {
-     "title": "IT Brief — AirTrunk MEL2 (전체 캠퍼스 용량 목록)",
+     "title": "IT Brief — AirTrunk MEL2 (campus capacity list)",
      "url": "https://itbrief.com.au/story/airtrunk-to-invest-aud-5bn-in-new-melbourne-ai-campus"
     },
     {
@@ -258,19 +258,19 @@
    "id": "au-airtrunk-syd2",
    "name": "AirTrunk SYD2",
    "operator": "AirTrunk (Blackstone·CPP Investments)",
-   "country": "호주",
+   "country": "Australia",
    "location": "Lane Cove West, Sydney NSW",
    "latitude": -33.81,
    "longitude": 151.15,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "가동중 — NSW 최대 가동 데이터센터",
+   "statusNote": "Operational — largest operating data centre in NSW",
    "facilityType": "Hyperscale cloud",
    "itLoad": null,
    "campusPower": {
     "mw": 158,
     "quality": "confirmed",
-    "note": "AirTrunk 발표 \"158MW+\""
+    "note": "AirTrunk: \"158MW+\""
    },
    "gridConnection": null,
    "operationalNow": null,
@@ -280,7 +280,7 @@
    "currentTargetDate": null,
    "sources": [
     {
-     "title": "IT Brief — AirTrunk MEL2 (전체 캠퍼스 용량 목록)",
+     "title": "IT Brief — AirTrunk MEL2 (campus capacity list)",
      "url": "https://itbrief.com.au/story/airtrunk-to-invest-aud-5bn-in-new-melbourne-ai-campus"
     },
     {
@@ -294,29 +294,29 @@
    "id": "au-airtrunk-syd3",
    "name": "AirTrunk SYD3",
    "operator": "AirTrunk (Blackstone·CPP Investments)",
-   "country": "호주",
+   "country": "Australia",
    "location": "Huntingwood, Sydney NSW",
    "latitude": -33.8,
    "longitude": 150.89,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 — 2026-10 A$42.5억 그린론 확보, 확장공사 2028년 중반 완공 예정",
+   "statusNote": "Under construction — A$4.25bn green loan secured 2026-10; expansion due mid 2028",
    "facilityType": "Hyperscale cloud",
    "itLoad": null,
    "campusPower": {
     "mw": 400,
     "quality": "confirmed",
-    "note": "AirTrunk 웹사이트 \"400MW+\" (2021년 발표 당시 320MW+)"
+    "note": "AirTrunk website: \"400MW+\" (320MW+ when announced in 2021)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "A$42.5억 그린론 (건설 자금)",
+    "text": "A$4.25bn green loan (construction finance)",
     "quality": "confirmed"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028년 중반 (확장공사 완공)",
+   "currentTargetDate": "Mid 2028 (expansion complete)",
    "sources": [
     {
      "title": "baxtel — AirTrunk A$4.25B green loan for SYD3",
@@ -337,19 +337,19 @@
    "id": "au-airtrunk-mel1",
    "name": "AirTrunk MEL1",
    "operator": "AirTrunk (Blackstone·CPP Investments)",
-   "country": "호주",
+   "country": "Australia",
    "location": "Derrimut, Melbourne VIC",
    "latitude": -37.8,
    "longitude": 144.77,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "가동중 — 빅토리아주 최대 데이터센터",
+   "statusNote": "Operational — largest data centre in Victoria",
    "facilityType": "Hyperscale cloud",
    "itLoad": null,
    "campusPower": {
     "mw": 276,
     "quality": "confirmed",
-    "note": "AirTrunk 발표 \"276MW+\""
+    "note": "AirTrunk: \"276MW+\""
    },
    "gridConnection": null,
    "operationalNow": null,
@@ -359,7 +359,7 @@
    "currentTargetDate": null,
    "sources": [
     {
-     "title": "IT Brief — AirTrunk MEL2 (전체 캠퍼스 용량 목록)",
+     "title": "IT Brief — AirTrunk MEL2 (campus capacity list)",
      "url": "https://itbrief.com.au/story/airtrunk-to-invest-aud-5bn-in-new-melbourne-ai-campus"
     }
    ],
@@ -369,24 +369,24 @@
    "id": "au-airtrunk-mel2",
    "name": "AirTrunk MEL2",
    "operator": "AirTrunk (Blackstone·CPP Investments)",
-   "country": "호주",
+   "country": "Australia",
    "location": "Tullamarine, Melbourne VIC",
    "latitude": -37.69,
    "longitude": 144.88,
    "locationApproximate": true,
    "status": "announced",
-   "statusNote": "2025-12 부지 매입 발표",
+   "statusNote": "Site acquisition announced 2025-12",
    "facilityType": "Hyperscale cloud",
    "itLoad": null,
    "campusPower": {
     "mw": 354,
     "quality": "confirmed",
-    "note": "AirTrunk 발표 \"354MW+\""
+    "note": "AirTrunk: \"354MW+\""
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "A$50억 이상",
+    "text": "A$5bn+",
     "quality": "confirmed"
    },
    "powerSources": [],
@@ -407,25 +407,25 @@
   {
    "id": "au-mamre-road-syd4",
    "name": "Mamre Road Data Centre Campus (AirTrunk SYD4 \"Summit\")",
-   "operator": "ISPT/IFM Investors (부지) — AirTrunk 인수 예정 (보도)",
-   "country": "호주",
+   "operator": "ISPT/IFM Investors (site) — AirTrunk to acquire (reported)",
+   "country": "Australia",
    "location": "Kemps Creek, Sydney NSW",
    "latitude": -33.86,
    "longitude": 150.78,
    "locationApproximate": true,
    "status": "permitting",
-   "statusNote": "NSW 주요개발(SSD-92743706) 심사 중 — 제출의견 대응 단계. 호주 최초 1GW 초과 계획",
+   "statusNote": "NSW State Significant Development (SSD-92743706) under assessment — response to submissions stage. Australia's first planned campus above 1GW",
    "facilityType": "Hyperscale cloud",
    "itLoad": null,
    "campusPower": {
     "mw": 1200,
     "quality": "reported",
-    "note": "신청서 1GW, 수정안 최대 1.2GW (보도)"
+    "note": "1GW in application, up to 1.2GW in amended plan (reported)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "A$50억 이상 (보도)",
+    "text": "A$5bn+ (reported)",
     "quality": "reported"
    },
    "powerSources": [],
@@ -451,28 +451,28 @@
    "id": "au-nextdc-s4",
    "name": "NEXTDC S4 Sydney",
    "operator": "NEXTDC",
-   "country": "호주",
+   "country": "Australia",
    "location": "Horsley Park, Sydney NSW",
    "latitude": -33.85,
    "longitude": 150.85,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "2026-03 착공 (Multiplex). NSW 송전망 직접 연결 승인 1호",
+   "statusNote": "Construction started 2026-03 (Multiplex). First approved direct NSW transmission connection",
    "facilityType": "Hyperscale cloud",
    "itLoad": {
     "mw": 365,
     "quality": "confirmed",
-    "note": "NEXTDC 발표 최대 IT 용량 (이전 발표 350MW)"
+    "note": "NEXTDC stated maximum IT capacity (previously 350MW)"
    },
    "campusPower": null,
    "gridConnection": null,
    "operationalNow": null,
    "investment": null,
    "powerSources": [
-    "NSW 송전망 직접 연결"
+    "Direct NSW transmission connection"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2027년 중반 (1단계 건물 완공)",
+   "currentTargetDate": "Mid 2027 (Phase 1 building complete)",
    "sources": [
     {
      "title": "W.Media — S4 recycled water, 365MW IT",
@@ -491,21 +491,21 @@
   },
   {
    "id": "au-nextdc-s7",
-   "name": "NEXTDC S7 Sydney (OpenAI 협력)",
+   "name": "NEXTDC S7 Sydney (OpenAI partnership)",
    "operator": "NEXTDC",
-   "country": "호주",
+   "country": "Australia",
    "location": "Eastern Creek, Sydney NSW",
    "latitude": -33.8,
    "longitude": 150.84,
    "locationApproximate": true,
    "status": "permitting",
-   "statusNote": "NSW 주요개발(SSD-113934740) 환경영향평가 준비 단계. OpenAI와 MOU / 2026-10-21 NEXTDC 신규 개발·부지 매입 전면 보류 발표 — 본 프로젝트 영향 여부 미공개",
+   "statusNote": "NSW State Significant Development (SSD-113934740), EIS in preparation. MOU with OpenAI / 2026-10-21 NEXTDC paused all new developments and land acquisitions — impact on this project not disclosed",
    "facilityType": "AI",
    "itLoad": null,
    "campusPower": {
     "mw": 612,
     "quality": "reported",
-    "note": "인허가 서류 612MW (NEXTDC 650MW 언급)"
+    "note": "Planning documents 612MW (NEXTDC mentions 650MW)"
    },
    "gridConnection": null,
    "operationalNow": null,
@@ -528,24 +528,24 @@
     }
    ],
    "lastVerified": "2026-11-10",
-   "tenant": "OpenAI (MOU, 확정 계약 아님)"
+   "tenant": "OpenAI (MOU, not a binding contract)"
   },
   {
    "id": "au-nextdc-m3",
    "name": "NEXTDC M3 Melbourne",
    "operator": "NEXTDC",
-   "country": "호주",
+   "country": "Australia",
    "location": "West Footscray, Melbourne VIC",
    "latitude": -37.8,
    "longitude": 144.87,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 — 2026-10-21 NEXTDC 발표: Jemena 66kV 공사 중단(2026-09, 2027-02 이전 재개 불가)으로 추가 그리드 공급이 FY2028로 지연",
+   "statusNote": "Partially operational — NEXTDC (2026-10-21): Jemena 66kV works halted (2026-09, cannot resume before 2027-02), delaying additional grid supply to FY2028",
    "facilityType": "Hyperscale cloud",
    "itLoad": {
     "mw": 225,
     "quality": "confirmed",
-    "note": "NEXTDC 발표 계획 용량"
+    "note": "NEXTDC stated planned capacity"
    },
    "campusPower": null,
    "gridConnection": null,
@@ -553,7 +553,7 @@
    "investment": null,
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "FY2028 (추가 전력 공급)",
+   "currentTargetDate": "FY2028 (additional power supply)",
    "sources": [
     {
      "title": "Commercial Property Marketing — DCs Australia 2026",
@@ -574,24 +574,24 @@
    "id": "au-nextdc-m4",
    "name": "NEXTDC M4 Melbourne",
    "operator": "NEXTDC",
-   "country": "호주",
+   "country": "Australia",
    "location": "Port Melbourne VIC",
    "latitude": -37.83,
    "longitude": 144.93,
    "locationApproximate": true,
    "status": "approved",
-   "statusNote": "2026-01-19 개발 승인 / 2026-10-21 NEXTDC 신규 개발·부지 매입 전면 보류 발표 — 본 프로젝트 영향 여부 미공개",
+   "statusNote": "Development approved 2026-01-19 / 2026-10-21 NEXTDC paused all new developments and land acquisitions — impact on this project not disclosed",
    "facilityType": "Hyperscale cloud",
    "itLoad": null,
    "campusPower": {
     "mw": 162,
     "quality": "reported",
-    "note": "보도 150~162MW"
+    "note": "Reported 150–162MW"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 A$20억 (보도)",
+    "text": "About A$2bn (reported)",
     "quality": "reported"
    },
    "powerSources": [],
@@ -617,24 +617,24 @@
    "id": "au-cdc-marsden-park",
    "name": "CDC Marsden Park",
    "operator": "CDC Data Centres",
-   "country": "호주",
+   "country": "Australia",
    "location": "Marsden Park, Sydney NSW",
    "latitude": -33.69,
    "longitude": 150.84,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "2024-10 착공, 2025-11 NSW 승인. 6개 건물",
+   "statusNote": "Construction started 2024-10, NSW approval 2025-11. 6 buildings",
    "facilityType": "Hyperscale cloud",
    "itLoad": {
     "mw": 504,
     "quality": "confirmed",
-    "note": "ICT 용량 504MW"
+    "note": "ICT capacity 504MW"
    },
    "campusPower": null,
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "A$31억",
+    "text": "A$3.1bn",
     "quality": "reported"
    },
    "powerSources": [],
@@ -656,19 +656,19 @@
    "id": "au-cdc-laverton",
    "name": "CDC Laverton",
    "operator": "CDC Data Centres",
-   "country": "호주",
+   "country": "Australia",
    "location": "Laverton North, Melbourne VIC",
    "latitude": -37.83,
    "longitude": 144.76,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "2025-02 착공. Campus One 150MW + Campus Two 300MW",
+   "statusNote": "Construction started 2025-02. Campus One 150MW + Campus Two 300MW",
    "facilityType": "Hyperscale cloud",
    "itLoad": null,
    "campusPower": {
     "mw": 450,
     "quality": "reported",
-    "note": "Campus One 150MW + Campus Two 300MW (CDC 부지 계획 400MW+)"
+    "note": "Campus One 150MW + Campus Two 300MW (CDC site plan 400MW+)"
    },
    "gridConnection": null,
    "operationalNow": null,
@@ -692,29 +692,29 @@
    "id": "au-cdc-maddington",
    "name": "CDC Perth (Maddington)",
    "operator": "CDC Data Centres",
-   "country": "호주",
+   "country": "Australia",
    "location": "Maddington, Perth WA",
    "latitude": -32.05,
    "longitude": 116.0,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "승인 완료, 건설중 — 서호주 최대 AI 데이터센터 계획",
+   "statusNote": "Approved, under construction — largest planned AI data centre in Western Australia",
    "facilityType": "Hyperscale cloud",
    "itLoad": null,
    "campusPower": {
     "mw": 200,
     "quality": "confirmed",
-    "note": "CDC 발표 \"최대 200MW+\""
+    "note": "CDC: \"up to 200MW+\""
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "1단계 A$4.15억",
+    "text": "Stage 1 A$415m",
     "quality": "confirmed"
    },
    "powerSources": [],
-   "originalTargetDate": "2026년 (1단계 가동)",
-   "currentTargetDate": "2026년 (1단계 가동 목표)",
+   "originalTargetDate": "2026 (Phase 1 operational)",
+   "currentTargetDate": "2026 (Phase 1 operational target)",
    "sources": [
     {
      "title": "W.Media — CDC WA largest AI campus",
@@ -735,31 +735,31 @@
    "id": "au-cdc-wagga",
    "name": "CDC Wagga Wagga (Gregadoo) Campus",
    "operator": "CDC Data Centres",
-   "country": "호주",
+   "country": "Australia",
    "location": "Gregadoo, Wagga Wagga NSW",
    "latitude": -35.19,
    "longitude": 147.39,
    "locationApproximate": true,
    "status": "announced",
-   "statusNote": "2026-09 구상 단계 — NSW SEARs 준비, 토지용도 변경 필요. 주민 반대 청원",
+   "statusNote": "Concept stage 2026-09 — NSW SEARs in preparation, rezoning required. Community opposition petition",
    "facilityType": "Hyperscale cloud",
    "itLoad": null,
    "campusPower": null,
    "gridConnection": {
     "mw": 1400,
     "quality": "confirmed",
-    "note": "총 전력 수요 최대 1.4GW (scoping report)"
+    "note": "Total power demand up to 1.4GW (scoping report)"
    },
    "operationalNow": null,
    "investment": {
-    "text": "약 A$150억 (GST 제외)",
+    "text": "About A$15bn (excl. GST)",
     "quality": "confirmed"
    },
    "powerSources": [
-    "Transgrid Wagga 330kV 변전소 인접"
+    "Next to Transgrid Wagga 330kV substation"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2030년 (보도)",
+   "currentTargetDate": "2030 (reported)",
    "sources": [
     {
      "title": "NSW Planning Portal — Ashfords Road Data Centre",
@@ -780,29 +780,29 @@
    "id": "au-iren-redbank",
    "name": "IREN Redbank",
    "operator": "IREN",
-   "country": "호주",
+   "country": "Australia",
    "location": "Gregadoo, Wagga Wagga NSW",
    "latitude": -35.18,
    "longitude": 147.37,
    "locationApproximate": true,
    "status": "announced",
-   "statusNote": "2026-10 초기 계획 발표 — 전력 미확보 (보도)",
+   "statusNote": "Early plan announced 2026-10 — power not yet secured (reported)",
    "facilityType": "AI",
    "itLoad": null,
    "campusPower": {
     "mw": 900,
     "quality": "confirmed",
-    "note": "IREN 발표"
+    "note": "IREN announcement"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "A$100억 이상 (보도)",
+    "text": "A$10bn+ (reported)",
     "quality": "reported"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2029년 (초기 가동 목표)",
+   "currentTargetDate": "2029 (initial operation target)",
    "sources": [
     {
      "title": "DCD — IREN 900MW Wagga Wagga",
@@ -823,29 +823,29 @@
    "id": "au-iren-bundey",
    "name": "IREN Bundey",
    "operator": "IREN",
-   "country": "호주",
+   "country": "Australia",
    "location": "Bundey, South Australia",
    "latitude": -33.93,
    "longitude": 139.33,
    "locationApproximate": true,
    "status": "announced",
-   "statusNote": "2026-06 송전 연결 계약 체결 (330kV 4회선, 망 증강 불필요). 인허가 대기",
+   "statusNote": "Transmission connection agreement signed 2026-06 (4 × 330kV circuits, no network augmentation needed). Awaiting planning approval",
    "facilityType": "AI",
    "itLoad": null,
    "campusPower": null,
    "gridConnection": {
     "mw": 800,
     "quality": "confirmed",
-    "note": "송전 연결 계약 기준"
+    "note": "Per transmission connection agreement"
    },
    "operationalNow": null,
    "investment": null,
    "powerSources": [
-    "ElectraNet 330kV 송전망",
-    "SA 재생에너지 (주 목표 2027년 순 100%)"
+    "ElectraNet 330kV transmission",
+    "SA renewables (state target net 100% by 2027)"
    ],
-   "originalTargetDate": "2028년 (가동 시작)",
-   "currentTargetDate": "2028년 (가동 시작)",
+   "originalTargetDate": "2028 (start of operation)",
+   "currentTargetDate": "2028 (start of operation)",
    "sources": [
     {
      "title": "pv magazine — IREN 800MW SA",
@@ -861,33 +861,33 @@
   {
    "id": "au-zerra-wddp",
    "name": "Western Downs Digital Park",
-   "operator": "Zerra DC (Dexus·Macquarie 참여)",
-   "country": "호주",
-   "location": "Kogan (Dalby 인근), Queensland",
+   "operator": "Zerra DC (with Dexus and Macquarie)",
+   "country": "Australia",
+   "location": "Kogan (near Dalby), Queensland",
    "latitude": -26.98,
    "longitude": 151.0,
    "locationApproximate": true,
    "status": "permitting",
-   "statusNote": "2026-08 개발신청(DA) 제출 — 시의회·FIRB 승인 대기. Anthropic 1단계 임차 계약 (추론용)",
+   "statusNote": "Development application lodged 2026-08 — awaiting council and FIRB approval. Anthropic leasing Phase 1 (inference)",
    "facilityType": "AI",
    "itLoad": null,
    "campusPower": {
     "mw": 2160,
     "quality": "reported",
-    "note": "최대 2.16GW 계획 (DA: 360MW 건물 4동)"
+    "note": "Up to 2.16GW planned (DA: four 360MW buildings)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 A$319억 (보도)",
+    "text": "About A$31.9bn (reported)",
     "quality": "reported"
    },
    "powerSources": [
-    "기존 전력망 연결",
-    "재생에너지 PPA (보도)"
+    "Existing grid connection",
+    "Renewable PPA (reported)"
    ],
-   "originalTargetDate": "2027년 (1단계)",
-   "currentTargetDate": "2027년 (1단계, 인허가 조건부)",
+   "originalTargetDate": "2027 (Phase 1)",
+   "currentTargetDate": "2027 (Phase 1, subject to approvals)",
    "sources": [
     {
      "title": "IT Brief — Anthropic leases first stage",
@@ -903,25 +903,25 @@
     }
    ],
    "lastVerified": "2026-11-10",
-   "tenant": "Anthropic (1단계)"
+   "tenant": "Anthropic (Phase 1)"
   },
   {
    "id": "au-microsoft-kemps-creek",
    "name": "Microsoft Kemps Creek",
    "operator": "Microsoft",
-   "country": "호주",
+   "country": "Australia",
    "location": "Kemps Creek, Sydney NSW",
    "latitude": -33.87,
    "longitude": 150.79,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (RenewMap)",
+   "statusNote": "Under construction (RenewMap)",
    "facilityType": "Hyperscale cloud",
    "itLoad": null,
    "campusPower": {
     "mw": 190,
     "quality": "reported",
-    "note": "RenewMap 집계"
+    "note": "RenewMap tally"
    },
    "gridConnection": null,
    "operationalNow": null,
@@ -941,19 +941,19 @@
    "id": "au-cdc-kc1",
    "name": "CDC Kemps Creek KC1",
    "operator": "CDC Data Centres",
-   "country": "호주",
+   "country": "Australia",
    "location": "Kemps Creek, Sydney NSW",
    "latitude": -33.88,
    "longitude": 150.77,
    "locationApproximate": true,
    "status": "announced",
-   "statusNote": "NSW SEARs 신청 단계",
+   "statusNote": "NSW SEARs requested",
    "facilityType": "Hyperscale cloud",
    "itLoad": null,
    "campusPower": {
     "mw": 144,
     "quality": "confirmed",
-    "note": "SEARs 신청서 144MW"
+    "note": "SEARs request: 144MW"
    },
    "gridConnection": null,
    "operationalNow": null,
@@ -973,13 +973,13 @@
    "id": "au-greensquare-wai1",
    "name": "GreenSquareDC WAi1 (Hazelmere)",
    "operator": "GreenSquareDC",
-   "country": "호주",
+   "country": "Australia",
    "location": "Hazelmere, Perth WA",
    "latitude": -31.92,
    "longitude": 116.0,
    "locationApproximate": true,
    "status": "cancelled",
-   "statusNote": "2026-05 신청 철회",
+   "statusNote": "Application withdrawn 2026-05",
    "facilityType": "Hyperscale cloud",
    "itLoad": null,
    "campusPower": {
@@ -1006,28 +1006,28 @@
    "campusPower": {
     "mw": 100,
     "quality": "confirmed",
-    "note": "초기 계획 용량. 1GW 확장 계획(SKT, 2026-07)은 미확정"
+    "note": "Initial planned capacity. 1GW expansion plan (SKT, 2026-07) not confirmed"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 7조원 (약 US$52억, 보도)",
+    "text": "About ₩7tn (about US$5.2bn, reported)",
     "quality": "reported"
    },
    "powerSources": [],
-   "originalTargetDate": "2027년 (단계적 가동)",
-   "currentTargetDate": "2027년 하반기 (가동 시작)",
+   "originalTargetDate": "2027 (phased operation)",
+   "currentTargetDate": "H2 2027 (start of operation)",
    "lastVerified": "2026-11-10",
    "id": "kr-sk-aws-ulsan",
    "name": "SK Telecom–AWS Ulsan AI Data Center",
    "operator": "SK Telecom / SK Group",
    "tenant": "AWS",
-   "country": "한국",
+   "country": "South Korea",
    "location": "Ulsan",
    "latitude": 35.54,
    "longitude": 129.31,
    "status": "construction",
-   "statusNote": "2025-08-29 착공. 2026-07 SKT가 1GW 확장 계획 발표, 2026-09-13 최태원 회장 \"900MW 근접\" 언급 (확장 공식 발표 전)",
+   "statusNote": "Construction started 2025-08-29. SKT announced 1GW expansion plan 2026-07; Chairman Chey Tae-won said \"close to 900MW\" on 2026-09-13 (before formal announcement)",
    "facilityType": "AI",
    "sources": [
     {
@@ -1050,27 +1050,27 @@
    "campusPower": {
     "mw": 3000,
     "quality": "reported",
-    "note": "계획 총 전력 3GW"
+    "note": "Planned total power 3GW"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$350억 (보도)",
+    "text": "About US$35bn (reported)",
     "quality": "reported"
    },
    "powerSources": [],
-   "originalTargetDate": "2028년 (완공)",
-   "currentTargetDate": "2028년 (완공)",
+   "originalTargetDate": "2028 (completion)",
+   "currentTargetDate": "2028 (completion)",
    "lastVerified": "2026-11-10",
    "id": "kr-sfr-jeonnam",
    "name": "Jeonnam AI Data Center (Stock Farm Road)",
    "operator": "Stock Farm Road (SFR)",
-   "country": "한국",
-   "location": "전라남도 (서남부, 세부 부지 미공개)",
+   "country": "South Korea",
+   "location": "Jeollanam-do (south-west, exact site not disclosed)",
    "latitude": 34.8,
    "longitude": 126.6,
    "status": "announced",
-   "statusNote": "2025-02 전라남도-SFR MOU. 2026-11 기준 착공 확인 안 됨",
+   "statusNote": "2025-02 Jeollanam-do–SFR MOU. No construction confirmed as of 2026-11",
    "facilityType": "AI",
    "sources": [
     {
@@ -1089,27 +1089,27 @@
    "campusPower": {
     "mw": 270,
     "quality": "reported",
-    "note": "캠퍼스 계획 총 용량"
+    "note": "Planned total campus capacity"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "AI 팩토리 확장 US$100억 (Brookfield 최대 $90억 + Nvidia $10억 등, 보도)",
+    "text": "AI factory expansion US$10bn (Brookfield up to $9bn + Nvidia $1bn etc., reported)",
     "quality": "reported"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028년 (AI 팩토리 200MW)",
+   "currentTargetDate": "2028 (AI factory 200MW)",
    "lastVerified": "2026-11-10",
    "id": "kr-naver-gak-sejong",
    "name": "NAVER Gak Sejong",
    "operator": "NAVER Cloud",
-   "country": "한국",
+   "country": "South Korea",
    "location": "Sejong",
    "latitude": 36.48,
    "longitude": 127.29,
    "status": "operational",
-   "statusNote": "2023-11 1단계 개소(부분 가동). 2026-10-29 Brookfield 최대 US$90억 금융 계약 — AI 팩토리 55MW(2027 상반기)→100MW(2027 말)→200MW(2028) 확장 예정",
+   "statusNote": "Phase 1 opened 2023-11 (partial). 2026-10-29 Brookfield financing of up to US$9bn — AI factory expansion 55MW (H1 2027) → 100MW (end 2027) → 200MW (2028)",
    "facilityType": "Hyperscale cloud",
    "sources": [
     {
@@ -1128,7 +1128,7 @@
    "campusPower": {
     "mw": 300,
     "quality": "reported",
-    "note": "50MW 건물 6동"
+    "note": "Six 50MW buildings"
    },
    "gridConnection": null,
    "operationalNow": null,
@@ -1140,12 +1140,12 @@
    "id": "kr-nfd-dangjin",
    "name": "NFD Korea Dangjin Campus",
    "operator": "NFD Korea",
-   "country": "한국",
+   "country": "South Korea",
    "location": "Dangjin, Chungcheongnam-do",
    "latitude": 36.89,
    "longitude": 126.63,
    "status": "approved",
-   "statusNote": "2026-06 건축 허가 및 KEPCO 전력 계약 확보 (보도). 착공일 미공개",
+   "statusNote": "Building permit and KEPCO power agreement secured 2026-06 (reported). Construction start not disclosed",
    "facilityType": "Hyperscale cloud",
    "sources": [
     {
@@ -1160,27 +1160,27 @@
    "campusPower": {
     "mw": 150,
     "quality": "reported",
-    "note": "초기 약 150MW, 향후 400MW 이상 가능"
+    "note": "About 150MW initially, potentially 400MW+ later"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "부지 매입 약 ¥1,000억 (보도)",
+    "text": "Site acquisition about ¥100bn (reported)",
     "quality": "reported"
    },
    "powerSources": [],
-   "originalTargetDate": "2025년 (가동)",
-   "currentTargetDate": "2027 회계연도 (완공)",
+   "originalTargetDate": "2025 (operational)",
+   "currentTargetDate": "FY2027 (completion)",
    "lastVerified": "2026-11-10",
    "id": "jp-softbank-sakai",
    "name": "SoftBank Osaka Sakai AI Data Center",
    "operator": "SoftBank Corp.",
-   "country": "일본",
+   "country": "Japan",
    "location": "Sakai, Osaka",
    "latitude": 34.57,
    "longitude": 135.46,
    "status": "construction",
-   "statusNote": "옛 Sharp Sakai LCD 공장 부지 전환. 2026-05 SoftBank가 완공 목표를 2027 회계연도로 제시 (당초 2025년 가동 계획에서 지연)",
+   "statusNote": "Conversion of former Sharp Sakai LCD plant. In 2026-05 SoftBank set completion target at FY2027 (delayed from original 2025 plan)",
    "facilityType": "AI",
    "sources": [
     {
@@ -1203,27 +1203,27 @@
    "campusPower": {
     "mw": 300,
     "quality": "reported",
-    "note": "장기 계획 (SoftBank 통합보고서 2024). 1단계 50MW"
+    "note": "Long-term plan (SoftBank Integrated Report 2024). Phase 1 50MW"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "¥650억 (경제산업성 보조금 최대 ¥300억, 보도)",
+    "text": "¥65bn (METI subsidy up to ¥30bn, reported)",
     "quality": "reported"
    },
    "powerSources": [],
-   "originalTargetDate": "2026년 (1단계 완공)",
-   "currentTargetDate": "2026 회계연도 (~2027-03, 1단계 가동)",
+   "originalTargetDate": "2026 (Phase 1 complete)",
+   "currentTargetDate": "FY2026 (to 2027-03, Phase 1 operational)",
    "lastVerified": "2026-11-10",
    "id": "jp-softbank-tomakomai",
    "name": "SoftBank Hokkaido Tomakomai AI Data Center",
    "operator": "SoftBank Corp.",
-   "country": "일본",
+   "country": "Japan",
    "location": "Tomakomai, Hokkaido",
    "latitude": 42.63,
    "longitude": 141.6,
    "status": "construction",
-   "statusNote": "2025-04 착공. 2026-02 공정률 약 60~70% (설계·행정 포함, SoftBank)",
+   "statusNote": "Construction started 2025-04. About 60–70% complete as of 2026-02 (incl. design/admin, SoftBank)",
    "facilityType": "AI",
    "sources": [
     {
@@ -1241,7 +1241,7 @@
    "itLoad": {
     "mw": 300,
     "quality": "reported",
-    "note": "최종 확장 시 300MW 이상"
+    "note": "300MW+ at final build-out"
    },
    "campusPower": null,
    "gridConnection": null,
@@ -1254,12 +1254,12 @@
    "id": "jp-airtrunk-tok1",
    "name": "AirTrunk TOK1",
    "operator": "AirTrunk",
-   "country": "일본",
-   "location": "Inzai, Chiba (Tokyo 동부)",
+   "country": "Japan",
+   "location": "Inzai, Chiba (east of Tokyo)",
    "latitude": 35.83,
    "longitude": 140.15,
    "status": "operational",
-   "statusNote": "2021-11 개소, 부분 가동. 2026-10 US$12.1억 그린론 — 100MW 이상 IT 확장 공사 착수",
+   "statusNote": "Opened 2021-11, partially operational. 2026-10 US$1.21bn green loan — 100MW+ IT expansion started",
    "facilityType": "Hyperscale cloud",
    "sources": [
     {
@@ -1278,30 +1278,30 @@
    "campusPower": {
     "mw": 400,
     "quality": "reported",
-    "note": "최대 400MW"
+    "note": "Up to 400MW"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "US$150억 이상 (약 2.3조엔, 보도)",
+    "text": "US$15bn+ (about ¥2.3tn, reported)",
     "quality": "reported"
    },
    "powerSources": [
-    "JERA Chiba 화력발전소 부지 전력"
+    "Power from JERA Chiba thermal power station site"
    ],
-   "originalTargetDate": "2028년경 (가동)",
-   "currentTargetDate": "2028년경 (가동)",
+   "originalTargetDate": "Around 2028 (operational)",
+   "currentTargetDate": "Around 2028 (operational)",
    "lastVerified": "2026-11-10",
    "id": "jp-jera-chiba-ai",
    "name": "JERA Chiba AI Data Center",
    "operator": "RHAELM / JERA",
-   "tenant": "Dell Technologies (컴퓨팅 공급)",
-   "country": "일본",
-   "location": "JERA Chiba 화력발전소, Chiba",
+   "tenant": "Dell Technologies (compute supplier)",
+   "country": "Japan",
+   "location": "JERA Chiba thermal power station, Chiba",
    "latitude": 35.58,
    "longitude": 140.11,
    "status": "announced",
-   "statusNote": "Dell·JERA·RHAELM MOU 체결 (계획 단계). Apollo가 금융 파트너 예정",
+   "statusNote": "Dell–JERA–RHAELM MOU signed (planning stage). Apollo expected as financing partner",
    "facilityType": "AI",
    "sources": [
     {
@@ -1316,24 +1316,24 @@
    "campusPower": {
     "mw": 3100,
     "quality": "reported",
-    "note": "전체 3.1GW, 1단계 약 400MW"
+    "note": "Total 3.1GW, Phase 1 ~400MW"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": null,
    "powerSources": [],
-   "originalTargetDate": "2028년 말 (부지 서비스 준비)",
-   "currentTargetDate": "2028년 말 (부지 서비스 준비)",
+   "originalTargetDate": "End 2028 (site services ready)",
+   "currentTargetDate": "End 2028 (site services ready)",
    "lastVerified": "2026-11-10",
    "id": "jp-gigastream-toyama",
    "name": "GigaStream Toyama Data Centre Hub",
    "operator": "GigaStream Toyama",
-   "country": "일본",
+   "country": "Japan",
    "location": "Nanto, Toyama",
    "latitude": 36.56,
    "longitude": 136.88,
    "status": "announced",
-   "statusNote": "2025-12 Nanto시·GigaStream 계획 발표 (Reuters). 1단계 약 400MW",
+   "statusNote": "Nanto City–GigaStream plan announced 2025-12 (Reuters). Phase 1 ~400MW",
    "facilityType": "Hyperscale cloud",
    "sources": [
     {
@@ -1348,12 +1348,12 @@
    "campusPower": {
     "mw": 1000,
     "quality": "reported",
-    "note": "최대 1GW"
+    "note": "Up to 1GW"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "US$120억 (보도)",
+    "text": "US$12bn (reported)",
     "quality": "reported"
    },
    "powerSources": [],
@@ -1364,12 +1364,12 @@
    "name": "GMI Cloud Kagoshima Sovereign AI Campus",
    "operator": "Kai Shin Digital Infrastructure (CDIB Capital / Shinetsu Science Industry JV)",
    "tenant": "GMI Cloud",
-   "country": "일본",
+   "country": "Japan",
    "location": "Satsumasendai, Kagoshima",
    "latitude": 31.81,
    "longitude": 130.3,
    "status": "announced",
-   "statusNote": "계획 발표. 2026년 말 착공 예정 (보도). 전력 조달 미공개",
+   "statusNote": "Plan announced. Construction expected to start end 2026 (reported). Power supply not disclosed",
    "facilityType": "AI",
    "sources": [
     {
@@ -1384,25 +1384,25 @@
    "campusPower": {
     "mw": 100,
     "quality": "confirmed",
-    "note": "Foxconn 발표 목표 총 전력"
+    "note": "Foxconn stated target total power"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": null,
    "powerSources": [],
-   "originalTargetDate": "2026년 (전체 구축, 보도)",
-   "currentTargetDate": "2026년 (전체 구축, 보도)",
+   "originalTargetDate": "2026 (full build-out, reported)",
+   "currentTargetDate": "2026 (full build-out, reported)",
    "lastVerified": "2026-11-10",
    "id": "tw-foxconn-kaohsiung",
    "name": "Foxconn–NVIDIA AI Supercomputing Center",
    "operator": "Foxconn (Hon Hai)",
-   "tenant": "NVIDIA 협력",
-   "country": "대만",
+   "tenant": "NVIDIA partnership",
+   "country": "Taiwan",
    "location": "Kaohsiung",
    "latitude": 22.63,
    "longitude": 120.3,
    "status": "construction",
-   "statusNote": "2025-05 Computex 발표. 단계적 구축 — 1단계(약 20MW) 가오슝. 후속 부지는 전력 여건에 따라 결정",
+   "statusNote": "Announced at Computex 2025-05. Phased build — Phase 1 (~20MW) in Kaohsiung; later sites depend on power availability",
    "facilityType": "AI",
    "sources": [
     {
@@ -1421,24 +1421,24 @@
    "campusPower": {
     "mw": 1000,
     "quality": "reported",
-    "note": "1GW (Bloomberg 보도)"
+    "note": "1GW (reported by Bloomberg)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": null,
    "powerSources": [],
-   "originalTargetDate": "2027년 말~2028년 초 (부분 가동)",
-   "currentTargetDate": "2027년 말~2028년 초 (부분 가동)",
+   "originalTargetDate": "Late 2027–early 2028 (partial operation)",
+   "currentTargetDate": "Late 2027–early 2028 (partial operation)",
    "lastVerified": "2026-11-10",
    "id": "cn-deepseek-ulanqab",
    "name": "DeepSeek Ulanqab AI Data Center",
    "operator": "DeepSeek",
-   "country": "중국",
+   "country": "China",
    "location": "Ulanqab, Inner Mongolia",
    "latitude": 40.99,
    "longitude": 113.13,
    "status": "announced",
-   "statusNote": "2026 Bloomberg 보도 — 자체 구축 계획 (공식 발표 없음)",
+   "statusNote": "Reported by Bloomberg in 2026 — self-build plan (no official announcement)",
    "facilityType": "AI",
    "sources": [
     {
@@ -1457,7 +1457,7 @@
    "campusPower": {
     "mw": 1200,
     "quality": "reported",
-    "note": "버지니아 SCC 제출 서류 기준"
+    "note": "Per Virginia SCC filings"
    },
    "gridConnection": null,
    "operationalNow": null,
@@ -1471,12 +1471,12 @@
    "id": "us-google-goochland",
    "name": "Google West Creek Campus (Goochland)",
    "operator": "Google",
-   "country": "미국",
+   "country": "United States",
    "location": "West Creek Business Park, Goochland County, Virginia",
    "latitude": 37.6,
    "longitude": -77.65,
    "status": "announced",
-   "statusNote": "2026-10-28 카운티가 Google을 사용자로 공개. 기술 오버레이 지구 내 by-right(공청회 불필요), Google 실사 중. 오버레이 지구 관련 주민 소송 진행",
+   "statusNote": "County named Google as end user on 2026-10-28. By-right in technology overlay district (no public hearing needed); Google in due diligence. Residents' lawsuit over the overlay district ongoing",
    "facilityType": "Hyperscale cloud",
    "sources": [
     {
@@ -1495,15 +1495,15 @@
    "campusPower": {
     "mw": 6000,
     "quality": "reported",
-    "note": "계획 전력 부하 6GW, 건물 9동"
+    "note": "Planned power load 6GW, 9 buildings"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": null,
    "powerSources": [
-    "AEPCO 도매 전력 (SSVEC 소매)",
+    "AEPCO wholesale power (SSVEC retail)",
     "BESS",
-    "가스 백업 발전기 90MW"
+    "90MW gas backup generators"
    ],
    "originalTargetDate": null,
    "currentTargetDate": null,
@@ -1511,12 +1511,12 @@
    "id": "us-cochise-supercomputer",
    "name": "Cochise Supercomputer Campus",
    "operator": "Tombstone Resources LLC",
-   "country": "미국",
+   "country": "United States",
    "location": "Cochise, Cochise County, Arizona",
    "latitude": 32.11,
    "longitude": -109.92,
    "status": "permitting",
-   "statusNote": "2026-11-04 첫 주민설명회, 2026-12-09 카운티 계획·구역위원회 공청회 예정. 반대 청원 1,000명 이상",
+   "statusNote": "First community meeting 2026-11-04; county planning & zoning hearing scheduled 2026-12-09. Opposition petition 1,000+ signatures",
    "facilityType": "AI",
    "sources": [
     {
@@ -1531,12 +1531,12 @@
    "campusPower": {
     "mw": 1000,
     "quality": "reported",
-    "note": "\"단일 부지 약 1GW\" (Adani Group 이사 발언). Google은 MW 미공개, \"기가와트급\""
+    "note": "\"About 1GW on a single site\" (Adani Group director). Google has not disclosed MW; described as \"gigawatt-scale\""
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "US$150억 (2026~2030)",
+    "text": "US$15bn (2026–2030)",
     "quality": "confirmed"
    },
    "powerSources": [],
@@ -1545,13 +1545,13 @@
    "lastVerified": "2026-11-10",
    "id": "in-google-vizag",
    "name": "Google India AI Hub (Visakhapatnam)",
-   "operator": "Google (AdaniConneX · Nxtra by Airtel 시공)",
-   "country": "인도",
+   "operator": "Google (built by AdaniConneX and Nxtra by Airtel)",
+   "country": "India",
    "location": "Tarluvada, Visakhapatnam, Andhra Pradesh",
    "latitude": 17.88,
    "longitude": 83.39,
    "status": "construction",
-   "statusNote": "2025-10 발표, 2026-04-28 착공 (Google 발표). 데이터센터 캠퍼스 3곳으로 구성",
+   "statusNote": "Announced 2025-10, construction started 2026-04-28 (Google). Three data centre campuses",
    "facilityType": "AI",
    "sources": [
     {
@@ -1569,28 +1569,28 @@
    "itLoad": {
     "mw": 1250,
     "quality": "reported",
-    "note": "IT 전력 1.25GW (단계별)"
+    "note": "IT power 1.25GW (phased)"
    },
    "campusPower": null,
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 ₹1.77 lakh crore (보도)",
+    "text": "About ₹1.77 lakh crore (reported)",
     "quality": "reported"
    },
    "powerSources": [],
-   "originalTargetDate": "2027~2036년 (5단계)",
-   "currentTargetDate": "2027~2036년 (5단계)",
+   "originalTargetDate": "2027–2036 (5 phases)",
+   "currentTargetDate": "2027–2036 (5 phases)",
    "lastVerified": "2026-11-10",
    "id": "in-rmz-colt-vizag",
    "name": "RMZ–Colt DCS Visakhapatnam Hyperscale Campus",
    "operator": "RMZ Group / Colt DCS (50:50 JV)",
-   "country": "인도",
+   "country": "India",
    "location": "Anandapuram, Visakhapatnam, Andhra Pradesh",
    "latitude": 17.9,
    "longitude": 83.37,
    "status": "approved",
-   "statusNote": "2026-08 안드라프라데시 주 투자촉진위원회(SIPC) 승인 (보도). 2027~2036년 5단계 개발",
+   "statusNote": "Andhra Pradesh SIPC approval 2026-08 (reported). Five-phase development 2027–2036",
    "facilityType": "Hyperscale cloud",
    "sources": [
     {
@@ -1605,14 +1605,14 @@
    "campusPower": {
     "mw": 168,
     "quality": "confirmed",
-    "note": "1단계 용량 (IT/전체 구분 미공개), 확장 옵션"
+    "note": "Phase 1 capacity (IT vs total not disclosed), with expansion option"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": null,
    "powerSources": [
-    "재생에너지",
-    "해수 담수화 냉각수"
+    "Renewables",
+    "Desalinated seawater cooling"
    ],
    "originalTargetDate": null,
    "currentTargetDate": null,
@@ -1621,12 +1621,12 @@
    "name": "Reliance–Meta Jamnagar AI Data Centre",
    "operator": "Reliance Industries",
    "tenant": "Meta",
-   "country": "인도",
+   "country": "India",
    "location": "Jamnagar, Gujarat",
    "latitude": 22.47,
    "longitude": 70.06,
    "status": "announced",
-   "statusNote": "2026-06-09 Reliance 건설·Meta 임차 계약 발표 (Meta). 착공 여부 미공개",
+   "statusNote": "Reliance to build, Meta to lease — announced 2026-06-09 (Meta). Construction status not disclosed",
    "facilityType": "AI",
    "sources": [
     {
@@ -1641,13 +1641,13 @@
    "campusPower": {
     "mw": 1000,
     "quality": "reported",
-    "note": "1GW 모듈형"
+    "note": "1GW modular"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": null,
    "powerSources": [
-    "태양광 약 6GWp (계획)"
+    "About 6GWp solar (planned)"
    ],
    "originalTargetDate": null,
    "currentTargetDate": null,
@@ -1655,12 +1655,12 @@
    "id": "in-reliance-andhra",
    "name": "Reliance Andhra Pradesh AI Data Centre",
    "operator": "Reliance Industries",
-   "country": "인도",
-   "location": "Andhra Pradesh (세부 부지 미공개)",
+   "country": "India",
+   "location": "Andhra Pradesh (exact site not disclosed)",
    "latitude": 16.5,
    "longitude": 80.6,
    "status": "announced",
-   "statusNote": "2025-11-14 안드라프라데시 주정부와 MOU (Jamnagar 캠퍼스의 쌍둥이 계획)",
+   "statusNote": "MOU with Andhra Pradesh government 2025-11-14 (twin of the Jamnagar campus)",
    "facilityType": "AI",
    "sources": [
     {
@@ -1675,12 +1675,12 @@
    "campusPower": {
     "mw": 1000,
     "quality": "reported",
-    "note": "최대 1GW"
+    "note": "Up to 1GW"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "최대 ₹70,000 crore (보도)",
+    "text": "Up to ₹70,000 crore (reported)",
     "quality": "reported"
    },
    "powerSources": [],
@@ -1689,13 +1689,13 @@
    "lastVerified": "2026-11-10",
    "id": "in-tcs-hypervault-hyderabad",
    "name": "TCS HyperVault Hyderabad AI Campus",
-   "operator": "HyperVault (TCS 자회사, TPG 공동투자)",
-   "country": "인도",
+   "operator": "HyperVault (TCS subsidiary, co-invested by TPG)",
+   "country": "India",
    "location": "Hyderabad, Telangana",
    "latitude": 17.39,
    "longitude": 78.49,
    "status": "announced",
-   "statusNote": "2026-09 264에이커 부지 확보, 수요에 따라 단계 개발 (보도)",
+   "statusNote": "264-acre site secured 2026-09, phased development based on demand (reported)",
    "facilityType": "AI",
    "sources": [
     {
@@ -1709,7 +1709,7 @@
    "itLoad": {
     "mw": 150,
     "quality": "reported",
-    "note": "JHB1 계획 용량"
+    "note": "JHB1 planned capacity"
    },
    "campusPower": null,
    "gridConnection": null,
@@ -1722,12 +1722,12 @@
    "id": "my-airtrunk-jhb1",
    "name": "AirTrunk JHB1",
    "operator": "AirTrunk",
-   "country": "말레이시아",
+   "country": "Malaysia",
    "location": "Johor Bahru, Johor",
    "latitude": 1.49,
    "longitude": 103.74,
    "status": "operational",
-   "statusNote": "2024-07 개소. 2026-04 기준 JHB1·JHB2 합계 IT 420MW 이상, 거의 100% 계약 (AirTrunk)",
+   "statusNote": "Opened 2024-07. As of 2026-04, JHB1+JHB2 exceed 420MW IT, almost 100% contracted (AirTrunk)",
    "facilityType": "Hyperscale cloud",
    "sources": [
     {
@@ -1745,13 +1745,13 @@
    "itLoad": {
     "mw": 280,
     "quality": "confirmed",
-    "note": "2개 캠퍼스 합계"
+    "note": "Two campuses combined"
    },
    "campusPower": null,
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "RM120억 (약 US$30억)",
+    "text": "RM12bn (about US$3bn)",
     "quality": "confirmed"
    },
    "powerSources": [],
@@ -1761,12 +1761,12 @@
    "id": "my-airtrunk-jhb3-jhb4",
    "name": "AirTrunk JHB3 · JHB4",
    "operator": "AirTrunk",
-   "country": "말레이시아",
+   "country": "Malaysia",
    "location": "Iskandar Puteri, Johor",
    "latitude": 1.43,
    "longitude": 103.64,
    "status": "announced",
-   "statusNote": "2026-04-30 신규 캠퍼스 2곳 발표. 일정 미공개",
+   "statusNote": "Two new campuses announced 2026-04-30. Timeline not disclosed",
    "facilityType": "Hyperscale cloud",
    "sources": [
     {
@@ -1780,28 +1780,28 @@
    "itLoad": {
     "mw": 166,
     "quality": "reported",
-    "note": "캠퍼스 총 용량"
+    "note": "Total campus capacity"
    },
    "campusPower": null,
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "그린 파이낸싱 최대 US$13.7억",
+    "text": "Green financing up to US$1.37bn",
     "quality": "reported"
    },
    "powerSources": [],
-   "originalTargetDate": "2027년 (1단계 완공)",
-   "currentTargetDate": "2027년 (1단계 완공)",
+   "originalTargetDate": "2027 (Phase 1 complete)",
+   "currentTargetDate": "2027 (Phase 1 complete)",
    "lastVerified": "2026-11-10",
    "id": "my-stt-johor",
    "name": "STT GDC Johor Campus",
    "operator": "ST Telemedia Global Data Centres",
-   "country": "말레이시아",
+   "country": "Malaysia",
    "location": "Nusa Cemerlang Industrial Park, Iskandar Puteri, Johor",
    "latitude": 1.42,
    "longitude": 103.62,
    "status": "construction",
-   "statusNote": "2025-02 착공. 2026-08 최대 US$13.7억 그린 파이낸싱 확보. 1단계 16MW",
+   "statusNote": "Construction started 2025-02. Up to US$1.37bn green financing secured 2026-08. Phase 1 16MW",
    "facilityType": "Colocation",
    "sources": [
     {
@@ -1816,7 +1816,7 @@
    "campusPower": {
     "mw": 360,
     "quality": "reported",
-    "note": "NVIDIA DSX AI Factory 캠퍼스"
+    "note": "NVIDIA DSX AI Factory campus"
    },
    "gridConnection": null,
    "operationalNow": null,
@@ -1824,19 +1824,19 @@
    "powerSources": [
     "PLN Batam (PPA 450MW)"
    ],
-   "originalTargetDate": "2027년 1분기 (가동 시작)",
-   "currentTargetDate": "2027년 1분기 (가동 시작)",
+   "originalTargetDate": "Q1 2027 (start of operation)",
+   "currentTargetDate": "Q1 2027 (start of operation)",
    "lastVerified": "2026-11-10",
    "id": "id-firmus-dayone-batam",
    "name": "Firmus–DayOne Batam AI Factory (Kabil)",
    "operator": "DayOne / Firmus Technologies",
-   "tenant": "NVIDIA 협력",
-   "country": "인도네시아",
+   "tenant": "NVIDIA partnership",
+   "country": "Indonesia",
    "location": "Kabil Tech Park, Batam",
    "latitude": 1.07,
    "longitude": 104.13,
    "status": "announced",
-   "statusNote": "2026-07 개발 합의 발표. DayOne–PLN Batam 450MW 전력구매계약 확보",
+   "statusNote": "Development agreement announced 2026-07. DayOne–PLN Batam 450MW power purchase agreement secured",
    "facilityType": "AI",
    "sources": [
     {
@@ -1850,28 +1850,28 @@
    "itLoad": {
     "mw": 144,
     "quality": "reported",
-    "note": "계획 용량"
+    "note": "Planned capacity"
    },
    "campusPower": null,
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "US$23억 (보도)",
+    "text": "US$2.3bn (reported)",
     "quality": "reported"
    },
    "powerSources": [],
-   "originalTargetDate": "2026년 12월 (1단계)",
-   "currentTargetDate": "2026년 12월 (1단계)",
+   "originalTargetDate": "December 2026 (Phase 1)",
+   "currentTargetDate": "December 2026 (Phase 1)",
    "lastVerified": "2026-11-10",
    "id": "id-edgnex-jakarta",
    "name": "EDGNEX Jakarta AI Data Centre",
    "operator": "EDGNEX (DAMAC)",
-   "country": "인도네시아",
+   "country": "Indonesia",
    "location": "Jakarta",
    "latitude": -6.2,
    "longitude": 106.85,
    "status": "construction",
-   "statusNote": "2025-03 부지 확보, 2025-06 초기 공사 단계 (보도, 이후 진척 미확인)",
+   "statusNote": "Site secured 2025-03, early works 2025-06 (reported; later progress unconfirmed)",
    "facilityType": "AI",
    "sources": [
     {
@@ -1886,13 +1886,13 @@
    "campusPower": {
     "mw": 300,
     "quality": "reported",
-    "note": "CTP1 확장 후. CTP2 포함 1GW 계획"
+    "note": "After CTP1 expansion. 1GW planned incl. CTP2"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": null,
    "powerSources": [
-    "수상 태양광 42.5MWp (2027 가동 예정)"
+    "42.5MWp floating solar (due 2027)"
    ],
    "originalTargetDate": null,
    "currentTargetDate": null,
@@ -1900,12 +1900,12 @@
    "id": "th-dayone-chonburi",
    "name": "DayOne Chonburi Tech Park (CTP1)",
    "operator": "DayOne / Amata Corp",
-   "country": "태국",
+   "country": "Thailand",
    "location": "Chonburi, Eastern Economic Corridor",
    "latitude": 13.4,
    "longitude": 101.0,
    "status": "construction",
-   "statusNote": "2025-11 CTP1 확장으로 300MW, CTP2 포함 1GW 전력 플랫폼 계획 (CTP2는 계획 단계)",
+   "statusNote": "2025-11: CTP1 expansion to 300MW; 1GW power platform planned incl. CTP2 (CTP2 at planning stage)",
    "facilityType": "Hyperscale cloud",
    "sources": [
     {
@@ -1919,13 +1919,13 @@
    "itLoad": {
     "mw": 200,
     "quality": "reported",
-    "note": "IT 부하"
+    "note": "IT load"
    },
    "campusPower": null,
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "₿460억 (약 US$14억)",
+    "text": "฿46bn (about US$1.4bn)",
     "quality": "reported"
    },
    "powerSources": [],
@@ -1935,12 +1935,12 @@
    "id": "th-skyline-damac-chachoengsao",
    "name": "Skyline Data Center (DAMAC) Chachoengsao",
    "operator": "Skyline Data Center and Cloud Services (DAMAC Group)",
-   "country": "태국",
+   "country": "Thailand",
    "location": "Chachoengsao",
    "latitude": 13.69,
    "longitude": 101.07,
    "status": "approved",
-   "statusNote": "2026-05 태국 투자청(BOI) 투자 승인 (인허가·착공 아님)",
+   "statusNote": "Thailand BOI investment approval 2026-05 (not a planning permit or construction start)",
    "facilityType": "Hyperscale cloud",
    "sources": [
     {
@@ -1954,35 +1954,35 @@
    "name": "OpenAI Stargate New Mexico",
    "operator": "Oracle",
    "tenant": "OpenAI",
-   "country": "미국",
+   "country": "United States",
    "location": "Doña Ana County, New Mexico",
    "latitude": 31.86,
    "longitude": -106.65,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 1750,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 2450,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$663억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$66.3bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Bloom Energy"
+    "Utility: Bloom Energy"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-12 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-12 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2001,7 +2001,7 @@
      "url": "https://www.oracle.com/news/announcement/oracle-borderplex-and-bloom-energy-to-power-project-jupiter-with-fuel-cell-technology-2026-04-27/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -2009,37 +2009,37 @@
    "name": "Anthropic-Amazon New Carlisle",
    "operator": "Amazon",
    "tenant": "Anthropic",
-   "country": "미국",
+   "country": "United States",
    "location": "New Carlisle, Indiana",
    "latitude": 41.705,
    "longitude": -86.484,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 1925,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 2310,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 1244,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-10-19 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-10-19)"
    },
    "investment": {
-    "text": "약 US$729억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$72.9bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-03 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-03 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2062,7 +2062,7 @@
      "url": "https://t.co/HsAO7oyKa2"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -2070,37 +2070,37 @@
    "name": "Colossus 2",
    "operator": "SpaceXAI",
    "tenant": "Anthropic, Cursor, SpaceXAI",
-   "country": "미국",
+   "country": "United States",
    "location": "Memphis, Tennessee",
    "latitude": 35.042,
    "longitude": -90.073,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 1531,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 2065,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 1276,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-06-15 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-06-15)"
    },
    "investment": {
-    "text": "약 US$580억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$58.0bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-02 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-02 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2131,7 +2131,7 @@
      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -2139,33 +2139,33 @@
    "name": "OpenAI Stargate Shackelford",
    "operator": "Oracle",
    "tenant": "OpenAI",
-   "country": "미국",
+   "country": "United States",
    "location": "Shackelford County, Texas",
    "latitude": 32.73,
    "longitude": -99.3,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 1400,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 1960,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$530억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$53.0bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-11 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-11 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2188,43 +2188,43 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026024094"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-qts-cedar-rapids",
    "name": "QTS Cedar Rapids",
-   "operator": "Meta (불확실)",
-   "tenant": "Meta (불확실)",
-   "country": "미국",
+   "operator": "Meta (speculative)",
+   "tenant": "Meta (speculative)",
+   "country": "United States",
    "location": "Fairfax, Iowa",
    "latitude": 41.915,
    "longitude": -91.78,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 1133,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 1587,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$429억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$42.9bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Alliant Energy"
+    "Utility: Alliant Energy"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-11 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-11 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2251,13 +2251,13 @@
      "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-openai-stargate-uae",
    "name": "OpenAI Stargate UAE",
-   "operator": "G42 (유력)",
+   "operator": "G42 (likely)",
    "tenant": "OpenAI",
    "country": "UAE",
    "location": "Abu Dhabi",
@@ -2265,27 +2265,27 @@
    "longitude": 54.6,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 1000,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 1400,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$379억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$37.9bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-01 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-01 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2304,7 +2304,7 @@
      "url": "https://www.bloomberg.com/news/articles/2025-10-09/us-approves-several-billion-dollars-of-nvidia-nvda-ai-chip-sales-to-uae"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -2312,33 +2312,33 @@
    "name": "OpenAI Stargate Michigan",
    "operator": "Oracle",
    "tenant": "OpenAI",
-   "country": "미국",
+   "country": "United States",
    "location": "Saline Township, Michigan",
    "latitude": 42.17,
    "longitude": -83.78,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 988,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 1383,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$374억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$37.4bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-12 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-12 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2365,7 +2365,7 @@
      "url": "https://www.thesalinebarn.com/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -2373,40 +2373,40 @@
    "name": "Meta Prometheus",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "New Albany, Ohio",
    "latitude": 40.085,
    "longitude": -82.799,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 1022,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 1328,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 612,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-08-31 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-08-31)"
    },
    "investment": {
-    "text": "약 US$387억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$38.7bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Williams",
-    "전력 공급사: American Electric Power"
+    "Utility: Williams",
+    "Utility: American Electric Power"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-07 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-07 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2425,7 +2425,7 @@
      "url": "https://drive.google.com/file/d/1OMbFbdNGPmfSkwVWqOAK-5pOufiKQBu1/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -2433,33 +2433,33 @@
    "name": "OpenAI Stargate Wisconsin",
    "operator": "Oracle",
    "tenant": "OpenAI",
-   "country": "미국",
+   "country": "United States",
    "location": "Port Washington, Wisconsin",
    "latitude": 43.39,
    "longitude": -87.87,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 902,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 1300,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$342억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$34.2bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-12 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-12 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2474,43 +2474,43 @@
      "url": "https://drive.google.com/file/d/1ft2ZzqAYZtsTqMwyML4eo_EFYuclVxE6/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-goodnight",
    "name": "Goodnight",
-   "operator": "Google (불확실)",
-   "tenant": "Google DeepMind (불확실)",
-   "country": "미국",
+   "operator": "Google (speculative)",
+   "tenant": "Google DeepMind (speculative)",
+   "country": "United States",
    "location": "Claude, Texas",
    "latitude": 35.097,
    "longitude": -101.381,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 1006,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 1294,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$381억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$38.1bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Serena"
+    "Utility: Serena"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-10 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-10 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2537,7 +2537,7 @@
      "url": "https://drive.google.com/file/d/1sI8t1MzjDTAEnn-yY4zv3SiiTCpruzSQ/view?usp=drive_link"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -2545,33 +2545,33 @@
    "name": "OpenAI Stargate Milam",
    "operator": "Softbank",
    "tenant": "OpenAI",
-   "country": "미국",
+   "country": "United States",
    "location": "Milam County, Texas",
    "latitude": 30.79,
    "longitude": -96.98,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 857,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 1200,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$325억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$32.5bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-12 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-12 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2590,41 +2590,41 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026017746"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-google-fort-wayne",
    "name": "Google Fort Wayne",
    "operator": "Google",
-   "tenant": "Google DeepMind (불확실)",
-   "country": "미국",
+   "tenant": "Google DeepMind (speculative)",
+   "country": "United States",
    "location": "Fort Wayne, Indiana",
    "latitude": 41.048,
    "longitude": -85.114,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 863,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 1035,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$327억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$32.7bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-06 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-06 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2647,47 +2647,47 @@
      "url": "https://citycouncildocuments.acfw.net/documents/download/2023-12-19/R-23-12-02.pdf"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-amazon-ridgeland",
    "name": "Amazon Ridgeland",
    "operator": "Amazon",
-   "tenant": "Anthropic (불확실)",
-   "country": "미국",
+   "tenant": "Anthropic (speculative)",
+   "country": "United States",
    "location": "Ridgeland, Mississippi",
    "latitude": 32.42,
    "longitude": -90.13,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 840,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 1008,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 273,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-05-15 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-05-15)"
    },
    "investment": {
-    "text": "약 US$318억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$31.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Entergy"
+    "Utility: Entergy"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-09 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-09 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2710,41 +2710,41 @@
      "url": "https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-crusoe-abilene-expansion",
    "name": "Crusoe Abilene Expansion",
    "operator": "Microsoft",
-   "tenant": "Microsoft (유력)",
-   "country": "미국",
+   "tenant": "Microsoft (likely)",
+   "country": "United States",
    "location": "Abilene, Texas",
    "latitude": 32.468,
    "longitude": -99.718,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 672,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 941,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$255억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$25.5bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-11 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-11 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2767,47 +2767,47 @@
      "url": "https://x.com/mustafasuleyman/status/2037547756320141587"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-microsoft-fairwater-atlanta",
    "name": "Microsoft Fairwater Atlanta",
    "operator": "Microsoft",
-   "tenant": "OpenAI (유력), Microsoft (유력)",
-   "country": "미국",
+   "tenant": "OpenAI (likely), Microsoft (likely)",
+   "country": "United States",
    "location": "Fayetteville, Georgia",
    "latitude": 33.468,
    "longitude": -84.481,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 636,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 859,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 859,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-06-14 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-06-14)"
    },
    "investment": {
-    "text": "약 US$241억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$24.1bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Georgia Power"
+    "Utility: Georgia Power"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-06 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-06 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2830,45 +2830,45 @@
      "url": "https://www.bloomberg.com/news/features/2024-12-08/georgia-s-blackstone-backed-qts-data-center-hits-resistance-over-ai-power-needs"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-amazon-madison-mega-site",
    "name": "Amazon Madison Mega Site",
    "operator": "Amazon",
-   "tenant": "Anthropic (불확실)",
-   "country": "미국",
+   "tenant": "Anthropic (speculative)",
+   "country": "United States",
    "location": "Canton, Mississippi",
    "latitude": 32.61,
    "longitude": -90.04,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 683,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 819,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 341,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-06-04 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-06-04)"
    },
    "investment": {
-    "text": "약 US$259억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$25.9bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-03 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-03 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2891,45 +2891,45 @@
      "url": "https://newsletter.semianalysis.com/p/amazons-ai-resurgence-aws-anthropics-multi-gigawatt-trainium-expansion"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-coreweave-helios",
    "name": "Coreweave Helios",
    "operator": "CoreWeave",
-   "tenant": "OpenAI (불확실)",
-   "country": "미국",
+   "tenant": "OpenAI (speculative)",
+   "country": "United States",
    "location": "Afton, Texas",
    "latitude": 33.772,
    "longitude": -100.802,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 528,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 800,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 200,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-08-30 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-08-30)"
    },
    "investment": {
-    "text": "약 US$200억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$20.0bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2029-01 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2029-01 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -2952,90 +2952,90 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025012175"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-vnet-bayin-ulanqab",
    "name": "VNET Bayin Ulanqab",
-   "operator": "ByteDance (불확실)",
-   "tenant": "ByteDance (불확실)",
-   "country": "중국",
+   "operator": "ByteDance (speculative)",
+   "tenant": "ByteDance (speculative)",
+   "country": "China",
    "location": "Ulanqab, Inner Mongolia",
    "latitude": 41.0,
    "longitude": 113.1,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 700,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 798,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 252,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-05-06 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-05-06)"
    },
    "investment": {
-    "text": "약 US$265억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$26.5bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-09 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-09 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-dayone-nusajaya",
    "name": "DayOne Nusajaya",
-   "operator": "미공개",
+   "operator": "Not disclosed",
    "tenant": null,
-   "country": "말레이시아",
+   "country": "Malaysia",
    "location": "Iskandar Puteri, Johor",
    "latitude": 1.42,
    "longitude": 103.64,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 473,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 662,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 662,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-10-02 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-10-02)"
    },
    "investment": {
-    "text": "약 US$179억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$17.9bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-10 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-10 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3058,90 +3058,90 @@
      "url": "https://www.ft.com/content/96fe9898-a3a4-4a33-be1d-da06bdb6cb2b"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-envision-galaxy-ulanqab",
    "name": "Envision Galaxy Ulanqab",
-   "operator": "미공개",
+   "operator": "Not disclosed",
    "tenant": null,
-   "country": "중국",
+   "country": "China",
    "location": "Ulanqab, Inner Mongolia",
    "latitude": 41.03,
    "longitude": 113.15,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 470,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 612,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 153,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-11-01 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-11-01)"
    },
    "investment": {
-    "text": "약 US$178억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$17.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-12 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-12 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-dayone-kempas",
    "name": "DayOne Kempas",
-   "operator": "미공개",
+   "operator": "Not disclosed",
    "tenant": null,
-   "country": "말레이시아",
+   "country": "Malaysia",
    "location": "Johor Bahru, Johor",
    "latitude": 1.54,
    "longitude": 103.71,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 422,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 590,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 590,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-10-01 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-10-01)"
    },
    "investment": {
-    "text": "약 US$160억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$16.0bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-10 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-10 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3164,7 +3164,7 @@
      "url": "https://www.ft.com/content/96fe9898-a3a4-4a33-be1d-da06bdb6cb2b"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -3172,44 +3172,44 @@
    "name": "Huawei Wuhu",
    "operator": "Huawei",
    "tenant": null,
-   "country": "중국",
+   "country": "China",
    "location": "Wuhu, Anhui",
    "latitude": 31.33,
    "longitude": 118.43,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 453,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 589,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 256,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-11-01 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-11-01)"
    },
    "investment": {
-    "text": "약 US$172억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$17.2bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-12 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-12 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -3217,35 +3217,35 @@
    "name": "Meta Bowling Green",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "Bowling Green, Ohio",
    "latitude": 41.38,
    "longitude": -83.65,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 422,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 570,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$160억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$16.0bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Williams"
+    "Utility: Williams"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-01 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-01 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3268,45 +3268,45 @@
      "url": "https://drive.google.com/file/d/1L154XKyiHqRzeZj36zqMRkjdG7QIFL41/view?usp=drive_link"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-coreweave-ellendale-nd",
    "name": "CoreWeave Ellendale ND",
    "operator": "CoreWeave",
-   "tenant": "OpenAI (불확실)",
-   "country": "미국",
+   "tenant": "OpenAI (speculative)",
+   "country": "United States",
    "location": "Ellendale, North Dakota",
    "latitude": 46.007,
    "longitude": -98.514,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 400,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 520,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 88,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-06-30 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-06-30)"
    },
    "investment": {
-    "text": "약 US$152억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$15.2bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-06 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-06 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3325,45 +3325,45 @@
      "url": "https://ir.applieddigital.com/news-events/press-releases/detail/157/applied-digital-delivers-second-building-at-polaris-forge-1"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-stack-infrastructure-nva02",
    "name": "STACK Infrastructure NVA02",
-   "operator": "미공개",
+   "operator": "Not disclosed",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "Manassas, Virginia",
    "latitude": 38.793,
    "longitude": -77.527,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 348,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 487,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 118,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-02-14 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-02-14)"
    },
    "investment": {
-    "text": "약 US$132억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$13.2bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-01 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-01 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3382,45 +3382,45 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25966/638633868679100000"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-google-omaha",
    "name": "Google Omaha",
    "operator": "Google",
-   "tenant": "Google DeepMind (불확실)",
-   "country": "미국",
+   "tenant": "Google DeepMind (speculative)",
+   "country": "United States",
    "location": "Omaha, Nebraska",
    "latitude": 41.3,
    "longitude": -96.1,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 395,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 474,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 284,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-06-30 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-06-30)"
    },
    "investment": {
-    "text": "약 US$150억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$15.0bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-07 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-07 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3435,7 +3435,7 @@
      "url": "https://sustainability.google/reports/google-2025-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -3443,37 +3443,37 @@
    "name": "Meta Montgomery",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "Montgomery, Alabama",
    "latitude": 32.326,
    "longitude": -86.31,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 358,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 465,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 199,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-06-18 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-06-18)"
    },
    "investment": {
-    "text": "약 US$136억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$13.6bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-02 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-02 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3492,45 +3492,45 @@
      "url": "https://www.henselphelps.com/meta-awards-hensel-phelps-montgomery-data-center/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-google-columbus",
    "name": "Google Columbus",
    "operator": "Google",
-   "tenant": "Google DeepMind (불확실)",
-   "country": "미국",
+   "tenant": "Google DeepMind (speculative)",
+   "country": "United States",
    "location": "Columbus, Ohio",
    "latitude": 39.905,
    "longitude": -82.97,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 386,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 464,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 364,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-08-05 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-08-05)"
    },
    "investment": {
-    "text": "약 US$146억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$14.6bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-07 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-07 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3545,45 +3545,45 @@
      "url": "https://www.aeptransmission.com/ohio/docs/Hartman%20Farms%20Extension%20No.%202%20138%20kV%20Transmission%20Line%20Project%20Construction%20Notice.pdf"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-google-pryor-north",
    "name": "Google Pryor (North)",
    "operator": "Google",
-   "tenant": "Google DeepMind (불확실)",
-   "country": "미국",
+   "tenant": "Google DeepMind (speculative)",
+   "country": "United States",
    "location": "Pryor, Oklahoma",
    "latitude": 36.292,
    "longitude": -95.313,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 368,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 442,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 442,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-09-06 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-09-06)"
    },
    "investment": {
-    "text": "약 US$139억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$13.9bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-09 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-09 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3602,45 +3602,45 @@
      "url": "https://techcrunch.com/2022/05/11/google-launches-a-9-exaflop-cluster-of-cloud-tpu-v4-pods-into-public-preview/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-anthropic-lake-mariner",
    "name": "Anthropic Lake Mariner",
    "operator": "AI XPV Platform",
-   "tenant": "Anthropic (유력)",
-   "country": "미국",
+   "tenant": "Anthropic (likely)",
+   "country": "United States",
    "location": "Barker, New York",
    "latitude": 43.337,
    "longitude": -78.542,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 378,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 441,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 245,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-10-31 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-10-31)"
    },
    "investment": {
-    "text": "약 US$143억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$14.3bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-03 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-03 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3659,7 +3659,7 @@
      "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -3667,78 +3667,78 @@
    "name": "Huawei Horinger",
    "operator": "Huawei",
    "tenant": null,
-   "country": "중국",
+   "country": "China",
    "location": "Horinger, Inner Mongolia",
    "latitude": 40.38,
    "longitude": 111.82,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 351,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 439,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 212,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-08-18 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-08-18)"
    },
    "investment": {
-    "text": "약 US$133억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$13.3bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-02 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-02 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-qts-eagle-mountain",
    "name": "QTS Eagle Mountain",
-   "operator": "Meta (불확실)",
-   "tenant": "Meta (불확실)",
-   "country": "미국",
+   "operator": "Meta (speculative)",
+   "tenant": "Meta (speculative)",
+   "country": "United States",
    "location": "Cedar Valley, Utah",
    "latitude": 40.296,
    "longitude": -112.092,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 304,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 411,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$115억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$11.5bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-07 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-07 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3753,7 +3753,7 @@
      "url": "https://daqpermitting.utah.gov/DocViewer?IntDocID=155764&contentType=application/pdf"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -3761,37 +3761,37 @@
    "name": "AWS New Albany",
    "operator": "Amazon",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "New Albany, Ohio",
    "latitude": 40.08,
    "longitude": -82.79,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 338,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 405,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 255,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-05-18 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-05-18)"
    },
    "investment": {
-    "text": "약 US$128억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$12.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-07 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-07 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3814,45 +3814,45 @@
      "url": "https://www.wosu.org/politics-government/2023-09-20/new-albany-city-council-approves-tax-break-deal-for-3-5-billion-amazon-data-center-project"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-google-new-albany",
    "name": "Google New Albany",
    "operator": "Google",
-   "tenant": "Google DeepMind (불확실)",
-   "country": "미국",
+   "tenant": "Google DeepMind (speculative)",
+   "country": "United States",
    "location": "New Albany, Ohio",
    "latitude": 40.085,
    "longitude": -82.799,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 333,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 400,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 400,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-05-18 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-05-18)"
    },
    "investment": {
-    "text": "약 US$126억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$12.6bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2025-10 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2025-10 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3867,45 +3867,45 @@
      "url": "https://sustainability.google/reports/google-2025-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-coreweave-denton-tx",
    "name": "CoreWeave Denton TX",
    "operator": "CoreWeave",
-   "tenant": "OpenAI (유력)",
-   "country": "미국",
+   "tenant": "OpenAI (likely)",
+   "country": "United States",
    "location": "Denton, Texas",
    "latitude": 33.228,
    "longitude": -97.181,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 282,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 395,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 367,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-09-01 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-09-01)"
    },
    "investment": {
-    "text": "약 US$107억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$10.7bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-05 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-05 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3928,45 +3928,45 @@
      "url": "https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-ytl-johor",
    "name": "YTL Johor",
-   "operator": "미공개",
+   "operator": "Not disclosed",
    "tenant": null,
-   "country": "말레이시아",
+   "country": "Malaysia",
    "location": "Kulai, Johor",
    "latitude": 1.66,
    "longitude": 103.6,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 284,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 389,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 155,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-07-13 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-07-13)"
    },
    "investment": {
-    "text": "약 US$108억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$10.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-08 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-08 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -3985,45 +3985,45 @@
      "url": "https://www.youtube.com/watch?v=HODHjDbFt10"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-google-storey-county",
    "name": "Google Storey County",
    "operator": "Google",
-   "tenant": "Google DeepMind (불확실)",
-   "country": "미국",
+   "tenant": "Google DeepMind (speculative)",
+   "country": "United States",
    "location": "Storey County, Nevada",
    "latitude": 39.53,
    "longitude": -119.47,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 300,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 389,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 214,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-04-13 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-04-13)"
    },
    "investment": {
-    "text": "약 US$114억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$11.4bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-06 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-06 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4042,7 +4042,7 @@
      "url": "https://datacenters.google/locations/storey-county-nevada/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -4050,37 +4050,37 @@
    "name": "Google Lincoln",
    "operator": "Google",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "Lincoln, Nebraska",
    "latitude": 40.94,
    "longitude": -96.662,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 283,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 339,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 170,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-05-12 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-05-12)"
    },
    "investment": {
-    "text": "약 US$107억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$10.7bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-10 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-10 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4099,47 +4099,47 @@
      "url": "https://lnklan.granicus.com/DocumentViewer.php?file=lnklan_bfe1e3023d49404348f26355e113cb22.pdf&view=1"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-qts-richmond-3",
    "name": "QTS Richmond 3",
-   "operator": "미공개",
+   "operator": "Not disclosed",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "Sandston, Virginia",
    "latitude": 37.516,
    "longitude": -77.276,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 240,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 336,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 202,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-05-14 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-05-14)"
    },
    "investment": {
-    "text": "약 US$91억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$9.1bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Dominion Energy"
+    "Utility: Dominion Energy"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-02 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-02 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4154,47 +4154,47 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-qts-richmond-1",
    "name": "QTS Richmond 1",
-   "operator": "미공개",
+   "operator": "Not disclosed",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "Sandston, Virginia",
    "latitude": 37.516,
    "longitude": -77.276,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 238,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 333,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 333,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-02-13 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-02-13)"
    },
    "investment": {
-    "text": "약 US$90억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$9.0bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Dominion Energy"
+    "Utility: Dominion Energy"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2025-11 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2025-11 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4209,45 +4209,45 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-bridge-data-centres-my06",
    "name": "Bridge Data Centres MY06",
-   "operator": "ByteDance (유력)",
-   "tenant": "ByteDance (유력)",
-   "country": "말레이시아",
+   "operator": "ByteDance (likely)",
+   "tenant": "ByteDance (likely)",
+   "country": "Malaysia",
    "location": "Sedenak Tech Park, Johor",
    "latitude": 1.7,
    "longitude": 103.53,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 243,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 315,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 315,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-09-13 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-09-13)"
    },
    "investment": {
-    "text": "약 US$92억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$9.2bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2025-05 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2025-05 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4270,41 +4270,41 @@
      "url": "https://www.google.com/maps/@1.695402,103.4214409,3a,47.7y,213.04h,92.05t/data=!3m7!1e1!3m5!1sG4O28vWhkgGAlyz3dZ-fdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0537269881136098%26panoid%3DG4O28vWhkgGAlyz3dZ-fdg%26yaw%3D213.043859649809!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-google-cedar-rapids",
    "name": "Google Cedar Rapids",
    "operator": "Google",
-   "tenant": "Google DeepMind (불확실)",
-   "country": "미국",
+   "tenant": "Google DeepMind (speculative)",
+   "country": "United States",
    "location": "Cedar Rapids, Iowa",
    "latitude": 41.952,
    "longitude": -91.685,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 261,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 314,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$99억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$9.9bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-05 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-05 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4319,7 +4319,7 @@
      "url": "https://www.govonlinesaas.com/LCPH/EasyAir/Public/EnSuite/Shared/Pages/util/StreamDoc.ashx?id=260&type=attachment"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -4327,33 +4327,33 @@
    "name": "Anthropic Barber Lake",
    "operator": "Cipher Mining",
    "tenant": "Anthropic",
-   "country": "미국",
+   "country": "United States",
    "location": "Colorado City, Texas",
    "latitude": 32.39,
    "longitude": -100.86,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 207,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 300,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$78억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$7.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-04 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-04 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4384,7 +4384,7 @@
      "url": "https://www.datacenterdynamics.com/en/news/cipher-mining-secures-fluidstack-as-a-customer-and-google-as-an-investor/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -4392,33 +4392,33 @@
    "name": "OpenAI Stargate Lordstown",
    "operator": "Softbank",
    "tenant": "OpenAI",
-   "country": "미국",
+   "country": "United States",
    "location": "Warren, Ohio",
    "latitude": 41.172,
    "longitude": -80.872,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 214,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 300,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$81억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$8.1bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-03 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-03 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4437,7 +4437,7 @@
      "url": "https://drive.google.com/file/d/1xl4Ql2jdmKhcYFhn43ymM2TJ56Z8cInL/view?usp=drivesdk"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -4445,37 +4445,37 @@
    "name": "Google Bristow",
    "operator": "Google",
    "tenant": "Google DeepMind",
-   "country": "미국",
+   "country": "United States",
    "location": "Bristow, Virginia",
    "latitude": 38.72,
    "longitude": -77.54,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 238,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 286,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 286,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-05-20 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-05-20)"
    },
    "investment": {
-    "text": "약 US$90억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$9.0bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-05 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-05 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4486,45 +4486,45 @@
      "url": "https://sustainability.google/reports/google-2026-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-google-council-bluffs-east",
    "name": "Google Council Bluffs (East)",
    "operator": "Google",
-   "tenant": "Google DeepMind (불확실)",
-   "country": "미국",
+   "tenant": "Google DeepMind (speculative)",
+   "country": "United States",
    "location": "Council Bluffs, Iowa",
    "latitude": 41.23,
    "longitude": -95.79,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 237,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 284,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 284,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-07-07 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-07-07)"
    },
    "investment": {
-    "text": "약 US$90억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$9.0bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-07 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-07 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4539,45 +4539,45 @@
      "url": "https://programs.iowadnr.gov/easyair/Public/EnSuite/Shared/Pages/Util/ServerRptViewer.aspx?sr=/IDNR/Reports/EASY/RPT_Construction_Application_E_EU&SUBMISSION_RID=67330&SUB_FORM_RID=148297"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-google-papillion",
    "name": "Google Papillion",
    "operator": "Google",
-   "tenant": "Google DeepMind (불확실)",
-   "country": "미국",
+   "tenant": "Google DeepMind (speculative)",
+   "country": "United States",
    "location": "Papillion, Nebraska",
    "latitude": 41.13,
    "longitude": -96.07,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 237,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 284,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 284,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-05-04 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-05-04)"
    },
    "investment": {
-    "text": "약 US$90억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$9.0bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2024-08 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2024-08 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4592,7 +4592,7 @@
      "url": "https://sustainability.google/reports/google-2025-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -4600,37 +4600,37 @@
    "name": "Start Campus Sines Data Campus",
    "operator": "Nscale",
    "tenant": "Microsoft",
-   "country": "포르투갈",
+   "country": "Portugal",
    "location": "Sines",
    "latitude": 37.95,
    "longitude": -8.86,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 233,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 280,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 40,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-08-16 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-08-16)"
    },
    "investment": {
-    "text": "약 US$88억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$8.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-09 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-09 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4649,7 +4649,7 @@
      "url": "https://lp.startcampus.pt/start-campus-hosts-eus-first-nvidia-gb300-chips-with-nscale-for-microsoft"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -4657,37 +4657,37 @@
    "name": "Meta Los Lunas",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "Los Lunas, New Mexico",
    "latitude": 34.781,
    "longitude": -106.712,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 218,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 273,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 147,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-10-26 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-10-26)"
    },
    "investment": {
-    "text": "약 US$83억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$8.3bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2028-01 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2028-01 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4706,45 +4706,45 @@
      "url": "https://fortisconstruction.com/project/meta-los-lunas-campus/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-stream-phoenix",
    "name": "Stream Phoenix",
-   "operator": "미공개",
+   "operator": "Not disclosed",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "Goodyear, Arizona",
    "latitude": 33.42,
    "longitude": -112.36,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 220,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 267,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 77,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-05-01 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-05-01)"
    },
    "investment": {
-    "text": "약 US$83억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$8.3bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2030-01 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2030-01 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4759,45 +4759,45 @@
      "url": "https://www.streamdatacenters.com/wp-content/uploads/2026/01/SDC-Goodyear-CaseStudy-251218.pdf"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-microsoft-goodyear",
    "name": "Microsoft Goodyear",
    "operator": "Microsoft",
-   "tenant": "OpenAI (유력), Microsoft",
-   "country": "미국",
+   "tenant": "OpenAI (likely), Microsoft",
+   "country": "United States",
    "location": "Goodyear, Arizona",
    "latitude": 33.38,
    "longitude": -112.43,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 202,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 263,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 263,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-04-27 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-04-27)"
    },
    "investment": {
-    "text": "약 US$77억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$7.7bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2025-09 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2025-09 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4816,47 +4816,47 @@
      "url": "https://newsletter.semianalysis.com/p/microsofts-ai-strategy-deconstructed"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-qts-richmond-2",
    "name": "QTS Richmond 2",
-   "operator": "미공개",
+   "operator": "Not disclosed",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "Sandston, Virginia",
    "latitude": 37.516,
    "longitude": -77.276,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 180,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 252,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 252,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-05-14 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-05-14)"
    },
    "investment": {
-    "text": "약 US$68억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$6.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Dominion Energy"
+    "Utility: Dominion Energy"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-05 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-05 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4871,7 +4871,7 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -4879,37 +4879,37 @@
    "name": "Meta Cheyenne",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "Cheyenne, Wyoming",
    "latitude": 41.108,
    "longitude": -104.811,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 207,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 249,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 182,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-07-25 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-07-25)"
    },
    "investment": {
-    "text": "약 US$78억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$7.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-02 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-02 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4928,48 +4928,48 @@
      "url": "https://cheyenneleads.org/meta-announces-new-data-center-a-major-investment-in-cheyenne-wyoming/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-meta-qts-hillsboro-2",
    "name": "Meta-QTS Hillsboro 2",
-   "operator": "Meta (유력)",
-   "tenant": "Meta (유력)",
-   "country": "미국",
+   "operator": "Meta (likely)",
+   "tenant": "Meta (likely)",
+   "country": "United States",
    "location": "Hillsboro, Oregon",
    "latitude": 45.539,
    "longitude": -122.964,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 180,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 243,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 243,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-04-17 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-04-17)"
    },
    "investment": {
-    "text": "약 US$68억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$6.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Portland General Electric",
-    "전력 공급사: Avangrid"
+    "Utility: Portland General Electric",
+    "Utility: Avangrid"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2024-11 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2024-11 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -4984,7 +4984,7 @@
      "url": "https://q.com/news/avangrid-and-portland-general-electric-collaborate-with-qts-and-meta-to-build-120-mwac-solar-project-in-oregon/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -4992,37 +4992,37 @@
    "name": "Meta Rosemount",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "Rosemount, Minnesota",
    "latitude": 44.739,
    "longitude": -93.126,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 178,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 241,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 241,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-06-19 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-06-19)"
    },
    "investment": {
-    "text": "약 US$67억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$6.7bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-06 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-06 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5037,7 +5037,7 @@
      "url": "https://drive.google.com/file/d/1i2D0eMp9uc1CfRhymu69Bms5wz9q0Rkc/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -5045,37 +5045,37 @@
    "name": "Meta Jeffersonville",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "Jeffersonville, Indiana",
    "latitude": 38.308,
    "longitude": -85.736,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 178,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 241,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 241,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-06-04 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-06-04)"
    },
    "investment": {
-    "text": "약 US$67억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$6.7bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-06 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-06 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5094,7 +5094,7 @@
      "url": "https://drive.google.com/file/d/1RpOCS_z32qaWskhhAJL8_QjU9VSz5Eqh/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -5102,37 +5102,37 @@
    "name": "Google Mesa",
    "operator": "Google",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "Mesa, Arizona",
    "latitude": 33.35,
    "longitude": -111.63,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 183,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 237,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 237,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-08-15 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-08-15)"
    },
    "investment": {
-    "text": "약 US$69억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$6.9bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-08 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-08 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5147,7 +5147,7 @@
      "url": "https://www.datacenterdynamics.com/en/news/google-files-to-build-second-data-center-at-mesa-campus-in-arizona/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -5155,37 +5155,37 @@
    "name": "Meta Temple",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "Temple, Texas",
    "latitude": 31.092,
    "longitude": -97.365,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 178,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 231,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 231,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-09-30 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-09-30)"
    },
    "investment": {
-    "text": "약 US$67억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$6.7bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-09 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-09 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5204,45 +5204,45 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026008019"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-microsoft-project-osmium",
    "name": "Microsoft Project Osmium",
    "operator": "Microsoft",
-   "tenant": "OpenAI (불확실)",
-   "country": "미국",
+   "tenant": "OpenAI (speculative)",
+   "country": "United States",
    "location": "Cumming, Iowa",
    "latitude": 41.485,
    "longitude": -93.754,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 190,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 228,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 228,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-06-16 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-06-16)"
    },
    "investment": {
-    "text": "약 US$72억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$7.2bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2025-03 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2025-03 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5265,45 +5265,45 @@
      "url": "https://news.microsoft.com/source/features/ai/west-des-moines-iowa-ai-supercomputer/?msockid=23bbdd21a02166402e27c929a1a567ce"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-aws-berwick",
    "name": "AWS Berwick",
    "operator": "Amazon",
-   "tenant": "Anthropic (불확실)",
-   "country": "미국",
+   "tenant": "Anthropic (speculative)",
+   "country": "United States",
    "location": "Berwick, Pennsylvania",
    "latitude": 41.066,
    "longitude": -76.244,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 169,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 212,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 139,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-08-01 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-08-01)"
    },
    "investment": {
-    "text": "약 US$64억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$6.4bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-08 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-08 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5326,52 +5326,52 @@
      "url": "https://www.srbc.gov/about/news/docs/2025-159-final-public-comment-responses-20260128.pdf"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-alibaba-zhangbei",
    "name": "Alibaba Zhangbei",
    "operator": "Alibaba",
-   "tenant": "Alibaba (유력)",
-   "country": "중국",
+   "tenant": "Alibaba (likely)",
+   "country": "China",
    "location": "Zhangbei, Hebei",
    "latitude": 41.15,
    "longitude": 114.7,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 169,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 203,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 203,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-01-03 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-01-03)"
    },
    "investment": {
-    "text": "약 US$64억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$6.4bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-01 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-01 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -5379,39 +5379,39 @@
    "name": "Meta Kuna",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "Kuna, Idaho",
    "latitude": 43.487,
    "longitude": -116.382,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 152,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 198,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 198,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-06-01 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-06-01)"
    },
    "investment": {
-    "text": "약 US$58억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$5.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Idaho Power Company"
+    "Utility: Idaho Power Company"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-06 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-06 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5442,7 +5442,7 @@
      "url": "https://puc.idaho.gov/Fileroom/PublicFiles/ELEC/IPC/IPCE2442/OrdNotc/20241210Notice_of_Application_Order_No_36419.pdf"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -5450,41 +5450,41 @@
    "name": "Meta Huntsville",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "Toney, Alabama",
    "latitude": 34.85,
    "longitude": -86.68,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 146,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 198,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 198,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-06-02 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-06-02)"
    },
    "investment": {
-    "text": "약 US$55억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$5.5bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Tennessee Valley Authority",
-    "전력 공급사: NextEra Energy Resources",
-    "전력 공급사: First Solar"
+    "Utility: Tennessee Valley Authority",
+    "Utility: NextEra Energy Resources",
+    "Utility: First Solar"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-06 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-06 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5499,45 +5499,45 @@
      "url": "https://www.prnewswire.com/news-releases/tva-announces-largest-valley-solar-installations--built-for-facebook-300743255.html"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-coreweave-chester-va",
    "name": "CoreWeave Chester VA",
    "operator": "CoreWeave",
-   "tenant": "OpenAI (불확실)",
-   "country": "미국",
+   "tenant": "OpenAI (speculative)",
+   "country": "United States",
    "location": "Chester, Virginia",
    "latitude": 37.36,
    "longitude": -77.39,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 113,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 197,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 114,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-05-20 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-05-20)"
    },
    "investment": {
-    "text": "약 US$43억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$4.3bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-06 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-06 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5556,45 +5556,45 @@
      "url": "https://www.datacenterdynamics.com/en/news/chirisa-offers-former-capital-one-data-center-in-virginia-to-hyperscalers/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-nebius-mantsala",
    "name": "Nebius Mantsala",
    "operator": "Nebius",
-   "tenant": "Microsoft (불확실)",
-   "country": "핀란드",
+   "tenant": "Microsoft (speculative)",
+   "country": "Finland",
    "location": "Mäntsälä",
    "latitude": 60.63,
    "longitude": 25.32,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 145,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 196,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 90,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-06-29 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-06-29)"
    },
    "investment": {
-    "text": "약 US$55억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$5.5bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-12 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-12 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5609,7 +5609,7 @@
      "url": "https://nebius.com/blog/posts/first-live-nvidia-gb300-nvl72-deployment-in-europe"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -5617,37 +5617,37 @@
    "name": "Google The Dalles",
    "operator": "Google",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "The Dalles, Oregon",
    "latitude": 45.63,
    "longitude": -121.2,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 154,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 185,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 185,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-04-29 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-04-29)"
    },
    "investment": {
-    "text": "약 US$58억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$5.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-04 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-04 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5662,7 +5662,7 @@
      "url": "https://datacenters.google/efficiency/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -5670,37 +5670,37 @@
    "name": "Google Red Oak",
    "operator": "Google",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "Red Oak, Texas",
    "latitude": 32.519,
    "longitude": -96.807,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 154,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 185,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 93,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-02-06 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-02-06)"
    },
    "investment": {
-    "text": "약 US$58억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$5.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-12 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2026-12 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5715,41 +5715,41 @@
      "url": "https://datacenters.google/efficiency/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-coreweave-muskogee-ok",
    "name": "CoreWeave Muskogee OK",
    "operator": "CoreWeave",
-   "tenant": "OpenAI (불확실)",
-   "country": "미국",
+   "tenant": "OpenAI (speculative)",
+   "country": "United States",
    "location": "Muskogee, Oklahoma",
    "latitude": 35.706,
    "longitude": -95.5,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 153,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 181,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$58억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$5.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-12 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-12 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5768,7 +5768,7 @@
      "url": "https://applications.deq.ok.gov/permitspublic/storedpermits/9138.pdf"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -5776,39 +5776,39 @@
    "name": "Meta Eagle Mountain",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "Eagle Mountain, Utah",
    "latitude": 40.38,
    "longitude": -111.991,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 133,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 179,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 179,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-05-02 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-05-02)"
    },
    "investment": {
-    "text": "약 US$50억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$5.0bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Williams"
+    "Utility: Williams"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2025-12 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2025-12 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5823,45 +5823,45 @@
      "url": "https://ukozvhzgrcnkcatjqfoo.supabase.co/storage/v1/object/public/03-00-air-construction/2026.02.05_Eagle%20Mountain%20Power%20Plant_Application_32a5238b.pdf"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-vantage-tx1",
    "name": "Vantage TX1",
-   "operator": "미공개",
+   "operator": "Not disclosed",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "San Antonio, Texas",
    "latitude": 29.419,
    "longitude": -98.689,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "부분 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 128,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 179,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 45,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-02-15 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-02-15)"
    },
    "investment": {
-    "text": "약 US$48억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$4.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-08 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-08 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5880,7 +5880,7 @@
      "url": "https://drive.google.com/file/d/1rbF-RT5Sq-iZ26hK5cKzbM2K4Vq2vObY/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -5888,37 +5888,37 @@
    "name": "Meta Aiken",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "Trenton, South Carolina",
    "latitude": 33.694,
    "longitude": -81.853,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 129,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 168,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 168,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-11-05 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-11-05)"
    },
    "investment": {
-    "text": "약 US$49억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$4.9bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-11 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-11 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5933,7 +5933,7 @@
      "url": "https://www.dpr.com/projects/meta-aiken-data-center-aiken-sc"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -5941,37 +5941,37 @@
    "name": "Google Lancaster",
    "operator": "Google",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "Lancaster, Ohio",
    "latitude": 39.719,
    "longitude": -82.603,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 137,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 164,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 164,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-03-12 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-03-12)"
    },
    "investment": {
-    "text": "약 US$52억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$5.2bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2025-10 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2025-10 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -5982,7 +5982,7 @@
      "url": "https://www.datacenterdynamics.com/en/news/google-to-build-two-more-data-centers-in-columbus-ohio/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -5990,37 +5990,37 @@
    "name": "Google Kansas City East",
    "operator": "Google",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "Kansas City, Missouri",
    "latitude": 39.17,
    "longitude": -94.47,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 105,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 126,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 126,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-08-01 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-08-01)"
    },
    "investment": {
-    "text": "약 US$40억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$4.0bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-08 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-08 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -6035,48 +6035,48 @@
      "url": "https://www.datacenterdynamics.com/en/news/google-files-project-plan-for-data-center-in-kansas-city-missouri/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-google-waltham-cross",
    "name": "Google Waltham Cross",
    "operator": "Google",
-   "tenant": "Google DeepMind (불확실)",
-   "country": "영국",
+   "tenant": "Google DeepMind (speculative)",
+   "country": "United Kingdom",
    "location": "Cheshunt, England",
    "latitude": 51.7,
    "longitude": -0.04,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 88,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 124,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 124,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-04-23 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-04-23)"
    },
    "investment": {
-    "text": "약 US$33억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$3.3bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [
-    "전력 공급사: Shell Energy Europe",
-    "전력 공급사: Engie"
+    "Utility: Shell Energy Europe",
+    "Utility: Engie"
    ],
    "originalTargetDate": null,
-   "currentTargetDate": "2025-09 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2025-09 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -6099,41 +6099,41 @@
      "url": "https://www.cpreherts.org.uk/resources/land-at-maxwells-farm-west-great-cambridge-road-cheshunt-hertfordshire/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-coreweave-lancaster-greenfield-site",
    "name": "CoreWeave Lancaster Greenfield site",
    "operator": "CoreWeave",
-   "tenant": "OpenAI (불확실)",
-   "country": "미국",
+   "tenant": "OpenAI (speculative)",
+   "country": "United States",
    "location": "Lancaster, Pennsylvania",
    "latitude": 40.04,
    "longitude": -76.31,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 92,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 124,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$35억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$3.5bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2027-06 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2027-06 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -6148,41 +6148,41 @@
      "url": "https://www.datacenterdynamics.com/en/news/machine-investment-acquires-two-printing-press-sites-in-pennsylvania-plans-data-center-redevelopment/?utm_source=datacentermap.com"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
    "id": "epoch-microsoft-narvik-norway",
    "name": "Microsoft Narvik Norway",
-   "operator": "Nscale (유력)",
-   "tenant": "Microsoft (유력)",
-   "country": "노르웨이",
+   "operator": "Nscale (likely)",
+   "tenant": "Microsoft (likely)",
+   "country": "Norway",
    "location": "Narvik",
    "latitude": 68.44,
    "longitude": 17.43,
    "locationApproximate": true,
    "status": "construction",
-   "statusNote": "건설중 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 92,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 124,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": null,
    "investment": {
-    "text": "약 US$35억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$3.5bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-12 — 전체 가동 예정 (Epoch 추정)",
+   "currentTargetDate": "2026-12 — full capacity expected (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -6201,7 +6201,7 @@
      "url": "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -6209,37 +6209,37 @@
    "name": "Google Midlothian",
    "operator": "Google",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "Midlothian, Texas",
    "latitude": 32.476,
    "longitude": -96.994,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 103,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 123,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 123,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-07-01 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-07-01)"
    },
    "investment": {
-    "text": "약 US$39억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$3.9bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-07 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-07 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -6254,7 +6254,7 @@
      "url": "https://archive-stream.granicus.com/OnDemand/_definst_/mp4:swagitVideo/midlothiantx/eefcd9e0-4c12-41ba-986a-165a20124c72.mp4/playlist.m3u8"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -6262,37 +6262,37 @@
    "name": "Meta Gallatin",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "Gallatin, Tennessee",
    "latitude": 36.383,
    "longitude": -86.451,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 87,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 114,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 114,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-08-24 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-08-24)"
    },
    "investment": {
-    "text": "약 US$33억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$3.3bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-08 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-08 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -6307,7 +6307,7 @@
      "url": "https://www.gallatingetsit.com/newsroom/meta-approved-for-another-data-center-on-gallatin-campus"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -6315,37 +6315,37 @@
    "name": "Microsoft SAT40",
    "operator": "Microsoft",
    "tenant": null,
-   "country": "미국",
+   "country": "United States",
    "location": "San Antonio, Texas",
    "latitude": 29.38,
    "longitude": -98.68,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 75,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 106,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 106,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-02-04 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-02-04)"
    },
    "investment": {
-    "text": "약 US$28억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$2.8bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2025-12 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2025-12 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -6360,7 +6360,7 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/EABPRJB8824650"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   },
   {
@@ -6368,37 +6368,37 @@
    "name": "Meta Sarpy",
    "operator": "Meta",
    "tenant": "Meta",
-   "country": "미국",
+   "country": "United States",
    "location": "Springfield, Nebraska",
    "latitude": 41.08,
    "longitude": -96.13,
    "locationApproximate": true,
    "status": "operational",
-   "statusNote": "전체 가동 (Epoch AI 위성·인허가 분석 기준)",
+   "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
    "itLoad": {
     "mw": 80,
     "quality": "estimate",
-    "note": "완공 시 IT 부하 (Epoch AI 추정)"
+    "note": "IT load at full build-out (Epoch AI estimate)"
    },
    "campusPower": {
     "mw": 105,
     "quality": "estimate",
-    "note": "완공 시 시설 전체 전력 (Epoch AI 추정)"
+    "note": "Total facility power at full build-out (Epoch AI estimate)"
    },
    "gridConnection": null,
    "operationalNow": {
     "mw": 105,
     "quality": "estimate",
-    "note": "현재 가동 전력 (Epoch AI 추정, 2026-08-02 기준)"
+    "note": "Current operating power (Epoch AI estimate, as of 2026-08-02)"
    },
    "investment": {
-    "text": "약 US$30억 (칩 포함 총 자본비용, 2025년 달러)",
+    "text": "About US$3.0bn (total capex incl. chips, 2025 USD)",
     "quality": "estimate"
    },
    "powerSources": [],
    "originalTargetDate": null,
-   "currentTargetDate": "2026-08 — 전체 가동 도달 (Epoch 추정)",
+   "currentTargetDate": "2026-08 — full capacity reached (Epoch estimate)",
    "sources": [
     {
      "title": "Epoch AI — AI Data Centers (CC BY 4.0)",
@@ -6409,7 +6409,7 @@
      "url": "https://datacenters.atmeta.com/asset/sarpy-data-center-info-sheet/"
     }
    ],
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-12",
    "dataSource": "Epoch AI"
   }
  ]
