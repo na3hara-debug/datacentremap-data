@@ -13,8 +13,9 @@ Global Data Centre Map 앱(Android)의 데이터 저장소. 앱은 `data/datacen
 ## 레코드 스키마 (curated.json 배열 원소)
 id(지역접두-이름, 예 au-nextdc-s4), name, operator, tenant?(선택), country(English country name), location, latitude, longitude,
 locationApproximate(true), status(announced|permitting|approved|construction|operational|on_hold|cancelled), statusNote(English),
-facilityType(AI|Hyperscale cloud|Colocation|Enterprise), itLoad/campusPower/gridConnection/operationalNow: {mw, quality(confirmed|reported|estimate), note?} 또는 null,
+facilityType("AI training"|"AI inference"|AI (용도 미구분)|"Hyperscale cloud"|Colocation|Enterprise — 공식 자료가 학습/추론을 밝힌 경우에만 구분), itLoad/campusPower/gridConnection/operationalNow: {mw, quality(confirmed|reported|estimate), note?} 또는 null,
 investment: {text, quality} 또는 null, powerSources: string[], originalTargetDate, currentTargetDate (문자열 또는 null),
+investors?: string[] (지분 투자자·금융 제공자 회사명, 출처로 확인된 경우만. 예: ["Blackstone","Brookfield"]. 운영사·임차인·장비 공급사는 넣지 않음),
 sources: [{title,url}] (최소 1개, 실제 확인한 URL만), lastVerified: YYYY-MM-DD
 
 ## 데이터 품질 규칙 (반드시 준수)
