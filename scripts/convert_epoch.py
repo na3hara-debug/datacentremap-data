@@ -107,6 +107,10 @@ def fmt_cost(b):
     return f'About US${b:,.1f}bn (total capex incl. chips, 2025 USD)'
 
 
+
+sys.path.insert(0, __import__('os').path.dirname(__import__('os').path.abspath(__file__)))
+from enrich import enrich, to_ym  # noqa: E402
+
 dc = pd.read_csv(f'{src}/data_centers.csv')
 tl = pd.read_csv(f'{src}/data_center_timelines.csv')
 tl = tl.sort_values('Date')
@@ -195,7 +199,7 @@ records.sort(key=lambda x: -x['campusPower']['mw'])
 import os
 curated_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data', 'curated.json')
 curated = json.load(open(curated_path, encoding='utf-8'))
-allrec = curated + records
+allrec = [enrich(x) for x in curated + records]
 payload = {
     'generatedAt': TODAY,
     'count': len(allrec),

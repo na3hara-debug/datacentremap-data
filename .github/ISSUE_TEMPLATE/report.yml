@@ -1,0 +1,18 @@
+name: Report an error / suggest a project
+description: Tell us about wrong information or a missing data centre (100MW+)
+labels: [report]
+body:
+  - type: input
+    id: project
+    attributes:
+      label: Project name (or "new project")
+  - type: textarea
+    id: details
+    attributes:
+      label: What is wrong or missing?
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source link (news, company or government page)

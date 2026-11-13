@@ -1,0 +1,213 @@
+{
+ "changes": [
+  {
+   "date": "2026-11-10",
+   "id": "in-google-vizag",
+   "name": "Google India AI Hub (Visakhapatnam)",
+   "country": "India",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "in-rmz-colt-vizag",
+   "name": "RMZ–Colt DCS Visakhapatnam Hyperscale Campus",
+   "country": "India",
+   "type": "new",
+   "to": "approved"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "in-reliance-meta-jamnagar",
+   "name": "Reliance–Meta Jamnagar AI Data Centre",
+   "country": "India",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "in-reliance-andhra",
+   "name": "Reliance Andhra Pradesh AI Data Centre",
+   "country": "India",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "in-tcs-hypervault-hyderabad",
+   "name": "TCS HyperVault Hyderabad AI Campus",
+   "country": "India",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "my-airtrunk-jhb1",
+   "name": "AirTrunk JHB1",
+   "country": "Malaysia",
+   "type": "new",
+   "to": "operational"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "my-airtrunk-jhb3-jhb4",
+   "name": "AirTrunk JHB3 · JHB4",
+   "country": "Malaysia",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "my-stt-johor",
+   "name": "STT GDC Johor Campus",
+   "country": "Malaysia",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "id-firmus-dayone-batam",
+   "name": "Firmus–DayOne Batam AI Factory (Kabil)",
+   "country": "Indonesia",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "id-edgnex-jakarta",
+   "name": "EDGNEX Jakarta AI Data Centre",
+   "country": "Indonesia",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "th-dayone-chonburi",
+   "name": "DayOne Chonburi Tech Park (CTP1)",
+   "country": "Thailand",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "th-skyline-damac-chachoengsao",
+   "name": "Skyline Data Center (DAMAC) Chachoengsao",
+   "country": "Thailand",
+   "type": "new",
+   "to": "approved"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "kr-sk-aws-ulsan",
+   "name": "SK Telecom–AWS Ulsan AI Data Center",
+   "country": "South Korea",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "kr-sfr-jeonnam",
+   "name": "Jeonnam AI Data Center (Stock Farm Road)",
+   "country": "South Korea",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "kr-naver-gak-sejong",
+   "name": "NAVER Gak Sejong",
+   "country": "South Korea",
+   "type": "new",
+   "to": "operational"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "kr-nfd-dangjin",
+   "name": "NFD Korea Dangjin Campus",
+   "country": "South Korea",
+   "type": "new",
+   "to": "approved"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "jp-softbank-sakai",
+   "name": "SoftBank Osaka Sakai AI Data Center",
+   "country": "Japan",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "jp-softbank-tomakomai",
+   "name": "SoftBank Hokkaido Tomakomai AI Data Center",
+   "country": "Japan",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "jp-airtrunk-tok1",
+   "name": "AirTrunk TOK1",
+   "country": "Japan",
+   "type": "new",
+   "to": "operational"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "jp-jera-chiba-ai",
+   "name": "JERA Chiba AI Data Center",
+   "country": "Japan",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "jp-gigastream-toyama",
+   "name": "GigaStream Toyama Data Centre Hub",
+   "country": "Japan",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "jp-gmi-kagoshima",
+   "name": "GMI Cloud Kagoshima Sovereign AI Campus",
+   "country": "Japan",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "tw-foxconn-kaohsiung",
+   "name": "Foxconn–NVIDIA AI Supercomputing Center",
+   "country": "Taiwan",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "cn-deepseek-ulanqab",
+   "name": "DeepSeek Ulanqab AI Data Center",
+   "country": "China",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "us-google-goochland",
+   "name": "Google West Creek Campus (Goochland)",
+   "country": "United States",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-10",
+   "id": "us-cochise-supercomputer",
+   "name": "Cochise Supercomputer Campus",
+   "country": "United States",
+   "type": "new",
+   "to": "permitting"
+  }
+ ],
+ "updatedAt": "2026-11-12"
+}
