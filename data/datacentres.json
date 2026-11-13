@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12",
+ "generatedAt": "2026-11-13",
  "count": 131,
  "attribution": "Epoch AI, \"AI data centers\" (CC BY 4.0), https://epoch.ai/data/ai-data-centers — transformed. Curated records cite their own sources.",
  "records": [
@@ -53,7 +53,14 @@
      "url": "https://www.costar.com/article/983358925"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [
+    "grid",
+    "gas"
+   ],
+   "originalTargetYM": "2026-06",
+   "currentTargetYM": "2026-12",
+   "delayMonths": 6
   },
   {
    "id": "meta-hyperion",
@@ -104,7 +111,16 @@
    "lastVerified": "2026-11-10",
    "investors": [
     "Blue Owl"
-   ]
+   ],
+   "powerCategories": [
+    "gas",
+    "battery",
+    "nuclear",
+    "renewable"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2030-12",
+   "delayMonths": null
   },
   {
    "id": "xai-colossus-1",
@@ -149,7 +165,16 @@
      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/musks-colossus-is-fully-operational-with-200-000-gpus-backed-by-tesla-batteries-phase-2-to-consume-300-mw-enough-to-power-300-000-homes"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [
+    "grid",
+    "gas",
+    "battery",
+    "renewable"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2024-09",
+   "delayMonths": null
   },
   {
    "id": "ms-fairwater-1",
@@ -184,7 +209,11 @@
      "url": "https://news.microsoft.com/source/2026/06/23/microsoft-completes-construction-on-first-datacenter-facility-in-mount-pleasant-wisconsin/"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [],
+   "originalTargetYM": "2026-03",
+   "currentTargetYM": "2026-06",
+   "delayMonths": 3
   },
   {
    "id": "ms-fairwater-2",
@@ -219,7 +248,11 @@
      "url": "https://baxtel.com/news/microsoft-s-first-data-center-at-mount-pleasant-wisconsin-campus-now-operational"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [],
+   "originalTargetYM": "2028-12",
+   "currentTargetYM": "2028-12",
+   "delayMonths": 0
   },
   {
    "id": "au-airtrunk-syd1",
@@ -259,7 +292,11 @@
    "investors": [
     "Blackstone",
     "CPP Investments"
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "id": "au-airtrunk-syd2",
@@ -299,7 +336,11 @@
    "investors": [
     "Blackstone",
     "CPP Investments"
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "id": "au-airtrunk-syd3",
@@ -346,7 +387,11 @@
    "investors": [
     "Blackstone",
     "CPP Investments"
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-06",
+   "delayMonths": null
   },
   {
    "id": "au-airtrunk-mel1",
@@ -382,7 +427,11 @@
    "investors": [
     "Blackstone",
     "CPP Investments"
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "id": "au-airtrunk-mel2",
@@ -425,7 +474,11 @@
    "investors": [
     "Blackstone",
     "CPP Investments"
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "id": "au-mamre-road-syd4",
@@ -472,7 +525,11 @@
    "investors": [
     "IFM Investors",
     "ISPT"
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "id": "au-nextdc-s4",
@@ -514,7 +571,13 @@
      "url": "https://itbrief.com.au/story/multiplex-starts-construction-on-nextdc-s-s4-sydney"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-06",
+   "delayMonths": null
   },
   {
    "id": "au-nextdc-s7",
@@ -555,7 +618,11 @@
     }
    ],
    "lastVerified": "2026-11-10",
-   "tenant": "OpenAI (MOU, not a binding contract)"
+   "tenant": "OpenAI (MOU, not a binding contract)",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "id": "au-nextdc-m3",
@@ -595,7 +662,11 @@
      "url": "https://w.media/?p=44554"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "id": "au-nextdc-m4",
@@ -638,7 +709,11 @@
      "url": "https://w.media/?p=44554"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "id": "au-cdc-marsden-park",
@@ -677,7 +752,11 @@
      "url": "https://aiscalebusiness.com/data-centre-projects"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "id": "au-cdc-laverton",
@@ -713,7 +792,11 @@
      "url": "https://aiscalebusiness.com/data-centre-projects"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "id": "au-cdc-maddington",
@@ -756,7 +839,11 @@
      "url": "https://commercialpropertymarketing.com.au/data-centres-australia-2026-major-projects-by-city/"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [],
+   "originalTargetYM": "2026-12",
+   "currentTargetYM": "2026-12",
+   "delayMonths": 0
   },
   {
    "id": "au-cdc-wagga",
@@ -801,7 +888,13 @@
      "url": "https://datacenterdynamics.com/en/news/australias-cdc-plans-gigawatt-scale-data-center-campus-in-wagga-wagga"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2030-12",
+   "delayMonths": null
   },
   {
    "id": "au-iren-redbank",
@@ -844,7 +937,11 @@
      "url": "https://baxtel.com/news/iren-proposes-900mw-redbank-campus-near-wagga-wagga-power-not-yet-secured"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2029-12",
+   "delayMonths": null
   },
   {
    "id": "au-iren-bundey",
@@ -883,7 +980,14 @@
      "url": "https://w.media/iren-targets-bundey-transmission-hub-for-800mw-australian-data-centre-campus/"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [
+    "grid",
+    "renewable"
+   ],
+   "originalTargetYM": "2028-12",
+   "currentTargetYM": "2028-12",
+   "delayMonths": 0
   },
   {
    "id": "au-zerra-wddp",
@@ -934,7 +1038,14 @@
    "investors": [
     "Dexus",
     "Macquarie"
-   ]
+   ],
+   "powerCategories": [
+    "grid",
+    "renewable"
+   ],
+   "originalTargetYM": "2027-12",
+   "currentTargetYM": "2027-12",
+   "delayMonths": 0
   },
   {
    "id": "au-microsoft-kemps-creek",
@@ -966,7 +1077,11 @@
      "url": "https://renewmap.com.au/resources/projects/nsw/datacentre/"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "id": "au-cdc-kc1",
@@ -998,7 +1113,11 @@
      "url": "https://www.datacenterdynamics.com/en/news/australias-cdc-files-for-data-center-in-kemps-creek-sydney/"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "id": "au-greensquare-wai1",
@@ -1029,7 +1148,11 @@
      "url": "https://baxtel.com/news/greensquaredc-withdraws-120mw-perth-data-center-application"
     }
    ],
-   "lastVerified": "2026-11-10"
+   "lastVerified": "2026-11-10",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1073,7 +1196,11 @@
      "title": "Korea Times — SKT 15GW plan",
      "url": "https://www.koreatimes.co.kr/business/tech-science/20260705/sk-telecom-plans-15gw-ai-data-center-buildout-across-korea-by-2035"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": "2027-12",
+   "currentTargetYM": "2027-12",
+   "delayMonths": 0
   },
   {
    "locationApproximate": true,
@@ -1112,7 +1239,11 @@
      "title": "Korea JoongAng Daily — World's largest AI data center",
      "url": "https://www.koreajoongangdaily.com/business/worlds-largest-ai-data-center-to-be-built-in-korea/12167945"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": "2028-12",
+   "currentTargetYM": "2028-12",
+   "delayMonths": 0
   },
   {
    "locationApproximate": true,
@@ -1155,7 +1286,11 @@
    "investors": [
     "Brookfield",
     "NVIDIA"
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-12",
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1187,7 +1322,11 @@
      "title": "Baxtel — NFD Korea 300MW campus",
      "url": "https://baxtel.com/data-center/sc-zeus-samsong-bldg-b"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1230,7 +1369,11 @@
      "title": "SoftBank press release 2026-05-11",
      "url": "https://www.softbank.jp/en/corp/news/press/sbkk/2026/20260511_01"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": "2025-12",
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1269,7 +1412,11 @@
      "title": "SoftBank News — Tomakomai progress (2026-02)",
      "url": "https://www.softbank.jp/en/sbnews/entry/20260225_01"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": "2026-12",
+   "currentTargetYM": "2027-03",
+   "delayMonths": 3
   },
   {
    "locationApproximate": true,
@@ -1305,7 +1452,11 @@
      "title": "Baxtel — AirTrunk TOK1",
      "url": "https://baxtel.com/data-center/airtrunk-tokyo-tok1"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1346,7 +1497,13 @@
    ],
    "investors": [
     "Apollo"
-   ]
+   ],
+   "powerCategories": [
+    "gas"
+   ],
+   "originalTargetYM": "2028-12",
+   "currentTargetYM": "2028-12",
+   "delayMonths": 0
   },
   {
    "locationApproximate": true,
@@ -1378,7 +1535,11 @@
      "title": "Reuters (via Tiger) — Japan's biggest data centre hub in Toyama",
      "url": "https://www-web.itiger.com/news/2592915332"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": "2028-12",
+   "currentTargetYM": "2028-12",
+   "delayMonths": 0
   },
   {
    "locationApproximate": true,
@@ -1414,7 +1575,11 @@
      "title": "DataCenterNews — GMI Cloud $12bn Japan site",
      "url": "https://datacenter.news/story/gmi-cloud-plans-usd-12bn-sovereign-ai-site-in-japan"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1451,7 +1616,11 @@
      "title": "Black Ridge Research — Taiwan data center projects",
      "url": "https://www.blackridgeresearch.com/blog/latest-list-top-largest-upcoming-new-data-center-projects-taiwan"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": "2026-12",
+   "currentTargetYM": "2026-12",
+   "delayMonths": 0
   },
   {
    "locationApproximate": true,
@@ -1487,7 +1656,11 @@
      "title": "Forkast — DeepSeek 1GW Ulanqab",
      "url": "https://forkast.news/deepseeks-1gw-ulanqab-pivot-signals-chinas-sovereign-compute-escalation/"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": "2027-10",
+   "currentTargetYM": "2027-10",
+   "delayMonths": 0
   },
   {
    "locationApproximate": true,
@@ -1525,7 +1698,13 @@
      "title": "Richmond BizSense — Google eyeing West Creek",
      "url": "https://richmondbizsense.com/2026/10/28/breaking-news-google-eyeing-data-center-campus-in-goochlands-west-creek/"
     }
-   ]
+   ],
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1561,7 +1740,15 @@
      "title": "KJZZ — Largest data center proposal in Arizona",
      "url": "https://www.kjzz.org/business/2026-11-03/largest-data-center-proposal-in-arizona-heads-to-cochise-county-1st-community-meeting-scheduled"
     }
-   ]
+   ],
+   "powerCategories": [
+    "grid",
+    "battery",
+    "gas"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1600,7 +1787,11 @@
      "title": "YourStory — Google breaks ground in Visakhapatnam",
      "url": "https://yourstory.com/2026/04/google-breaks-ground-on-ai-hub-in-visakhapatnam"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1635,7 +1826,11 @@
      "title": "SSF Global — RMZ & Colt DCS 1.25GW Visakhapatnam",
      "url": "https://ssfglobal.in/industry_action/rmz-and-colt-dcs-to-develop-1-25-gw-hyperscale-data-centre-campus-in-visakhapatnam/"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": "2027-12",
+   "currentTargetYM": "2027-12",
+   "delayMonths": 0
   },
   {
    "locationApproximate": true,
@@ -1671,7 +1866,13 @@
      "title": "Meta Newsroom — Meta partners with Reliance",
      "url": "https://about.fb.com/news/2026/06/meta-partners-with-reliance-on-ai-enabled-data-center-in-india/"
     }
-   ]
+   ],
+   "powerCategories": [
+    "renewable"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1705,7 +1906,13 @@
      "title": "Outlook Business — Reliance 1GW AI data centre in AP",
      "url": "https://www.outlookbusiness.com/start-up/deeptech/after-google-reliance-plans-to-set-up-1-gw-ai-data-centre-in-andhra-pradesh"
     }
-   ]
+   ],
+   "powerCategories": [
+    "renewable"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1743,7 +1950,11 @@
    ],
    "investors": [
     "TPG"
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1779,7 +1990,11 @@
      "title": "W.Media — AirTrunk JHB3/JHB4 280MW",
      "url": "https://w.media/airtrunk-to-invest-us-3-billion-in-johor-to-build-two-hyperscale-campuses-totaling-280mw-capacity/"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1814,7 +2029,11 @@
      "title": "W.Media — AirTrunk JHB3/JHB4 280MW",
      "url": "https://w.media/airtrunk-to-invest-us-3-billion-in-johor-to-build-two-hyperscale-campuses-totaling-280mw-capacity/"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1849,7 +2068,11 @@
      "title": "Baxtel — STT GDC $1.37bn for 166MW Malaysia",
      "url": "https://baxtel.com/news/stt-gdc-secures-1-37bn-funding-for-166mw-malaysia-data-center"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": "2027-12",
+   "currentTargetYM": "2027-12",
+   "delayMonths": 0
   },
   {
    "locationApproximate": true,
@@ -1884,7 +2107,13 @@
      "title": "BTW Media — Firmus, Nvidia 360MW Batam",
      "url": "https://btw.media/en/firmus-nvidia-plan-360mw-ai-hub-in-batam"
     }
-   ]
+   ],
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": "2027-03",
+   "currentTargetYM": "2027-03",
+   "delayMonths": 0
   },
   {
    "locationApproximate": true,
@@ -1919,7 +2148,11 @@
      "title": "DataCenterNews Asia — EDGNEX $2.3bn Jakarta",
      "url": "https://datacenternews.asia/story/edgnex-invests-usd-2-3-billion-in-jakarta-ai-data-centre"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": "2026-12",
+   "currentTargetYM": "2026-12",
+   "delayMonths": 0
   },
   {
    "locationApproximate": true,
@@ -1953,7 +2186,13 @@
      "title": "W.Media — DayOne, Amata 1GW Thailand",
      "url": "https://w.media/?p=19455"
     }
-   ]
+   ],
+   "powerCategories": [
+    "renewable"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "locationApproximate": true,
@@ -1988,7 +2227,11 @@
      "title": "The Next Web — Thailand $29bn approvals",
      "url": "https://thenextweb.com/news/thailand-29-billion-tiktok-data-center-approval"
     }
-   ]
+   ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
   },
   {
    "id": "epoch-openai-stargate-new-mexico",
@@ -2042,8 +2285,14 @@
      "url": "https://www.oracle.com/news/announcement/oracle-borderplex-and-bloom-energy-to-power-project-jupiter-with-fuel-cell-technology-2026-04-27/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "fuel_cell"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-12",
+   "delayMonths": null
   },
   {
    "id": "epoch-anthropic-amazon-new-carlisle",
@@ -2103,8 +2352,12 @@
      "url": "https://t.co/HsAO7oyKa2"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-03",
+   "delayMonths": null
   },
   {
    "id": "epoch-colossus-2",
@@ -2172,8 +2425,12 @@
      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-02",
+   "delayMonths": null
   },
   {
    "id": "epoch-openai-stargate-shackelford",
@@ -2229,8 +2486,12 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026024094"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-11",
+   "delayMonths": null
   },
   {
    "id": "epoch-qts-cedar-rapids",
@@ -2292,8 +2553,14 @@
      "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-11",
+   "delayMonths": null
   },
   {
    "id": "epoch-openai-stargate-uae",
@@ -2345,8 +2612,12 @@
      "url": "https://www.bloomberg.com/news/articles/2025-10-09/us-approves-several-billion-dollars-of-nvidia-nvda-ai-chip-sales-to-uae"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-01",
+   "delayMonths": null
   },
   {
    "id": "epoch-openai-stargate-michigan",
@@ -2406,8 +2677,12 @@
      "url": "https://www.thesalinebarn.com/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-12",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-prometheus",
@@ -2466,8 +2741,14 @@
      "url": "https://drive.google.com/file/d/1OMbFbdNGPmfSkwVWqOAK-5pOufiKQBu1/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-07",
+   "delayMonths": null
   },
   {
    "id": "epoch-openai-stargate-wisconsin",
@@ -2515,8 +2796,12 @@
      "url": "https://drive.google.com/file/d/1ft2ZzqAYZtsTqMwyML4eo_EFYuclVxE6/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-12",
+   "delayMonths": null
   },
   {
    "id": "epoch-goodnight",
@@ -2578,8 +2863,14 @@
      "url": "https://drive.google.com/file/d/1sI8t1MzjDTAEnn-yY4zv3SiiTCpruzSQ/view?usp=drive_link"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-10",
+   "delayMonths": null
   },
   {
    "id": "epoch-openai-stargate-milam",
@@ -2631,8 +2922,12 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026017746"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-12",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-fort-wayne",
@@ -2688,8 +2983,12 @@
      "url": "https://citycouncildocuments.acfw.net/documents/download/2023-12-19/R-23-12-02.pdf"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-06",
+   "delayMonths": null
   },
   {
    "id": "epoch-amazon-ridgeland",
@@ -2751,8 +3050,14 @@
      "url": "https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-09",
+   "delayMonths": null
   },
   {
    "id": "epoch-crusoe-abilene-expansion",
@@ -2808,8 +3113,12 @@
      "url": "https://x.com/mustafasuleyman/status/2037547756320141587"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-11",
+   "delayMonths": null
   },
   {
    "id": "epoch-microsoft-fairwater-atlanta",
@@ -2871,8 +3180,14 @@
      "url": "https://www.bloomberg.com/news/features/2024-12-08/georgia-s-blackstone-backed-qts-data-center-hits-resistance-over-ai-power-needs"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-06",
+   "delayMonths": null
   },
   {
    "id": "epoch-amazon-madison-mega-site",
@@ -2932,8 +3247,12 @@
      "url": "https://newsletter.semianalysis.com/p/amazons-ai-resurgence-aws-anthropics-multi-gigawatt-trainium-expansion"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-03",
+   "delayMonths": null
   },
   {
    "id": "epoch-coreweave-helios",
@@ -2993,8 +3312,12 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025012175"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2029-01",
+   "delayMonths": null
   },
   {
    "id": "epoch-vnet-bayin-ulanqab",
@@ -3038,8 +3361,12 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-09",
+   "delayMonths": null
   },
   {
    "id": "epoch-dayone-nusajaya",
@@ -3099,8 +3426,12 @@
      "url": "https://www.ft.com/content/96fe9898-a3a4-4a33-be1d-da06bdb6cb2b"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-10",
+   "delayMonths": null
   },
   {
    "id": "epoch-envision-galaxy-ulanqab",
@@ -3144,8 +3475,12 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-12",
+   "delayMonths": null
   },
   {
    "id": "epoch-dayone-kempas",
@@ -3205,8 +3540,12 @@
      "url": "https://www.ft.com/content/96fe9898-a3a4-4a33-be1d-da06bdb6cb2b"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-10",
+   "delayMonths": null
   },
   {
    "id": "epoch-huawei-wuhu",
@@ -3250,8 +3589,12 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-12",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-bowling-green",
@@ -3309,8 +3652,14 @@
      "url": "https://drive.google.com/file/d/1L154XKyiHqRzeZj36zqMRkjdG7QIFL41/view?usp=drive_link"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-01",
+   "delayMonths": null
   },
   {
    "id": "epoch-coreweave-ellendale-nd",
@@ -3366,8 +3715,12 @@
      "url": "https://ir.applieddigital.com/news-events/press-releases/detail/157/applied-digital-delivers-second-building-at-polaris-forge-1"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-06",
+   "delayMonths": null
   },
   {
    "id": "epoch-stack-infrastructure-nva02",
@@ -3423,8 +3776,12 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25966/638633868679100000"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-01",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-omaha",
@@ -3476,8 +3833,12 @@
      "url": "https://sustainability.google/reports/google-2025-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-07",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-montgomery",
@@ -3533,8 +3894,12 @@
      "url": "https://www.henselphelps.com/meta-awards-hensel-phelps-montgomery-data-center/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-02",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-columbus",
@@ -3586,8 +3951,12 @@
      "url": "https://www.aeptransmission.com/ohio/docs/Hartman%20Farms%20Extension%20No.%202%20138%20kV%20Transmission%20Line%20Project%20Construction%20Notice.pdf"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-07",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-pryor-north",
@@ -3643,8 +4012,12 @@
      "url": "https://techcrunch.com/2022/05/11/google-launches-a-9-exaflop-cluster-of-cloud-tpu-v4-pods-into-public-preview/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-09",
+   "delayMonths": null
   },
   {
    "id": "epoch-anthropic-lake-mariner",
@@ -3700,8 +4073,12 @@
      "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-03",
+   "delayMonths": null
   },
   {
    "id": "epoch-huawei-horinger",
@@ -3745,8 +4122,12 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-02",
+   "delayMonths": null
   },
   {
    "id": "epoch-qts-eagle-mountain",
@@ -3794,8 +4175,12 @@
      "url": "https://daqpermitting.utah.gov/DocViewer?IntDocID=155764&contentType=application/pdf"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-07",
+   "delayMonths": null
   },
   {
    "id": "epoch-aws-new-albany",
@@ -3855,8 +4240,12 @@
      "url": "https://www.wosu.org/politics-government/2023-09-20/new-albany-city-council-approves-tax-break-deal-for-3-5-billion-amazon-data-center-project"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-07",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-new-albany",
@@ -3908,8 +4297,12 @@
      "url": "https://sustainability.google/reports/google-2025-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2025-10",
+   "delayMonths": null
   },
   {
    "id": "epoch-coreweave-denton-tx",
@@ -3969,8 +4362,12 @@
      "url": "https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-05",
+   "delayMonths": null
   },
   {
    "id": "epoch-ytl-johor",
@@ -4026,8 +4423,12 @@
      "url": "https://www.youtube.com/watch?v=HODHjDbFt10"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-08",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-storey-county",
@@ -4083,8 +4484,12 @@
      "url": "https://datacenters.google/locations/storey-county-nevada/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-06",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-lincoln",
@@ -4140,8 +4545,12 @@
      "url": "https://lnklan.granicus.com/DocumentViewer.php?file=lnklan_bfe1e3023d49404348f26355e113cb22.pdf&view=1"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-10",
+   "delayMonths": null
   },
   {
    "id": "epoch-qts-richmond-3",
@@ -4195,8 +4604,14 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-02",
+   "delayMonths": null
   },
   {
    "id": "epoch-qts-richmond-1",
@@ -4250,8 +4665,14 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2025-11",
+   "delayMonths": null
   },
   {
    "id": "epoch-bridge-data-centres-my06",
@@ -4311,8 +4732,12 @@
      "url": "https://www.google.com/maps/@1.695402,103.4214409,3a,47.7y,213.04h,92.05t/data=!3m7!1e1!3m5!1sG4O28vWhkgGAlyz3dZ-fdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0537269881136098%26panoid%3DG4O28vWhkgGAlyz3dZ-fdg%26yaw%3D213.043859649809!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2025-05",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-cedar-rapids",
@@ -4360,8 +4785,12 @@
      "url": "https://www.govonlinesaas.com/LCPH/EasyAir/Public/EnSuite/Shared/Pages/util/StreamDoc.ashx?id=260&type=attachment"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-05",
+   "delayMonths": null
   },
   {
    "id": "epoch-anthropic-barber-lake",
@@ -4425,8 +4854,12 @@
      "url": "https://www.datacenterdynamics.com/en/news/cipher-mining-secures-fluidstack-as-a-customer-and-google-as-an-investor/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-04",
+   "delayMonths": null
   },
   {
    "id": "epoch-openai-stargate-lordstown",
@@ -4478,8 +4911,12 @@
      "url": "https://drive.google.com/file/d/1xl4Ql2jdmKhcYFhn43ymM2TJ56Z8cInL/view?usp=drivesdk"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-03",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-bristow",
@@ -4527,8 +4964,12 @@
      "url": "https://sustainability.google/reports/google-2026-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-05",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-council-bluffs-east",
@@ -4580,8 +5021,12 @@
      "url": "https://programs.iowadnr.gov/easyair/Public/EnSuite/Shared/Pages/Util/ServerRptViewer.aspx?sr=/IDNR/Reports/EASY/RPT_Construction_Application_E_EU&SUBMISSION_RID=67330&SUB_FORM_RID=148297"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-07",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-papillion",
@@ -4633,8 +5078,12 @@
      "url": "https://sustainability.google/reports/google-2025-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2024-08",
+   "delayMonths": null
   },
   {
    "id": "epoch-start-campus-sines-data-campus",
@@ -4690,8 +5139,12 @@
      "url": "https://lp.startcampus.pt/start-campus-hosts-eus-first-nvidia-gb300-chips-with-nscale-for-microsoft"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-09",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-los-lunas",
@@ -4747,8 +5200,12 @@
      "url": "https://fortisconstruction.com/project/meta-los-lunas-campus/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2028-01",
+   "delayMonths": null
   },
   {
    "id": "epoch-stream-phoenix",
@@ -4800,8 +5257,12 @@
      "url": "https://www.streamdatacenters.com/wp-content/uploads/2026/01/SDC-Goodyear-CaseStudy-251218.pdf"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2030-01",
+   "delayMonths": null
   },
   {
    "id": "epoch-microsoft-goodyear",
@@ -4857,8 +5318,12 @@
      "url": "https://newsletter.semianalysis.com/p/microsofts-ai-strategy-deconstructed"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2025-09",
+   "delayMonths": null
   },
   {
    "id": "epoch-qts-richmond-2",
@@ -4912,8 +5377,14 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-05",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-cheyenne",
@@ -4969,8 +5440,12 @@
      "url": "https://cheyenneleads.org/meta-announces-new-data-center-a-major-investment-in-cheyenne-wyoming/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-02",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-qts-hillsboro-2",
@@ -5025,8 +5500,14 @@
      "url": "https://q.com/news/avangrid-and-portland-general-electric-collaborate-with-qts-and-meta-to-build-120-mwac-solar-project-in-oregon/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2024-11",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-rosemount",
@@ -5078,8 +5559,12 @@
      "url": "https://drive.google.com/file/d/1i2D0eMp9uc1CfRhymu69Bms5wz9q0Rkc/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-06",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-jeffersonville",
@@ -5135,8 +5620,12 @@
      "url": "https://drive.google.com/file/d/1RpOCS_z32qaWskhhAJL8_QjU9VSz5Eqh/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-06",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-mesa",
@@ -5188,8 +5677,12 @@
      "url": "https://www.datacenterdynamics.com/en/news/google-files-to-build-second-data-center-at-mesa-campus-in-arizona/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-08",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-temple",
@@ -5245,8 +5738,12 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026008019"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-09",
+   "delayMonths": null
   },
   {
    "id": "epoch-microsoft-project-osmium",
@@ -5306,8 +5803,12 @@
      "url": "https://news.microsoft.com/source/features/ai/west-des-moines-iowa-ai-supercomputer/?msockid=23bbdd21a02166402e27c929a1a567ce"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2025-03",
+   "delayMonths": null
   },
   {
    "id": "epoch-aws-berwick",
@@ -5367,8 +5868,12 @@
      "url": "https://www.srbc.gov/about/news/docs/2025-159-final-public-comment-responses-20260128.pdf"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-08",
+   "delayMonths": null
   },
   {
    "id": "epoch-alibaba-zhangbei",
@@ -5412,8 +5917,12 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-01",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-kuna",
@@ -5483,8 +5992,14 @@
      "url": "https://puc.idaho.gov/Fileroom/PublicFiles/ELEC/IPC/IPCE2442/OrdNotc/20241210Notice_of_Application_Order_No_36419.pdf"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-06",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-huntsville",
@@ -5540,8 +6055,15 @@
      "url": "https://www.prnewswire.com/news-releases/tva-announces-largest-valley-solar-installations--built-for-facebook-300743255.html"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid",
+    "renewable"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-06",
+   "delayMonths": null
   },
   {
    "id": "epoch-coreweave-chester-va",
@@ -5597,8 +6119,12 @@
      "url": "https://www.datacenterdynamics.com/en/news/chirisa-offers-former-capital-one-data-center-in-virginia-to-hyperscalers/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-06",
+   "delayMonths": null
   },
   {
    "id": "epoch-nebius-mantsala",
@@ -5650,8 +6176,12 @@
      "url": "https://nebius.com/blog/posts/first-live-nvidia-gb300-nvl72-deployment-in-europe"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-12",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-the-dalles",
@@ -5703,8 +6233,12 @@
      "url": "https://datacenters.google/efficiency/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-04",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-red-oak",
@@ -5756,8 +6290,12 @@
      "url": "https://datacenters.google/efficiency/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-12",
+   "delayMonths": null
   },
   {
    "id": "epoch-coreweave-muskogee-ok",
@@ -5809,8 +6347,12 @@
      "url": "https://applications.deq.ok.gov/permitspublic/storedpermits/9138.pdf"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-12",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-eagle-mountain",
@@ -5864,8 +6406,14 @@
      "url": "https://ukozvhzgrcnkcatjqfoo.supabase.co/storage/v1/object/public/03-00-air-construction/2026.02.05_Eagle%20Mountain%20Power%20Plant_Application_32a5238b.pdf"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2025-12",
+   "delayMonths": null
   },
   {
    "id": "epoch-vantage-tx1",
@@ -5921,8 +6469,12 @@
      "url": "https://drive.google.com/file/d/1rbF-RT5Sq-iZ26hK5cKzbM2K4Vq2vObY/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-08",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-aiken",
@@ -5974,8 +6526,12 @@
      "url": "https://www.dpr.com/projects/meta-aiken-data-center-aiken-sc"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-11",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-lancaster",
@@ -6023,8 +6579,12 @@
      "url": "https://www.datacenterdynamics.com/en/news/google-to-build-two-more-data-centers-in-columbus-ohio/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2025-10",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-kansas-city-east",
@@ -6076,8 +6636,12 @@
      "url": "https://www.datacenterdynamics.com/en/news/google-files-project-plan-for-data-center-in-kansas-city-missouri/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-08",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-waltham-cross",
@@ -6140,8 +6704,14 @@
      "url": "https://www.cpreherts.org.uk/resources/land-at-maxwells-farm-west-great-cambridge-road-cheshunt-hertfordshire/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": "2025-09",
+   "delayMonths": null
   },
   {
    "id": "epoch-coreweave-lancaster-greenfield-site",
@@ -6189,8 +6759,12 @@
      "url": "https://www.datacenterdynamics.com/en/news/machine-investment-acquires-two-printing-press-sites-in-pennsylvania-plans-data-center-redevelopment/?utm_source=datacentermap.com"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2027-06",
+   "delayMonths": null
   },
   {
    "id": "epoch-microsoft-narvik-norway",
@@ -6242,8 +6816,12 @@
      "url": "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-12",
+   "delayMonths": null
   },
   {
    "id": "epoch-google-midlothian",
@@ -6295,8 +6873,12 @@
      "url": "https://archive-stream.granicus.com/OnDemand/_definst_/mp4:swagitVideo/midlothiantx/eefcd9e0-4c12-41ba-986a-165a20124c72.mp4/playlist.m3u8"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-07",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-gallatin",
@@ -6348,8 +6930,12 @@
      "url": "https://www.gallatingetsit.com/newsroom/meta-approved-for-another-data-center-on-gallatin-campus"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-08",
+   "delayMonths": null
   },
   {
    "id": "epoch-microsoft-sat40",
@@ -6401,8 +6987,12 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/EABPRJB8824650"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2025-12",
+   "delayMonths": null
   },
   {
    "id": "epoch-meta-sarpy",
@@ -6450,8 +7040,12 @@
      "url": "https://datacenters.atmeta.com/asset/sarpy-data-center-info-sheet/"
     }
    ],
-   "lastVerified": "2026-11-12",
-   "dataSource": "Epoch AI"
+   "lastVerified": "2026-11-13",
+   "dataSource": "Epoch AI",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": "2026-08",
+   "delayMonths": null
   }
  ]
 }
