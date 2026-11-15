@@ -1,0 +1,249 @@
+{
+ "1 Community Cir, New Albany, OH 43054, United States": null,
+ "1 Meta Lp, Gallatin, TN 37066, United States": null,
+ "10001 Lima Rd, Claude, TX 79019, United States": null,
+ "10410 Bunge Ave, Council Bluffs, IA 51503, United States": {
+  "by": "US Census Geocoder",
+  "lat": 41.167418141276,
+  "lng": -95.793107634728
+ },
+ "105 Whiley Rd, Lancaster, OH 43130, United States": {
+  "by": "US Census Geocoder",
+  "lat": 39.727031372056,
+  "lng": -82.683111290507
+ },
+ "1101 Beech Rd SW, New Albany, OH 43054, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 40.070051,
+  "lng": -82.754042
+ },
+ "11110 State St, Omaha, NE 68142, United States": {
+  "by": "US Census Geocoder",
+  "lat": 41.335728085545,
+  "lng": -96.088471406098
+ },
+ "1125 Electron Ave, Berwick, PA 18603, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 41.0838485,
+  "lng": -76.1435333
+ },
+ "12356 Middleton Pike, Bowling Green, OH 43402, United States": {
+  "by": "US Census Geocoder",
+  "lat": 41.45826725086,
+  "lng": -83.636217439419
+ },
+ "1275 N Community Cir, Eagle Mountain, UT 84005, United States": null,
+ "13001 Rollins Ford Road, Bristow, VA 20136, United States": {
+  "by": "US Census Geocoder",
+  "lat": 38.782544165202,
+  "lng": -77.57971701769
+ },
+ "13360 Miller Rd NW, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 40.1158074,
+  "lng": -82.7395358
+ },
+ "1401 Meadowville Technology Parkway, Chester, VA, United States": {
+  "by": "US Census Geocoder",
+  "lat": 37.361745240614,
+  "lng": -77.325259396826
+ },
+ "14250 W Broadway Rd, Goodyear, AZ 85338, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 33.4089905,
+  "lng": -112.3647996
+ },
+ "1435 Hwy 54 W, Fayetteville, GA 30214, United States": {
+  "by": "US Census Geocoder",
+  "lat": 33.445340546204,
+  "lng": -84.525446609061
+ },
+ "14436-14998 Fairview Rd, Springfield, NE 68059, USA, United States": {
+  "by": "US Census Geocoder",
+  "lat": 41.103572416149,
+  "lng": -96.147913090146
+ },
+ "14651-15249 Gold Coast Rd 68138 Papillion Nebraska, USA, United States": null,
+ "14720 Omicron Dr, San Antonio, TX 78245, United States": {
+  "by": "US Census Geocoder",
+  "lat": 29.416683531254,
+  "lng": -98.788564103486
+ },
+ "15000 Lambda Drive, San Antonio, TX 78245, United States": null,
+ "1525 W 43rd St S, Muskogee, OK 74401, USA, United States": null,
+ "1626 County Line Road Ridgeland, Mississippi, United States": {
+  "by": "US Census Geocoder",
+  "lat": 32.399543508385,
+  "lng": -90.120485603023
+ },
+ "175 Private Road 1604, Abilene, TX 79601, Shackelford County, United States": null,
+ "1772-2396 145th St, Rosemount, MN 55068, USA, United States": {
+  "by": "US Census Geocoder",
+  "lat": 44.738819595512,
+  "lng": -93.057004685235
+ },
+ "216 Greenfield Rd, Lancaster, PA \n, United States": {
+  "by": "US Census Geocoder",
+  "lat": 40.048690305089,
+  "lng": -76.256089835306
+ },
+ "2300 Hallock Young Rd, Warren, OH 44481, United States": {
+  "by": "US Census Geocoder",
+  "lat": 41.143721220025,
+  "lng": -80.883293483213
+ },
+ "2310 Eberhardt Rd, Temple, TX 76504, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 31.1260165,
+  "lng": -97.3600001
+ },
+ "2950 S. Litchfield Road, United States": {
+  "by": "US Census Geocoder",
+  "lat": 33.479282344597,
+  "lng": -112.35932850694
+ },
+ "3250 Railport Parkway, Midlothian, TX 76065, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 32.438927,
+  "lng": -97.0507991
+ },
+ "330 Austin Blvd, Red Oak, TX 75154, United States": {
+  "by": "US Census Geocoder",
+  "lat": 32.529975790363,
+  "lng": -96.799787783078
+ },
+ "3500 River Rd, The Dalles, OR, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 45.6253889,
+  "lng": -121.2023887
+ },
+ "3525–3543 Portugee Rd, Sandston, VA 23150, United States": null,
+ "4250 Messenger Lp, Los Lunas, NM 87031, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 34.8301645,
+  "lng": -106.7838267
+ },
+ "4581 Webb St, Pryor, OK 74361, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 36.2411721,
+  "lng": -95.3300473
+ },
+ "4755 NE Huffman St, Hillsboro, OR 97124, United States": {
+  "by": "US Census Geocoder",
+  "lat": 45.556953477024,
+  "lng": -122.931942381381
+ },
+ "500 8th St, Jeffersonville, IN 47130, USA, United States": {
+  "by": "US Census Geocoder",
+  "lat": 38.279118096229,
+  "lng": -85.739096631921
+ },
+ "5076 S High St, Columbus, OH 43207, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 39.8614521,
+  "lng": -83.0039995
+ },
+ "5400 Prosperity Dr NW, Toney, AL, United States": null,
+ "5420 Tulane Rd, Memphis, TN 38109, United States": {
+  "by": "US Census Geocoder",
+  "lat": 34.9994880087,
+  "lng": -90.042976440198
+ },
+ "5475 Cloud Ct, Lincoln, NE 68514, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 40.907472,
+  "lng": -96.6457832
+ },
+ "55001 Larrison Blvd, New Carlisle, IN 46552, United States": {
+  "by": "US Census Geocoder",
+  "lat": 41.693774125775,
+  "lng": -86.460524297175
+ },
+ "5502 Spinks Rd, Abilene, TX 79601, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 32.4942321,
+  "lng": -99.8009071
+ },
+ "5800 EDGEWOOD RD SW CEDAR RAPIDS, IA 52404, United States": {
+  "by": "US Census Geocoder",
+  "lat": 41.921946128019,
+  "lng": -91.715629615019
+ },
+ "5855 SW Kerry St, Cumming, IA 50061, United States": null,
+ "6000 Technology Blvd, Sandston, VA 23150, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 37.4888273,
+  "lng": -77.24749
+ },
+ "601 Kuna Mora Rd,  Kuna ID 83634, United States": {
+  "by": "US Census Geocoder",
+  "lat": 43.459233402117,
+  "lng": -116.421077193242
+ },
+ "6015 Adams Center Road, Fort Wayne, IN 46806, United States": {
+  "by": "US Census Geocoder",
+  "lat": 41.031166579954,
+  "lng": -85.057768391974
+ },
+ "6030–6070 Technology Blvd, Sandston, VA 23150, United States": null,
+ "6200 76th Ave SW, Fairfax, IA 52228, United States": {
+  "by": "US Census Geocoder",
+  "lat": 41.905594293137,
+  "lng": -91.751082222284
+ },
+ "652 E Hyperscale Way, Eagle Mountain, UT 84013, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 40.2688855,
+  "lng": -112.0342942
+ },
+ "7601 State Hwy 105, Trenton, SC 29847, USA, United States": null,
+ "7725 Lake Rd, Barker, NY 14012, United States": {
+  "by": "US Census Geocoder",
+  "lat": 43.348940357577,
+  "lng": -78.603357217695
+ },
+ "8171 Jim Christal Rd, Denton, TX 76207, United States": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 33.2192732,
+  "lng": -97.174715
+ },
+ "9590 Hornbaker Rd, Manassas, VA 20109, United States": {
+  "by": "US Census Geocoder",
+  "lat": 38.749819262609,
+  "lng": -77.535848480473
+ },
+ "9685 87th Ave SE, Ellendale, ND 58436, United States": {
+  "by": "US Census Geocoder",
+  "lat": 46.00614270139,
+  "lng": -98.568735689845
+ },
+ "984 County Road 112, Afton, TX 79220, United States": {
+  "by": "US Census Geocoder",
+  "lat": 33.780638980867,
+  "lng": -100.867098637288
+ },
+ "Alibaba Zhangbei Yun Calculation Data Center, Zhangbei County, Zhangjiakou, Hebei, China, 076471": null,
+ "Bayin, Ulanqab, China": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 41.6241526,
+  "lng": 112.6325011
+ },
+ "Bridge Data Centres, Sedenak Tech Park, Johor, Malaysia": null,
+ "Cheyenne, WY 82007, USA, United States": null,
+ "Co Rd 42, Montgomery, AL 36105, USA, United States": {
+  "by": "US Census Geocoder",
+  "lat": 32.26499674362,
+  "lng": -86.363511872502
+ },
+ "HP79+MP, 81300 Johor Bahru, Johor, Malaysia": null,
+ "Huawei, Horinger, China": null,
+ "Land at Maxwell's Farm West, Great Cambridge Road, Cheshunt, EN8 8XH, United Kingdom": null,
+ "Nexus L&T Project Office, Al Bihouth, Al Dhafrah, Abu Dhabi, United Arab Emirates, UAE": null,
+ "Start Campus - Sustainable Data Center Services, Sines, Portugal": null,
+ "Wuhu, China": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": 31.1800568,
+  "lng": 118.2141777
+ },
+ "YTL Green Data Centers, Kulai, Johor, Malaysia": null
+}

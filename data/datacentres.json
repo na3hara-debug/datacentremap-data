@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13",
+ "generatedAt": "2026-11-15",
  "count": 131,
  "attribution": "Epoch AI, \"AI data centers\" (CC BY 4.0), https://epoch.ai/data/ai-data-centers — transformed. Curated records cite their own sources.",
  "records": [
@@ -2285,8 +2285,9 @@
      "url": "https://www.oracle.com/news/announcement/oracle-borderplex-and-bloom-energy-to-power-project-jupiter-with-fuel-cell-technology-2026-04-27/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": null,
    "powerCategories": [
     "fuel_cell"
    ],
@@ -2301,9 +2302,9 @@
    "tenant": "Anthropic",
    "country": "United States",
    "location": "New Carlisle, Indiana",
-   "latitude": 41.705,
-   "longitude": -86.484,
-   "locationApproximate": true,
+   "latitude": 41.69377,
+   "longitude": -86.46052,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -2352,12 +2353,14 @@
      "url": "https://t.co/HsAO7oyKa2"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "55001 Larrison Blvd, New Carlisle, IN 46552",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2028-03",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-colossus-2",
@@ -2366,9 +2369,9 @@
    "tenant": "Anthropic, Cursor, SpaceXAI",
    "country": "United States",
    "location": "Memphis, Tennessee",
-   "latitude": 35.042,
-   "longitude": -90.073,
-   "locationApproximate": true,
+   "latitude": 34.99949,
+   "longitude": -90.04298,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -2425,12 +2428,14 @@
      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "5420 Tulane Rd, Memphis, TN 38109",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-02",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-openai-stargate-shackelford",
@@ -2486,8 +2491,9 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026024094"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "175 Private Road 1604, Abilene, TX 79601, Shackelford County",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2028-11",
@@ -2500,9 +2506,9 @@
    "tenant": "Meta (speculative)",
    "country": "United States",
    "location": "Fairfax, Iowa",
-   "latitude": 41.915,
-   "longitude": -91.78,
-   "locationApproximate": true,
+   "latitude": 41.90559,
+   "longitude": -91.75108,
+   "locationApproximate": false,
    "status": "construction",
    "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -2553,14 +2559,16 @@
      "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "6200 76th Ave SW, Fairfax, IA 52228",
    "powerCategories": [
     "grid"
    ],
    "originalTargetYM": null,
    "currentTargetYM": "2027-11",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-openai-stargate-uae",
@@ -2612,8 +2620,9 @@
      "url": "https://www.bloomberg.com/news/articles/2025-10-09/us-approves-several-billion-dollars-of-nvidia-nvda-ai-chip-sales-to-uae"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "Nexus L&T Project Office, Al Bihouth, Al Dhafrah, Abu Dhabi, United Arab Emirates",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2028-01",
@@ -2677,8 +2686,9 @@
      "url": "https://www.thesalinebarn.com/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": null,
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2028-12",
@@ -2741,8 +2751,9 @@
      "url": "https://drive.google.com/file/d/1OMbFbdNGPmfSkwVWqOAK-5pOufiKQBu1/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "1 Community Cir, New Albany, OH 43054",
    "powerCategories": [
     "grid"
    ],
@@ -2796,8 +2807,9 @@
      "url": "https://drive.google.com/file/d/1ft2ZzqAYZtsTqMwyML4eo_EFYuclVxE6/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": null,
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2028-12",
@@ -2863,8 +2875,9 @@
      "url": "https://drive.google.com/file/d/1sI8t1MzjDTAEnn-yY4zv3SiiTCpruzSQ/view?usp=drive_link"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "10001 Lima Rd, Claude, TX 79019",
    "powerCategories": [
     "grid"
    ],
@@ -2922,8 +2935,9 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026017746"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": null,
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2028-12",
@@ -2936,9 +2950,9 @@
    "tenant": "Google DeepMind (speculative)",
    "country": "United States",
    "location": "Fort Wayne, Indiana",
-   "latitude": 41.048,
-   "longitude": -85.114,
-   "locationApproximate": true,
+   "latitude": 41.03117,
+   "longitude": -85.05777,
+   "locationApproximate": false,
    "status": "construction",
    "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -2983,12 +2997,14 @@
      "url": "https://citycouncildocuments.acfw.net/documents/download/2023-12-19/R-23-12-02.pdf"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "6015 Adams Center Road, Fort Wayne, IN 46806",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2028-06",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-amazon-ridgeland",
@@ -2997,9 +3013,9 @@
    "tenant": "Anthropic (speculative)",
    "country": "United States",
    "location": "Ridgeland, Mississippi",
-   "latitude": 32.42,
-   "longitude": -90.13,
-   "locationApproximate": true,
+   "latitude": 32.39954,
+   "longitude": -90.12049,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -3050,14 +3066,16 @@
      "url": "https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "1626 County Line Road Ridgeland, Mississippi",
    "powerCategories": [
     "grid"
    ],
    "originalTargetYM": null,
    "currentTargetYM": "2028-09",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-crusoe-abilene-expansion",
@@ -3066,9 +3084,9 @@
    "tenant": "Microsoft (likely)",
    "country": "United States",
    "location": "Abilene, Texas",
-   "latitude": 32.468,
-   "longitude": -99.718,
-   "locationApproximate": true,
+   "latitude": 32.49423,
+   "longitude": -99.80091,
+   "locationApproximate": false,
    "status": "construction",
    "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -3113,12 +3131,14 @@
      "url": "https://x.com/mustafasuleyman/status/2037547756320141587"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "5502 Spinks Rd, Abilene, TX 79601",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-11",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-microsoft-fairwater-atlanta",
@@ -3127,9 +3147,9 @@
    "tenant": "OpenAI (likely), Microsoft (likely)",
    "country": "United States",
    "location": "Fayetteville, Georgia",
-   "latitude": 33.468,
-   "longitude": -84.481,
-   "locationApproximate": true,
+   "latitude": 33.44534,
+   "longitude": -84.52545,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -3180,14 +3200,16 @@
      "url": "https://www.bloomberg.com/news/features/2024-12-08/georgia-s-blackstone-backed-qts-data-center-hits-resistance-over-ai-power-needs"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "1435 Hwy 54 W, Fayetteville, GA 30214",
    "powerCategories": [
     "grid"
    ],
    "originalTargetYM": null,
    "currentTargetYM": "2026-06",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-amazon-madison-mega-site",
@@ -3247,8 +3269,9 @@
      "url": "https://newsletter.semianalysis.com/p/amazons-ai-resurgence-aws-anthropics-multi-gigawatt-trainium-expansion"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "Amazon Data Services Inc, Madison Mega Site Nissan Parkway and Highway 22 Canton, Mississippi Madison County",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2028-03",
@@ -3261,9 +3284,9 @@
    "tenant": "OpenAI (speculative)",
    "country": "United States",
    "location": "Afton, Texas",
-   "latitude": 33.772,
-   "longitude": -100.802,
-   "locationApproximate": true,
+   "latitude": 33.78064,
+   "longitude": -100.8671,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -3312,12 +3335,14 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025012175"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "984 County Road 112, Afton, TX 79220",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2029-01",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-vnet-bayin-ulanqab",
@@ -3361,8 +3386,9 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "Bayin, Ulanqab, China",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-09",
@@ -3426,8 +3452,9 @@
      "url": "https://www.ft.com/content/96fe9898-a3a4-4a33-be1d-da06bdb6cb2b"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": null,
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-10",
@@ -3475,8 +3502,9 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": null,
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-12",
@@ -3540,8 +3568,9 @@
      "url": "https://www.ft.com/content/96fe9898-a3a4-4a33-be1d-da06bdb6cb2b"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "HP79+MP, 81300 Johor Bahru, Johor, Malaysia",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-10",
@@ -3554,9 +3583,9 @@
    "tenant": null,
    "country": "China",
    "location": "Wuhu, Anhui",
-   "latitude": 31.33,
-   "longitude": 118.43,
-   "locationApproximate": true,
+   "latitude": 31.18006,
+   "longitude": 118.21418,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -3589,12 +3618,14 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "Wuhu, China",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-12",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-meta-bowling-green",
@@ -3603,9 +3634,9 @@
    "tenant": "Meta",
    "country": "United States",
    "location": "Bowling Green, Ohio",
-   "latitude": 41.38,
-   "longitude": -83.65,
-   "locationApproximate": true,
+   "latitude": 41.45827,
+   "longitude": -83.63622,
+   "locationApproximate": false,
    "status": "construction",
    "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -3652,14 +3683,16 @@
      "url": "https://drive.google.com/file/d/1L154XKyiHqRzeZj36zqMRkjdG7QIFL41/view?usp=drive_link"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "12356 Middleton Pike, Bowling Green, OH 43402",
    "powerCategories": [
     "grid"
    ],
    "originalTargetYM": null,
    "currentTargetYM": "2028-01",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-coreweave-ellendale-nd",
@@ -3668,9 +3701,9 @@
    "tenant": "OpenAI (speculative)",
    "country": "United States",
    "location": "Ellendale, North Dakota",
-   "latitude": 46.007,
-   "longitude": -98.514,
-   "locationApproximate": true,
+   "latitude": 46.00614,
+   "longitude": -98.56874,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -3715,12 +3748,14 @@
      "url": "https://ir.applieddigital.com/news-events/press-releases/detail/157/applied-digital-delivers-second-building-at-polaris-forge-1"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "9685 87th Ave SE, Ellendale, ND 58436",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-06",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-stack-infrastructure-nva02",
@@ -3729,9 +3764,9 @@
    "tenant": null,
    "country": "United States",
    "location": "Manassas, Virginia",
-   "latitude": 38.793,
-   "longitude": -77.527,
-   "locationApproximate": true,
+   "latitude": 38.74982,
+   "longitude": -77.53585,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -3776,12 +3811,14 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25966/638633868679100000"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "9590 Hornbaker Rd, Manassas, VA 20109",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2028-01",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-google-omaha",
@@ -3790,9 +3827,9 @@
    "tenant": "Google DeepMind (speculative)",
    "country": "United States",
    "location": "Omaha, Nebraska",
-   "latitude": 41.3,
-   "longitude": -96.1,
-   "locationApproximate": true,
+   "latitude": 41.33573,
+   "longitude": -96.08847,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -3833,12 +3870,14 @@
      "url": "https://sustainability.google/reports/google-2025-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "11110 State St, Omaha, NE 68142",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2028-07",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-meta-montgomery",
@@ -3847,9 +3886,9 @@
    "tenant": "Meta",
    "country": "United States",
    "location": "Montgomery, Alabama",
-   "latitude": 32.326,
-   "longitude": -86.31,
-   "locationApproximate": true,
+   "latitude": 32.265,
+   "longitude": -86.36351,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -3894,12 +3933,14 @@
      "url": "https://www.henselphelps.com/meta-awards-hensel-phelps-montgomery-data-center/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "Co Rd 42, Montgomery, AL 36105, USA",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-02",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-google-columbus",
@@ -3908,9 +3949,9 @@
    "tenant": "Google DeepMind (speculative)",
    "country": "United States",
    "location": "Columbus, Ohio",
-   "latitude": 39.905,
-   "longitude": -82.97,
-   "locationApproximate": true,
+   "latitude": 39.86145,
+   "longitude": -83.004,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -3951,12 +3992,14 @@
      "url": "https://www.aeptransmission.com/ohio/docs/Hartman%20Farms%20Extension%20No.%202%20138%20kV%20Transmission%20Line%20Project%20Construction%20Notice.pdf"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "5076 S High St, Columbus, OH 43207",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-07",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-google-pryor-north",
@@ -3965,9 +4008,9 @@
    "tenant": "Google DeepMind (speculative)",
    "country": "United States",
    "location": "Pryor, Oklahoma",
-   "latitude": 36.292,
-   "longitude": -95.313,
-   "locationApproximate": true,
+   "latitude": 36.24117,
+   "longitude": -95.33005,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -4012,12 +4055,14 @@
      "url": "https://techcrunch.com/2022/05/11/google-launches-a-9-exaflop-cluster-of-cloud-tpu-v4-pods-into-public-preview/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "4581 Webb St, Pryor, OK 74361",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-09",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-anthropic-lake-mariner",
@@ -4026,9 +4071,9 @@
    "tenant": "Anthropic (likely)",
    "country": "United States",
    "location": "Barker, New York",
-   "latitude": 43.337,
-   "longitude": -78.542,
-   "locationApproximate": true,
+   "latitude": 43.34894,
+   "longitude": -78.60336,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -4073,12 +4118,14 @@
      "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "7725 Lake Rd, Barker, NY 14012",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-03",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-huawei-horinger",
@@ -4122,8 +4169,9 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "Huawei, Horinger, China",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2028-02",
@@ -4136,9 +4184,9 @@
    "tenant": "Meta (speculative)",
    "country": "United States",
    "location": "Cedar Valley, Utah",
-   "latitude": 40.296,
-   "longitude": -112.092,
-   "locationApproximate": true,
+   "latitude": 40.26889,
+   "longitude": -112.03429,
+   "locationApproximate": false,
    "status": "construction",
    "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -4175,12 +4223,14 @@
      "url": "https://daqpermitting.utah.gov/DocViewer?IntDocID=155764&contentType=application/pdf"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "652 E Hyperscale Way, Eagle Mountain, UT 84013",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-07",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-aws-new-albany",
@@ -4189,9 +4239,9 @@
    "tenant": null,
    "country": "United States",
    "location": "New Albany, Ohio",
-   "latitude": 40.08,
-   "longitude": -82.79,
-   "locationApproximate": true,
+   "latitude": 40.11581,
+   "longitude": -82.73954,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -4240,12 +4290,14 @@
      "url": "https://www.wosu.org/politics-government/2023-09-20/new-albany-city-council-approves-tax-break-deal-for-3-5-billion-amazon-data-center-project"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "13360 Miller Rd NW",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-07",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-google-new-albany",
@@ -4254,9 +4306,9 @@
    "tenant": "Google DeepMind (speculative)",
    "country": "United States",
    "location": "New Albany, Ohio",
-   "latitude": 40.085,
-   "longitude": -82.799,
-   "locationApproximate": true,
+   "latitude": 40.07005,
+   "longitude": -82.75404,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -4297,12 +4349,14 @@
      "url": "https://sustainability.google/reports/google-2025-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "1101 Beech Rd SW, New Albany, OH 43054",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2025-10",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-coreweave-denton-tx",
@@ -4311,9 +4365,9 @@
    "tenant": "OpenAI (likely)",
    "country": "United States",
    "location": "Denton, Texas",
-   "latitude": 33.228,
-   "longitude": -97.181,
-   "locationApproximate": true,
+   "latitude": 33.21927,
+   "longitude": -97.17472,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -4362,12 +4416,14 @@
      "url": "https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "8171 Jim Christal Rd, Denton, TX 76207",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-05",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-ytl-johor",
@@ -4423,8 +4479,9 @@
      "url": "https://www.youtube.com/watch?v=HODHjDbFt10"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "YTL Green Data Centers, Kulai, Johor, Malaysia",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2028-08",
@@ -4484,8 +4541,9 @@
      "url": "https://datacenters.google/locations/storey-county-nevada/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": null,
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-06",
@@ -4498,9 +4556,9 @@
    "tenant": null,
    "country": "United States",
    "location": "Lincoln, Nebraska",
-   "latitude": 40.94,
-   "longitude": -96.662,
-   "locationApproximate": true,
+   "latitude": 40.90747,
+   "longitude": -96.64578,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -4545,12 +4603,14 @@
      "url": "https://lnklan.granicus.com/DocumentViewer.php?file=lnklan_bfe1e3023d49404348f26355e113cb22.pdf&view=1"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "5475 Cloud Ct, Lincoln, NE 68514",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-10",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-qts-richmond-3",
@@ -4604,8 +4664,9 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "3525–3543 Portugee Rd, Sandston, VA 23150",
    "powerCategories": [
     "grid"
    ],
@@ -4620,9 +4681,9 @@
    "tenant": null,
    "country": "United States",
    "location": "Sandston, Virginia",
-   "latitude": 37.516,
-   "longitude": -77.276,
-   "locationApproximate": true,
+   "latitude": 37.48883,
+   "longitude": -77.24749,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -4665,14 +4726,16 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "6000 Technology Blvd, Sandston, VA 23150",
    "powerCategories": [
     "grid"
    ],
    "originalTargetYM": null,
    "currentTargetYM": "2025-11",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-bridge-data-centres-my06",
@@ -4732,8 +4795,9 @@
      "url": "https://www.google.com/maps/@1.695402,103.4214409,3a,47.7y,213.04h,92.05t/data=!3m7!1e1!3m5!1sG4O28vWhkgGAlyz3dZ-fdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0537269881136098%26panoid%3DG4O28vWhkgGAlyz3dZ-fdg%26yaw%3D213.043859649809!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "Bridge Data Centres, Sedenak Tech Park, Johor, Malaysia",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2025-05",
@@ -4746,9 +4810,9 @@
    "tenant": "Google DeepMind (speculative)",
    "country": "United States",
    "location": "Cedar Rapids, Iowa",
-   "latitude": 41.952,
-   "longitude": -91.685,
-   "locationApproximate": true,
+   "latitude": 41.92195,
+   "longitude": -91.71563,
+   "locationApproximate": false,
    "status": "construction",
    "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -4785,12 +4849,14 @@
      "url": "https://www.govonlinesaas.com/LCPH/EasyAir/Public/EnSuite/Shared/Pages/util/StreamDoc.ashx?id=260&type=attachment"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "5800 EDGEWOOD RD SW CEDAR RAPIDS, IA 52404",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-05",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-anthropic-barber-lake",
@@ -4854,8 +4920,9 @@
      "url": "https://www.datacenterdynamics.com/en/news/cipher-mining-secures-fluidstack-as-a-customer-and-google-as-an-investor/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": null,
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-04",
@@ -4868,9 +4935,9 @@
    "tenant": "OpenAI",
    "country": "United States",
    "location": "Warren, Ohio",
-   "latitude": 41.172,
-   "longitude": -80.872,
-   "locationApproximate": true,
+   "latitude": 41.14372,
+   "longitude": -80.88329,
+   "locationApproximate": false,
    "status": "construction",
    "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -4911,12 +4978,14 @@
      "url": "https://drive.google.com/file/d/1xl4Ql2jdmKhcYFhn43ymM2TJ56Z8cInL/view?usp=drivesdk"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "2300 Hallock Young Rd, Warren, OH 44481",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-03",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-google-bristow",
@@ -4925,9 +4994,9 @@
    "tenant": "Google DeepMind",
    "country": "United States",
    "location": "Bristow, Virginia",
-   "latitude": 38.72,
-   "longitude": -77.54,
-   "locationApproximate": true,
+   "latitude": 38.78254,
+   "longitude": -77.57972,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -4964,12 +5033,14 @@
      "url": "https://sustainability.google/reports/google-2026-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "13001 Rollins Ford Road, Bristow, VA 20136",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-05",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-google-council-bluffs-east",
@@ -4978,9 +5049,9 @@
    "tenant": "Google DeepMind (speculative)",
    "country": "United States",
    "location": "Council Bluffs, Iowa",
-   "latitude": 41.23,
-   "longitude": -95.79,
-   "locationApproximate": true,
+   "latitude": 41.16742,
+   "longitude": -95.79311,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -5021,12 +5092,14 @@
      "url": "https://programs.iowadnr.gov/easyair/Public/EnSuite/Shared/Pages/Util/ServerRptViewer.aspx?sr=/IDNR/Reports/EASY/RPT_Construction_Application_E_EU&SUBMISSION_RID=67330&SUB_FORM_RID=148297"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "10410 Bunge Ave, Council Bluffs, IA 51503",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-07",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-google-papillion",
@@ -5078,8 +5151,9 @@
      "url": "https://sustainability.google/reports/google-2025-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "14651-15249 Gold Coast Rd 68138 Papillion Nebraska, USA",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2024-08",
@@ -5139,8 +5213,9 @@
      "url": "https://lp.startcampus.pt/start-campus-hosts-eus-first-nvidia-gb300-chips-with-nscale-for-microsoft"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "Start Campus - Sustainable Data Center Services, Sines, Portugal",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-09",
@@ -5153,9 +5228,9 @@
    "tenant": "Meta",
    "country": "United States",
    "location": "Los Lunas, New Mexico",
-   "latitude": 34.781,
-   "longitude": -106.712,
-   "locationApproximate": true,
+   "latitude": 34.83016,
+   "longitude": -106.78383,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -5200,12 +5275,14 @@
      "url": "https://fortisconstruction.com/project/meta-los-lunas-campus/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "4250 Messenger Lp, Los Lunas, NM 87031",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2028-01",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-stream-phoenix",
@@ -5214,9 +5291,9 @@
    "tenant": null,
    "country": "United States",
    "location": "Goodyear, Arizona",
-   "latitude": 33.42,
-   "longitude": -112.36,
-   "locationApproximate": true,
+   "latitude": 33.47928,
+   "longitude": -112.35933,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -5257,12 +5334,14 @@
      "url": "https://www.streamdatacenters.com/wp-content/uploads/2026/01/SDC-Goodyear-CaseStudy-251218.pdf"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "2950 S. Litchfield Road",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2030-01",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-microsoft-goodyear",
@@ -5271,9 +5350,9 @@
    "tenant": "OpenAI (likely), Microsoft",
    "country": "United States",
    "location": "Goodyear, Arizona",
-   "latitude": 33.38,
-   "longitude": -112.43,
-   "locationApproximate": true,
+   "latitude": 33.40899,
+   "longitude": -112.3648,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -5318,12 +5397,14 @@
      "url": "https://newsletter.semianalysis.com/p/microsofts-ai-strategy-deconstructed"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "14250 W Broadway Rd, Goodyear, AZ 85338",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2025-09",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-qts-richmond-2",
@@ -5377,8 +5458,9 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "6030–6070 Technology Blvd, Sandston, VA 23150",
    "powerCategories": [
     "grid"
    ],
@@ -5440,8 +5522,9 @@
      "url": "https://cheyenneleads.org/meta-announces-new-data-center-a-major-investment-in-cheyenne-wyoming/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "Cheyenne, WY 82007, USA",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-02",
@@ -5454,9 +5537,9 @@
    "tenant": "Meta (likely)",
    "country": "United States",
    "location": "Hillsboro, Oregon",
-   "latitude": 45.539,
-   "longitude": -122.964,
-   "locationApproximate": true,
+   "latitude": 45.55695,
+   "longitude": -122.93194,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -5500,14 +5583,16 @@
      "url": "https://q.com/news/avangrid-and-portland-general-electric-collaborate-with-qts-and-meta-to-build-120-mwac-solar-project-in-oregon/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "4755 NE Huffman St, Hillsboro, OR 97124",
    "powerCategories": [
     "grid"
    ],
    "originalTargetYM": null,
    "currentTargetYM": "2024-11",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-meta-rosemount",
@@ -5516,9 +5601,9 @@
    "tenant": "Meta",
    "country": "United States",
    "location": "Rosemount, Minnesota",
-   "latitude": 44.739,
-   "longitude": -93.126,
-   "locationApproximate": true,
+   "latitude": 44.73882,
+   "longitude": -93.057,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -5559,12 +5644,14 @@
      "url": "https://drive.google.com/file/d/1i2D0eMp9uc1CfRhymu69Bms5wz9q0Rkc/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "1772-2396 145th St, Rosemount, MN 55068, USA",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-06",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-meta-jeffersonville",
@@ -5573,9 +5660,9 @@
    "tenant": "Meta",
    "country": "United States",
    "location": "Jeffersonville, Indiana",
-   "latitude": 38.308,
-   "longitude": -85.736,
-   "locationApproximate": true,
+   "latitude": 38.27912,
+   "longitude": -85.7391,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -5620,12 +5707,14 @@
      "url": "https://drive.google.com/file/d/1RpOCS_z32qaWskhhAJL8_QjU9VSz5Eqh/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "500 8th St, Jeffersonville, IN 47130, USA",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-06",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-google-mesa",
@@ -5677,8 +5766,9 @@
      "url": "https://www.datacenterdynamics.com/en/news/google-files-to-build-second-data-center-at-mesa-campus-in-arizona/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": null,
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-08",
@@ -5691,9 +5781,9 @@
    "tenant": "Meta",
    "country": "United States",
    "location": "Temple, Texas",
-   "latitude": 31.092,
-   "longitude": -97.365,
-   "locationApproximate": true,
+   "latitude": 31.12602,
+   "longitude": -97.36,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -5738,12 +5828,14 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026008019"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "2310 Eberhardt Rd, Temple, TX 76504",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-09",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-microsoft-project-osmium",
@@ -5803,8 +5895,9 @@
      "url": "https://news.microsoft.com/source/features/ai/west-des-moines-iowa-ai-supercomputer/?msockid=23bbdd21a02166402e27c929a1a567ce"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "5855 SW Kerry St, Cumming, IA 50061",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2025-03",
@@ -5817,9 +5910,9 @@
    "tenant": "Anthropic (speculative)",
    "country": "United States",
    "location": "Berwick, Pennsylvania",
-   "latitude": 41.066,
-   "longitude": -76.244,
-   "locationApproximate": true,
+   "latitude": 41.08385,
+   "longitude": -76.14353,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -5868,12 +5961,14 @@
      "url": "https://www.srbc.gov/about/news/docs/2025-159-final-public-comment-responses-20260128.pdf"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "1125 Electron Ave, Berwick, PA 18603",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-08",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-alibaba-zhangbei",
@@ -5917,8 +6012,9 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "Alibaba Zhangbei Yun Calculation Data Center, Zhangbei County, Zhangjiakou, Hebei, China, 076471",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-01",
@@ -5931,9 +6027,9 @@
    "tenant": "Meta",
    "country": "United States",
    "location": "Kuna, Idaho",
-   "latitude": 43.487,
-   "longitude": -116.382,
-   "locationApproximate": true,
+   "latitude": 43.45923,
+   "longitude": -116.42108,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -5992,14 +6088,16 @@
      "url": "https://puc.idaho.gov/Fileroom/PublicFiles/ELEC/IPC/IPCE2442/OrdNotc/20241210Notice_of_Application_Order_No_36419.pdf"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "601 Kuna Mora Rd,  Kuna ID 83634",
    "powerCategories": [
     "grid"
    ],
    "originalTargetYM": null,
    "currentTargetYM": "2026-06",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-meta-huntsville",
@@ -6055,8 +6153,9 @@
      "url": "https://www.prnewswire.com/news-releases/tva-announces-largest-valley-solar-installations--built-for-facebook-300743255.html"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "5400 Prosperity Dr NW, Toney, AL",
    "powerCategories": [
     "grid",
     "renewable"
@@ -6072,9 +6171,9 @@
    "tenant": "OpenAI (speculative)",
    "country": "United States",
    "location": "Chester, Virginia",
-   "latitude": 37.36,
-   "longitude": -77.39,
-   "locationApproximate": true,
+   "latitude": 37.36175,
+   "longitude": -77.32526,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -6119,12 +6218,14 @@
      "url": "https://www.datacenterdynamics.com/en/news/chirisa-offers-former-capital-one-data-center-in-virginia-to-hyperscalers/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "1401 Meadowville Technology Parkway, Chester, VA",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-06",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-nebius-mantsala",
@@ -6176,8 +6277,9 @@
      "url": "https://nebius.com/blog/posts/first-live-nvidia-gb300-nvl72-deployment-in-europe"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": null,
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-12",
@@ -6190,9 +6292,9 @@
    "tenant": null,
    "country": "United States",
    "location": "The Dalles, Oregon",
-   "latitude": 45.63,
-   "longitude": -121.2,
-   "locationApproximate": true,
+   "latitude": 45.62539,
+   "longitude": -121.20239,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -6233,12 +6335,14 @@
      "url": "https://datacenters.google/efficiency/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "3500 River Rd, The Dalles, OR",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-04",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-google-red-oak",
@@ -6247,9 +6351,9 @@
    "tenant": null,
    "country": "United States",
    "location": "Red Oak, Texas",
-   "latitude": 32.519,
-   "longitude": -96.807,
-   "locationApproximate": true,
+   "latitude": 32.52998,
+   "longitude": -96.79979,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -6290,12 +6394,14 @@
      "url": "https://datacenters.google/efficiency/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "330 Austin Blvd, Red Oak, TX 75154",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-12",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-coreweave-muskogee-ok",
@@ -6347,8 +6453,9 @@
      "url": "https://applications.deq.ok.gov/permitspublic/storedpermits/9138.pdf"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "1525 W 43rd St S, Muskogee, OK 74401, USA",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-12",
@@ -6406,8 +6513,9 @@
      "url": "https://ukozvhzgrcnkcatjqfoo.supabase.co/storage/v1/object/public/03-00-air-construction/2026.02.05_Eagle%20Mountain%20Power%20Plant_Application_32a5238b.pdf"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "1275 N Community Cir, Eagle Mountain, UT 84005",
    "powerCategories": [
     "grid"
    ],
@@ -6422,9 +6530,9 @@
    "tenant": null,
    "country": "United States",
    "location": "San Antonio, Texas",
-   "latitude": 29.419,
-   "longitude": -98.689,
-   "locationApproximate": true,
+   "latitude": 29.41668,
+   "longitude": -98.78856,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Partially operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -6469,12 +6577,14 @@
      "url": "https://drive.google.com/file/d/1rbF-RT5Sq-iZ26hK5cKzbM2K4Vq2vObY/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "14720 Omicron Dr, San Antonio, TX 78245",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-08",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-meta-aiken",
@@ -6526,8 +6636,9 @@
      "url": "https://www.dpr.com/projects/meta-aiken-data-center-aiken-sc"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "7601 State Hwy 105, Trenton, SC 29847, USA",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-11",
@@ -6540,9 +6651,9 @@
    "tenant": null,
    "country": "United States",
    "location": "Lancaster, Ohio",
-   "latitude": 39.719,
-   "longitude": -82.603,
-   "locationApproximate": true,
+   "latitude": 39.72703,
+   "longitude": -82.68311,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -6579,12 +6690,14 @@
      "url": "https://www.datacenterdynamics.com/en/news/google-to-build-two-more-data-centers-in-columbus-ohio/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "105 Whiley Rd, Lancaster, OH 43130",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2025-10",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-google-kansas-city-east",
@@ -6636,8 +6749,9 @@
      "url": "https://www.datacenterdynamics.com/en/news/google-files-project-plan-for-data-center-in-kansas-city-missouri/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": null,
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-08",
@@ -6704,8 +6818,9 @@
      "url": "https://www.cpreherts.org.uk/resources/land-at-maxwells-farm-west-great-cambridge-road-cheshunt-hertfordshire/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "Land at Maxwell's Farm West, Great Cambridge Road, Cheshunt, EN8 8XH",
    "powerCategories": [
     "grid"
    ],
@@ -6720,9 +6835,9 @@
    "tenant": "OpenAI (speculative)",
    "country": "United States",
    "location": "Lancaster, Pennsylvania",
-   "latitude": 40.04,
-   "longitude": -76.31,
-   "locationApproximate": true,
+   "latitude": 40.04869,
+   "longitude": -76.25609,
+   "locationApproximate": false,
    "status": "construction",
    "statusNote": "Under construction (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -6759,12 +6874,14 @@
      "url": "https://www.datacenterdynamics.com/en/news/machine-investment-acquires-two-printing-press-sites-in-pennsylvania-plans-data-center-redevelopment/?utm_source=datacentermap.com"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "216 Greenfield Rd, Lancaster, PA \n",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2027-06",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   },
   {
    "id": "epoch-microsoft-narvik-norway",
@@ -6816,8 +6933,9 @@
      "url": "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": null,
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-12",
@@ -6830,9 +6948,9 @@
    "tenant": null,
    "country": "United States",
    "location": "Midlothian, Texas",
-   "latitude": 32.476,
-   "longitude": -96.994,
-   "locationApproximate": true,
+   "latitude": 32.43893,
+   "longitude": -97.0508,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -6873,12 +6991,14 @@
      "url": "https://archive-stream.granicus.com/OnDemand/_definst_/mp4:swagitVideo/midlothiantx/eefcd9e0-4c12-41ba-986a-165a20124c72.mp4/playlist.m3u8"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "3250 Railport Parkway, Midlothian, TX 76065",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-07",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (OpenStreetMap Nominatim)"
   },
   {
    "id": "epoch-meta-gallatin",
@@ -6930,8 +7050,9 @@
      "url": "https://www.gallatingetsit.com/newsroom/meta-approved-for-another-data-center-on-gallatin-campus"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "1 Meta Lp, Gallatin, TN 37066",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-08",
@@ -6987,8 +7108,9 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/EABPRJB8824650"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "15000 Lambda Drive, San Antonio, TX 78245",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2025-12",
@@ -7001,9 +7123,9 @@
    "tenant": "Meta",
    "country": "United States",
    "location": "Springfield, Nebraska",
-   "latitude": 41.08,
-   "longitude": -96.13,
-   "locationApproximate": true,
+   "latitude": 41.10357,
+   "longitude": -96.14791,
+   "locationApproximate": false,
    "status": "operational",
    "statusNote": "Fully operational (per Epoch AI satellite & permit analysis)",
    "facilityType": "AI",
@@ -7040,12 +7162,14 @@
      "url": "https://datacenters.atmeta.com/asset/sarpy-data-center-info-sheet/"
     }
    ],
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
+   "address": "14436-14998 Fairview Rd, Springfield, NE 68059, USA",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-08",
-   "delayMonths": null
+   "delayMonths": null,
+   "locationSource": "Street address (US Census Geocoder)"
   }
  ]
 }
