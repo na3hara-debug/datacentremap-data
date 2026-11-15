@@ -4086,11 +4086,19 @@
    "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
    "address": "4581 Webb St, Pryor, OK 74361",
+   "summary": "Part of Google's large data centre campus at the MidAmerica Industrial Park near Pryor in Mayes County, Oklahoma.",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-09",
    "delayMonths": null,
-   "locationSource": "Street address (OpenStreetMap Nominatim)"
+   "locationSource": "Street address (OpenStreetMap Nominatim)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Google_Mayes_County_P0004974a.jpg/1280px-Google_Mayes_County_P0004974a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Google_Mayes_County_P0004974a.jpg",
+    "author": "Xpda",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+   }
   },
   {
    "id": "epoch-anthropic-lake-mariner",
@@ -6366,11 +6374,19 @@
    "lastVerified": "2026-11-15",
    "dataSource": "Epoch AI",
    "address": "3500 River Rd, The Dalles, OR",
+   "summary": "Google's first company-built data centre, opened in 2006 on the Columbia River in The Dalles, Oregon. The campus has since grown with further buildings and is now one of Google's largest sites.",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": "2026-04",
    "delayMonths": null,
-   "locationSource": "Street address (OpenStreetMap Nominatim)"
+   "locationSource": "Street address (OpenStreetMap Nominatim)",
+   "photo": {
+    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Google_Datacenter_-_The_Dalles%2C_Oregon_%2817832143871%29.jpg/1280px-Google_Datacenter_-_The_Dalles%2C_Oregon_%2817832143871%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "page": "https://commons.wikimedia.org/wiki/File:Google_Datacenter_-_The_Dalles,_Oregon_(17832143871).jpg",
+    "author": "Tony Webster from Minneapolis, Minnesota, United States",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+   }
   },
   {
    "id": "epoch-google-red-oak",
