@@ -192,6 +192,7 @@ for _, r in dc.iterrows():
         'sources': srcs,
         'lastVerified': TODAY,
         'dataSource': 'Epoch AI',
+        'address': addr or None,
     })
 
 records.sort(key=lambda x: -x['campusPower']['mw'])
@@ -199,7 +200,16 @@ records.sort(key=lambda x: -x['campusPower']['mw'])
 import os
 curated_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'data', 'curated.json')
 curated = json.load(open(curated_path, encoding='utf-8'))
-allrec = [enrich(x) for x in curated + records]
+overrides_path = os.path.join(os.path.dirname(curated_path), 'overrides.json')
+overrides = json.load(open(overrides_path, encoding='utf-8')) if os.path.exists(overrides_path) else {}
+merged = []
+for x in curated + records:
+    o = overrides.get(x['id'])
+    merged.append({**x, **o} if o else x)
+unknown = set(overrides) - {x['id'] for x in merged}
+if unknown:
+    print('overrides with unknown id:', unknown, file=sys.stderr)
+allrec = [enrich(x) for x in merged]
 payload = {
     'generatedAt': TODAY,
     'count': len(allrec),
