@@ -71,6 +71,11 @@
  },
  "15000 Lambda Drive, San Antonio, TX 78245, United States": null,
  "1525 W 43rd St S, Muskogee, OK 74401, USA, United States": null,
+ "16 Johnston Crescent, Horsley Park NSW 2175, Australia": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": -33.8319481,
+  "lng": 150.8220389
+ },
  "1626 County Line Road Ridgeland, Mississippi, United States": {
   "by": "US Census Geocoder",
   "lat": 32.399543508385,
@@ -102,6 +107,16 @@
   "lat": 33.479282344597,
   "lng": -112.35932850694
  },
+ "307 Kenwick Rd, Maddington WA 6109, Australia": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": -32.0318579,
+  "lng": 116.0058005
+ },
+ "3231 Paul R. Lowry Rd, Memphis, TN 38109, United States": {
+  "by": "US Census Geocoder",
+  "lat": 35.060079623807,
+  "lng": -90.152191877654
+ },
  "3250 Railport Parkway, Midlothian, TX 76065, United States": {
   "by": "OpenStreetMap Nominatim",
   "lat": 32.438927,
@@ -111,6 +126,11 @@
   "by": "US Census Geocoder",
   "lat": 32.529975790363,
   "lng": -96.799787783078
+ },
+ "35 Huntingwood Drive, Huntingwood NSW 2148, Australia": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": -33.7993607,
+  "lng": 150.881822
  },
  "3500 River Rd, The Dalles, OR, United States": {
   "by": "OpenStreetMap Nominatim",
@@ -132,6 +152,11 @@
   "by": "US Census Geocoder",
   "lat": 45.556953477024,
   "lng": -122.931942381381
+ },
+ "4800 90th St, Mount Pleasant, WI 53403, United States": {
+  "by": "US Census Geocoder",
+  "lat": 42.674891499261,
+  "lng": -87.894853580498
  },
  "500 8th St, Jeffersonville, IN 47130, USA, United States": {
   "by": "US Census Geocoder",
@@ -196,6 +221,7 @@
   "lat": 40.2688855,
   "lng": -112.0342942
  },
+ "706-752 Mamre Rd, Kemps Creek NSW 2178, Australia": null,
  "7601 State Hwy 105, Trenton, SC 29847, USA, United States": null,
  "7725 Lake Rd, Barker, NY 14012, United States": {
   "by": "US Census Geocoder",
