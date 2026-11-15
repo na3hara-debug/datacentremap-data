@@ -51,5 +51,13 @@
  },
  "epoch-meta-prometheus": {
   "summary": "Meta's Prometheus AI cluster in New Albany, Ohio. Epoch AI estimates about 600MW is operating, growing to about 1.3GW."
+ },
+ "epoch-google-the-dalles": {
+  "photoFile": "File:Google Datacenter - The Dalles, Oregon (17832143871).jpg",
+  "summary": "Google's first company-built data centre, opened in 2006 on the Columbia River in The Dalles, Oregon. The campus has since grown with further buildings and is now one of Google's largest sites."
+ },
+ "epoch-google-pryor-north": {
+  "photoFile": "File:Google Mayes County P0004974a.jpg",
+  "summary": "Part of Google's large data centre campus at the MidAmerica Industrial Park near Pryor in Mayes County, Oklahoma."
  }
 }

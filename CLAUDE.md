@@ -30,9 +30,16 @@ sources: [{title,url}] (최소 1개, 실제 확인한 URL만), lastVerified: YYY
 - Epoch AI 데이터에 이미 있는 시설(대부분 미국 AI 데이터센터)은 curated에 중복 추가하지 않는다. 예외로 이미 curated에 있는 미국 5건(stargate-abilene, meta-hyperion, xai-colossus-1, ms-fairwater-1/2)은 convert_epoch.py의 CURATED_OVERLAP으로 처리됨.
 - **All text fields in English** (country names in English, e.g. "Australia", "South Korea"). The app translates UI labels itself; data text stays English.
 
+## 사진·설명·주소 (overrides.json)
+- `data/overrides.json`: id별로 curated/Epoch 레코드에 덮어쓸 값. 주로 address(도로명 주소 → 자동으로 정확 좌표), summary(2~3문장, 영어, 출처를 베끼지 말고 직접 요약, 확인된 사실만), officialUrl, photoFile.
+- 사진은 위키미디어 커먼즈의 자유 라이선스(CC BY, CC BY-SA, CC0, Public domain)만. 뉴스·회사 홍보 사진 금지(출처 표시해도 불가).
+- 사진 찾기: Actions에서 "Find photo candidates" 워크플로를 수동 실행 → `photo-candidates` 브랜치에 썸네일과 candidates.json 생성 → 썸네일을 직접 열어 보고, 그 데이터센터가 확실한 사진만 photoFile에 넣는다(다른 회사 건물, 풍자 그림, 실존 인물 중심 사진, 지도 그림은 제외).
+- 라이선스·촬영자 정보는 scripts/photos.py가 커먼즈에서 자동으로 받아온다.
+
 ## 주간 작업 체크리스트
 1. 이번 주 지역을 조사하고 신규 프로젝트를 추가한다.
 2. 기존 레코드 중 lastVerified가 90일 넘은 것을 우선 재확인한다 (앱에서 "확인 필요"로 표시됨).
 3. 상태·예정일·용량이 바뀐 레코드는 갱신하고 lastVerified를 오늘로 바꾼다. 변경 피드는 자동 생성된다.
-4. 정확한 부지 좌표를 확인할 수 있으면 latitude/longitude를 고치고 locationApproximate를 false로 한다.
+4. 정확한 부지를 확인하면 overrides.json(또는 curated 레코드)에 address(도로명 주소)를 넣는다 — 좌표는 자동 계산. 직접 좌표를 확인했다면 latitude/longitude와 coordsVerified: true, locationApproximate: false.
+6. 용량 큰 프로젝트부터 summary가 없으면 2~3문장 설명을 쓴다.
 5. 이 저장소의 GitHub Issues 중 `report` 라벨(앱 사용자 제보)을 확인한다. 출처로 검증되면 반영하고 이슈에 근거를 댓글로 남긴 뒤 닫는다. 검증 안 되면 열어 둔다.

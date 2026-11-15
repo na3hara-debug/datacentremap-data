@@ -31,7 +31,7 @@ recs = json.load(open(data_p, encoding='utf-8'))['records']
 recs = [r for r in recs if not r.get('photo')]
 recs.sort(key=cap, reverse=True)
 result = {}
-KW = re.compile(r'data ?cent|datacent|rechenzentrum|server farm|data hall|hyperscale|campus', re.I)
+KW = re.compile(r'data ?cent|datacent|rechenzentrum|server farm|data hall|hyperscale', re.I)
 for r in recs[:N]:
     op = re.sub(r'\(.*?\)', '', r['operator']).split('/')[0].split(',')[0].strip()
     opkw = re.compile(re.escape(op.split()[0]), re.I) if op and op != 'Not disclosed' else None
