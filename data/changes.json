@@ -1,6 +1,86 @@
 {
  "changes": [
   {
+   "date": "2026-11-15",
+   "id": "uk-qts-cambois",
+   "name": "QTS Cambois Data Centre Campus",
+   "country": "United Kingdom",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-15",
+   "id": "uk-elsham-tech-park",
+   "name": "Elsham Tech Park",
+   "country": "United Kingdom",
+   "type": "new",
+   "to": "approved"
+  },
+  {
+   "date": "2026-11-15",
+   "id": "uk-drax-radiant-ai",
+   "name": "Drax Power Station AI Data Centre",
+   "country": "United Kingdom",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-15",
+   "id": "de-schwarz-luebbenau",
+   "name": "Schwarz Digits / STACKIT Lübbenau AI Data Centre",
+   "country": "Germany",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-15",
+   "id": "de-virtus-wustermark",
+   "name": "VIRTUS Wustermark Campus",
+   "country": "Germany",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-15",
+   "id": "se-brookfield-strangnas",
+   "name": "Brookfield Strängnäs AI Data Centre",
+   "country": "Sweden",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-15",
+   "id": "fr-campus-ia-fouju",
+   "name": "Campus IA (Fouju)",
+   "country": "France",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-15",
+   "id": "fr-data4-escaudain",
+   "name": "Data4 Escaudain Campus",
+   "country": "France",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-15",
+   "id": "fr-evalley-cambrai",
+   "name": "E-Valley Cambrai AI Campus",
+   "country": "France",
+   "type": "new",
+   "to": "permitting"
+  },
+  {
+   "date": "2026-11-15",
+   "id": "es-blackstone-calatorao",
+   "name": "Blackstone Calatorao Campus (Project Rhodes)",
+   "country": "Spain",
+   "type": "new",
+   "to": "permitting"
+  },
+  {
    "date": "2026-11-10",
    "id": "in-google-vizag",
    "name": "Google India AI Hub (Visakhapatnam)",

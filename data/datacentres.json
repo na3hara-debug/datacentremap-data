@@ -1,6 +1,6 @@
 {
  "generatedAt": "2026-11-15",
- "count": 131,
+ "count": 141,
  "attribution": "Epoch AI, \"AI data centers\" (CC BY 4.0), https://epoch.ai/data/ai-data-centers — transformed. Curated records cite their own sources.",
  "records": [
   {
@@ -2253,6 +2253,484 @@
      "url": "https://thenextweb.com/news/thailand-29-billion-tiktok-data-center-approval"
     }
    ],
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
+  },
+  {
+   "id": "uk-qts-cambois",
+   "name": "QTS Cambois Data Centre Campus",
+   "operator": "QTS (Blackstone)",
+   "country": "United Kingdom",
+   "location": "Former Blyth Power Station site, Cambois, Northumberland, England",
+   "latitude": 55.15,
+   "longitude": -1.53,
+   "locationApproximate": true,
+   "status": "construction",
+   "statusNote": "Outline planning consent May 2025; enabling works approved Aug 2025; QTS reaffirmed commitment Apr 2026 and planned piling for the first building in spring 2026",
+   "facilityType": "Hyperscale cloud",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 720,
+    "quality": "reported",
+    "note": "Around 720MW across up to 10 buildings (~72MW each) at full build-out; earlier filing coverage cited up to 1.1GW"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "Up to £10bn",
+    "quality": "reported"
+   },
+   "powerSources": [
+    "On-site substation (grid)"
+   ],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "investors": [
+    "Blackstone"
+   ],
+   "sources": [
+    {
+     "title": "DCD — QTS files to build 1.1GW campus in Northumberland",
+     "url": "https://www.datacenterdynamics.com/en/news/qts-files-to-build-11gw-data-center-campus-in-northumberland-uk"
+    },
+    {
+     "title": "Construction Enquirer — Green light for £10bn data hub prep works",
+     "url": "https://www.constructionenquirer.com/2025/08/26/green-light-for-10bn-data-hub-prep-works-in-northumberland/"
+    },
+    {
+     "title": "Data Centre Review — QTS reaffirms commitment to North East AI Growth Zone",
+     "url": "https://datacentrereview.com/2026/04/qts-reaffirms-commitment-to-north-east-ai-growth-zone/"
+    }
+   ],
+   "lastVerified": "2026-11-15",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
+  },
+  {
+   "id": "uk-elsham-tech-park",
+   "name": "Elsham Tech Park",
+   "operator": "Elsham Tech Park Ltd (Greystoke)",
+   "country": "United Kingdom",
+   "location": "Former RAF Elsham Wolds airfield, North Lincolnshire, England",
+   "latitude": 53.61,
+   "longitude": -0.43,
+   "locationApproximate": true,
+   "status": "approved",
+   "statusNote": "Planning permission approved by North Lincolnshire Council (reported 2026-03-12); construction expected to begin 2027",
+   "facilityType": "Hyperscale cloud",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 1000,
+    "quality": "reported",
+    "note": "Up to 1GW of computing capacity across up to 15 data centre buildings"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "Up to £10bn",
+    "quality": "reported"
+   },
+   "powerSources": [
+    "Grid (on-site substations)",
+    "On-site energy centre up to 49.9MW",
+    "Battery storage"
+   ],
+   "powerCategories": [
+    "grid",
+    "battery"
+   ],
+   "originalTargetDate": "2029 (first phase)",
+   "currentTargetDate": "2029 (first phase)",
+   "sources": [
+    {
+     "title": "Data Centre Review — North Lincolnshire approves plans for major AI data centre campus",
+     "url": "https://datacentrereview.com/2026/03/north-lincolnshire-approves-plans-for-major-ai-data-centre-campus/"
+    }
+   ],
+   "lastVerified": "2026-11-15",
+   "originalTargetYM": "2029-12",
+   "currentTargetYM": "2029-12",
+   "delayMonths": 0
+  },
+  {
+   "id": "uk-drax-radiant-ai",
+   "name": "Drax Power Station AI Data Centre",
+   "operator": "Radiant (Brookfield) with Drax",
+   "country": "United Kingdom",
+   "location": "Drax Power Station, near Selby, North Yorkshire, England",
+   "latitude": 53.74,
+   "longitude": -1.0,
+   "locationApproximate": true,
+   "status": "announced",
+   "statusNote": "Partnership between Drax, Brookfield, Qai and Radiant announced 2026-11-03; subject to planning and regulatory approvals",
+   "facilityType": "AI",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 500,
+    "quality": "confirmed",
+    "note": "~100MW first phase ramping to 500MW between 2028 and 2031, with further development later"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "£2.5bn initial (Brookfield/Qai); total could exceed £20bn",
+    "quality": "reported"
+   },
+   "powerSources": [
+    "Repurposed Drax Power Station infrastructure (grid connection)"
+   ],
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetDate": "Q1 2028 (first ~100MW)",
+   "currentTargetDate": "Q1 2028 (first ~100MW)",
+   "originalTargetYM": "2028-03",
+   "currentTargetYM": "2028-03",
+   "investors": [
+    "Brookfield",
+    "Qai"
+   ],
+   "sources": [
+    {
+     "title": "ITV News — Drax and Brookfield strike investment deal of up to £20bn",
+     "url": "https://www.itv.com/news/2026-11-03/drax-and-brookfield-strike-investment-deal-of-up-to-20bn-for-data-centre"
+    }
+   ],
+   "lastVerified": "2026-11-15",
+   "delayMonths": 0
+  },
+  {
+   "id": "de-schwarz-luebbenau",
+   "name": "Schwarz Digits / STACKIT Lübbenau AI Data Centre",
+   "operator": "Schwarz Digits (STACKIT)",
+   "country": "Germany",
+   "location": "Former power plant site, Lübbenau (Spreewald), Brandenburg",
+   "latitude": 51.87,
+   "longitude": 13.97,
+   "locationApproximate": true,
+   "status": "construction",
+   "statusNote": "Groundbreaking announced 2025-11-18; construction to finish by end of 2027",
+   "facilityType": "AI",
+   "itLoad": null,
+   "campusPower": null,
+   "gridConnection": {
+    "mw": 200,
+    "quality": "confirmed",
+    "note": "Connected load of 200MW"
+   },
+   "operationalNow": null,
+   "investment": {
+    "text": "€11bn",
+    "quality": "confirmed"
+   },
+   "powerSources": [
+    "100% green electricity (grid)",
+    "On-campus solar PV"
+   ],
+   "powerCategories": [
+    "grid",
+    "renewable"
+   ],
+   "originalTargetDate": "End 2027",
+   "currentTargetDate": "End 2027",
+   "sources": [
+    {
+     "title": "Startbase — Schwarz Digits invests €11bn (groundbreaking)",
+     "url": "https://startbase.com/news/schwarz-digits-investiert-11-milliarden-euro-in-digitale-souveraenitaet"
+    },
+    {
+     "title": "Techzine — Lidl parent to build 200MW German datacenter",
+     "url": "https://www.techzine.eu/news/infrastructure/127689/lidls-parent-company-set-to-build-200mw-german-datacenter"
+    }
+   ],
+   "lastVerified": "2026-11-15",
+   "originalTargetYM": "2027-12",
+   "currentTargetYM": "2027-12",
+   "delayMonths": 0
+  },
+  {
+   "id": "de-virtus-wustermark",
+   "name": "VIRTUS Wustermark Campus",
+   "operator": "VIRTUS Data Centres (ST Telemedia GDC)",
+   "country": "Germany",
+   "location": "Wustermark, Brandenburg (west of Berlin)",
+   "latitude": 52.55,
+   "longitude": 12.95,
+   "locationApproximate": true,
+   "status": "construction",
+   "statusNote": "Two 185MVA super-grid transformers delivered and installed (VIRTUS, 2026-06-01); campus in development",
+   "facilityType": "Hyperscale cloud",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 300,
+    "quality": "confirmed",
+    "note": "300MW initial capacity, plans to scale"
+   },
+   "gridConnection": {
+    "mw": 500,
+    "quality": "confirmed",
+    "note": "Dedicated 500MW substation on 50Hertz 380kV network"
+   },
+   "operationalNow": null,
+   "investment": null,
+   "powerSources": [
+    "50Hertz 380kV grid",
+    "100% certified renewable energy (nearby onshore wind)",
+    "Diesel backup generators"
+   ],
+   "powerCategories": [
+    "grid",
+    "renewable"
+   ],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "sources": [
+    {
+     "title": "VIRTUS — Super-grid transformers installed at Wustermark",
+     "url": "https://virtusdatacentres.com/press-releases/virtus-installs-two-of-europes-largest-super-grid-transformers-at-wustermark-campus-in-brandenburg"
+    }
+   ],
+   "lastVerified": "2026-11-15",
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
+  },
+  {
+   "id": "se-brookfield-strangnas",
+   "name": "Brookfield Strängnäs AI Data Centre",
+   "operator": "Brookfield",
+   "country": "Sweden",
+   "location": "Strängnäs, Södermanland",
+   "latitude": 59.38,
+   "longitude": 17.03,
+   "locationApproximate": true,
+   "status": "announced",
+   "statusNote": "Announced 2025-06-05 (land allocation agreement, 300MW expanded to 750MW); Telia named sovereign AI services partner 2026-03; construction expected over 10-15 years",
+   "facilityType": "AI",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 750,
+    "quality": "confirmed",
+    "note": "Up to 750MW"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "Up to SEK 95bn (~US$10bn)",
+    "quality": "confirmed"
+   },
+   "powerSources": [],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "sources": [
+    {
+     "title": "RCR Wireless — Brookfield $10bn AI infrastructure in Sweden",
+     "url": "https://www.rcrwireless.com/20250605/ai-ml/brookfield-ai-infra"
+    },
+    {
+     "title": "TelecomTV — Telia, Brookfield plot sovereign AI push",
+     "url": "https://telecomtv.com/content/ai/telia-brookfield-plot-sovereign-ai-push-55095"
+    }
+   ],
+   "lastVerified": "2026-11-15",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
+  },
+  {
+   "id": "fr-campus-ia-fouju",
+   "name": "Campus IA (Fouju)",
+   "operator": "Joint venture of MGX, Bpifrance, Mistral AI and NVIDIA",
+   "country": "France",
+   "location": "Fouju, Seine-et-Marne (Paris region)",
+   "latitude": 48.585,
+   "longitude": 2.78,
+   "locationApproximate": true,
+   "status": "announced",
+   "statusNote": "JV launched 2025-05; construction expected to begin H2 2026, operations by 2028",
+   "facilityType": "AI",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 1400,
+    "quality": "confirmed",
+    "note": "Up to 1.4GW at full build-out (12 computing buildings on 70ha)"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": null,
+   "powerSources": [
+    "EDF / RTE grid supply"
+   ],
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetDate": "2028 (first operations)",
+   "currentTargetDate": "2028 (first operations)",
+   "investors": [
+    "MGX",
+    "Bpifrance",
+    "Mistral AI",
+    "NVIDIA"
+   ],
+   "sources": [
+    {
+     "title": "École Polytechnique — MGX, Bpifrance, Mistral AI and NVIDIA launch JV",
+     "url": "https://polytechnique.edu/en/press-room/press-releases/mgx-bpifrance-mistral-ai-and-nvidia-launch-joint-venture-build-europes-largest-ai-campus-france"
+    },
+    {
+     "title": "FrenchWeb — What a next-generation AI campus looks like",
+     "url": "https://www.frenchweb.fr/datacenters-energie-refroidissement-a-quoi-ressemble-un-campus-ia-de-nouvelle-generation/461960"
+    }
+   ],
+   "lastVerified": "2026-11-15",
+   "originalTargetYM": "2028-12",
+   "currentTargetYM": "2028-12",
+   "delayMonths": 0
+  },
+  {
+   "id": "fr-data4-escaudain",
+   "name": "Data4 Escaudain Campus",
+   "operator": "Data4 (Brookfield)",
+   "country": "France",
+   "location": "Parc des Soufflantes (former Usinor steelworks), Escaudain, Hauts-de-France",
+   "latitude": 50.33,
+   "longitude": 3.34,
+   "locationApproximate": true,
+   "status": "announced",
+   "statusNote": "Data4 confirmed €5bn, 700MW plan 2026-06; studies and preliminary works planned over the following year, no construction timetable set",
+   "facilityType": "Hyperscale cloud",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 700,
+    "quality": "confirmed",
+    "note": "700MW at full build-out"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "€5bn",
+    "quality": "confirmed"
+   },
+   "powerSources": [
+    "Low-carbon grid electricity"
+   ],
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "investors": [
+    "Brookfield"
+   ],
+   "sources": [
+    {
+     "title": "Data4 — In Northern France, Data4 launches its largest campus",
+     "url": "https://www.data4group.com/en/?p=35873"
+    },
+    {
+     "title": "BeBeez / DCD — Data4 confirms €5bn plan for 700MW AI data center",
+     "url": "https://bebeez.eu/2026/06/15/data4-confirms-e5bn-plan-for-700mw-ai-data-center-in-northern-france/"
+    }
+   ],
+   "lastVerified": "2026-11-15",
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
+  },
+  {
+   "id": "fr-evalley-cambrai",
+   "name": "E-Valley Cambrai AI Campus",
+   "operator": "Data4 (Brookfield)",
+   "country": "France",
+   "location": "Former BA 103 air base, Cambrai-Épinoy, Nord",
+   "latitude": 50.22,
+   "longitude": 3.15,
+   "locationApproximate": true,
+   "status": "permitting",
+   "statusNote": "Brookfield announced up to 1GW / €15bn in 2025-02; prefect-led steering committee met 2026-06-09, building permits, grid connection and impact studies still pending",
+   "facilityType": "AI",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 1000,
+    "quality": "reported",
+    "note": "Up to 1GW at full build-out; ~300MW first phase reported"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "€15bn",
+    "quality": "reported"
+   },
+   "powerSources": [],
+   "originalTargetDate": "2027-2028 (first deliveries)",
+   "currentTargetDate": "2027-2028 (first deliveries)",
+   "investors": [
+    "Brookfield"
+   ],
+   "sources": [
+    {
+     "title": "Verdict — Brookfield €20bn French AI investment",
+     "url": "https://www.verdict.co.uk/brookfield-20-french-ai/"
+    },
+    {
+     "title": "info.fr — E-Valley steering committee (2026-06)",
+     "url": "https://info.fr/nord-comite-pilotage-data-centers-e-valley-cambrai/"
+    }
+   ],
+   "lastVerified": "2026-11-15",
+   "originalTargetYM": "2027-12",
+   "currentTargetYM": "2027-12",
+   "powerCategories": [],
+   "delayMonths": 0
+  },
+  {
+   "id": "es-blackstone-calatorao",
+   "name": "Blackstone Calatorao Campus (Project Rhodes)",
+   "operator": "QTS (Blackstone)",
+   "country": "Spain",
+   "location": "Calatorao, Zaragoza, Aragon (beside A-2 motorway)",
+   "latitude": 41.52,
+   "longitude": -1.35,
+   "locationApproximate": true,
+   "status": "permitting",
+   "statusNote": "Environmental approval from INAGA reported 2026-07-28; final PIGA approval pending; works to start ~12 months after all permits",
+   "facilityType": "Hyperscale cloud",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 300,
+    "quality": "reported",
+    "note": "300MW when fully operational"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "€11.8bn total (€7.5bn first phase)",
+    "quality": "reported"
+   },
+   "powerSources": [],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "investors": [
+    "Blackstone"
+   ],
+   "sources": [
+    {
+     "title": "DCD — Blackstone to develop 300MW data center campus in Aragon",
+     "url": "https://datacenterdynamics.com/en/news/blackstone-to-develop-300mw-data-center-campus-in-aragon-spain"
+    },
+    {
+     "title": "El Español — Blackstone gets environmental approval for Calatorao",
+     "url": "https://www.elespanol.com/aragon/economia/20260728/blackstone-salva-riesgo-inundaciones-obtiene-visto-bueno-ambiental-centro-datos-calatorao/1003744335758_0.html"
+    }
+   ],
+   "lastVerified": "2026-11-15",
    "powerCategories": [],
    "originalTargetYM": null,
    "currentTargetYM": null,
