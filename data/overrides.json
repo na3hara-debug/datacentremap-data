@@ -1,1 +1,55 @@
-{}
+{
+ "stargate-abilene": {
+  "address": "5502 Spinks Rd, Abilene, TX 79601",
+  "summary": "The first Stargate campus, built by Crusoe and leased to Oracle to run OpenAI workloads. Eight buildings are planned for about 1.2GW in total; six had been handed over to the customer by September 2026. Power comes from the ERCOT grid with on-site gas turbines."
+ },
+ "xai-colossus-1": {
+  "address": "3231 Paul R. Lowry Rd, Memphis, TN 38109",
+  "summary": "xAI's first Colossus supercomputer, created by converting a former Electrolux factory in South Memphis and brought online in September 2024 after a very short build. It uses the MLGW/TVA grid, on-site gas turbines and Tesla Megapack batteries."
+ },
+ "ms-fairwater-1": {
+  "address": "4800 90th St, Mount Pleasant, WI 53403",
+  "summary": "Microsoft's Fairwater AI data centre in Mount Pleasant, Wisconsin, announced as operational in June 2026. A second phase is planned on the same campus."
+ },
+ "meta-hyperion": {
+  "summary": "Meta's largest AI campus, in Richland Parish, Louisiana, developed in a joint venture with Blue Owl. Construction began in December 2024 and the plan was expanded from 2GW to 5GW in July 2026. New Entergy gas plants, batteries and nuclear uprates are planned to supply it."
+ },
+ "us-cochise-supercomputer": {
+  "summary": "A proposed 6GW AI campus in Cochise County, Arizona, by Tombstone Resources. It is still in the permitting stage: the first community meeting was held in November 2026 and a county zoning hearing is scheduled for December 2026, with an opposition petition of more than 1,000 signatures."
+ },
+ "au-zerra-wddp": {
+  "summary": "A proposed campus of up to about 2.2GW at Kogan near Dalby, Queensland, by Zerra DC with Dexus and Macquarie. A development application was lodged in August 2026, and Anthropic is reported as the Phase 1 tenant for AI inference. Council and FIRB approvals are still pending."
+ },
+ "au-cdc-maddington": {
+  "address": "307 Kenwick Rd, Maddington WA 6109",
+  "officialUrl": "https://cdc.com/locations/perth/maddington/",
+  "summary": "CDC's first Western Australian campus, in the industrial area off Bickley Road in Maddington, about 20km south-east of the Perth CBD. Planned for up to 200MW, with A$415m committed to Stage 1. It was approved by a Development Assessment Panel and is under construction; CDC says it will run on renewable electricity with a low-water cooling design."
+ },
+ "au-nextdc-s4": {
+  "address": "16 Johnston Crescent, Horsley Park NSW 2175",
+  "summary": "NEXTDC's S4 campus in Horsley Park, Western Sydney, on a former clay and shale quarry. Multiplex started construction in March 2026 on two four-storey buildings, with the first stage due in mid-2027. It is the first data centre approved for a direct connection to the NSW transmission grid."
+ },
+ "au-airtrunk-syd1": {
+  "address": "35 Huntingwood Drive, Huntingwood NSW 2148",
+  "summary": "AirTrunk's first Sydney hyperscale data centre, operating since 2017 in Western Sydney. AirTrunk is owned by Blackstone and CPP Investments."
+ },
+ "au-mamre-road-syd4": {
+  "address": "706-752 Mamre Rd, Kemps Creek NSW 2178",
+  "summary": "A proposed campus of about 1.2GW on Mamre Road, Kemps Creek, which would be Australia's first planned data centre campus above 1GW. It is being assessed as a NSW State Significant Development, and AirTrunk is reported to be acquiring the site."
+ },
+ "au-cdc-wagga": {
+  "summary": "A concept-stage CDC campus of about 1.4GW at Gregadoo, next to Transgrid's Wagga 330kV substation. The site needs rezoning and the NSW environmental requirements are still being prepared; a community petition opposes it."
+ },
+ "epoch-colossus-2": {
+  "summary": "xAI's second Colossus campus in the Whitehaven area of Memphis, based on a large former warehouse bought in 2025 and later expanded with more buildings. Epoch AI estimates it is already partly operating and heading for about 2GW of facility power."
+ },
+ "epoch-anthropic-amazon-new-carlisle": {
+  "summary": "Amazon's AI campus in New Carlisle, Indiana, used by Anthropic. Epoch AI estimates more than 1.2GW is already operating, with about 2.3GW at full build-out."
+ },
+ "epoch-microsoft-fairwater-atlanta": {
+  "summary": "Microsoft's Fairwater AI site in Fayetteville, Georgia, south of Atlanta. Epoch AI estimates it reached its full capacity of about 860MW in mid-2026."
+ },
+ "epoch-meta-prometheus": {
+  "summary": "Meta's Prometheus AI cluster in New Albany, Ohio. Epoch AI estimates about 600MW is operating, growing to about 1.3GW."
+ }
+}

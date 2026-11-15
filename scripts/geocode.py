@@ -3,7 +3,7 @@
 근사 좌표에서 40km 이상 떨어진 결과는 오류로 보고 버림.
 사용: python3 scripts/geocode.py data/datacentres.json data/geocode-cache.json
 """
-import json, math, sys, time, urllib.parse, urllib.request, os
+import json, math, re, sys, time, urllib.parse, urllib.request, os
 
 data_p, cache_p = sys.argv[1], sys.argv[2]
 UA = 'GlobalDataCentreMap/1.0 (https://github.com/na3hara-debug/datacentremap-data)'
@@ -45,8 +45,8 @@ payload = json.load(open(data_p, encoding='utf-8'))
 done = 0
 for r in payload['records']:
     addr = r.get('address')
-    if not addr or r.get('coordsVerified'):
-        continue  # 직접 확인한 좌표는 그대로
+    if not addr or r.get('coordsVerified') or not re.search(r'\d', addr):
+        continue  # 번지/도로 번호가 없는 주소(도시 이름만)는 정확 좌표로 보지 않음  # 직접 확인한 좌표는 그대로
     full = f"{addr}, {r['country']}" if r['country'] not in addr else addr
     if full not in cache:
         try:
