@@ -2431,5 +2431,370 @@
    }
   ],
   "lastVerified": "2026-11-15"
+ },
+ {
+  "tenant": "HUMAIN (100MW of phase 1)",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 1500,
+   "quality": "reported",
+   "note": "1.5GW full campus; phase 1 is 360MW"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "US$5bn initial investment by DataVolt for the first phase",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "Renewable energy (NEOM wind and solar), net zero target"
+  ],
+  "originalTargetDate": "2028 (phase 1)",
+  "currentTargetDate": "2028 (phase 1)",
+  "locationApproximate": true,
+  "lastVerified": "2026-11-17",
+  "id": "sa-datavolt-oxagon",
+  "name": "DataVolt Oxagon AI Campus (NEOM)",
+  "operator": "DataVolt",
+  "country": "Saudi Arabia",
+  "location": "Oxagon, NEOM, Tabuk Province (Red Sea coast)",
+  "latitude": 27.85,
+  "longitude": 35.3,
+  "status": "construction",
+  "statusNote": "Groundbreaking with HUMAIN reported around LEAP 2026; DataVolt said in Aug 2026 the first phase had reached the last mile with customers in final talks",
+  "facilityType": "AI",
+  "powerCategories": [
+   "renewable"
+  ],
+  "sources": [
+   {
+    "title": "DCD — Humain breaks ground on NEOM's Oxagon data center",
+    "url": "https://datacenterdynamics.com/en/news/humain-breaks-ground-on-neoms-oxagon-data-center"
+   },
+   {
+    "title": "AGBI — Neom to start constructing Oxagon AI data centre in months",
+    "url": "https://www.agbi.com/ai/2026/08/neom-to-start-constructing-oxagon-ai-data-centre-in-months/"
+   }
+  ]
+ },
+ {
+  "itLoad": null,
+  "campusPower": {
+   "mw": 6000,
+   "quality": "reported",
+   "note": "6GW across six plots of 1GW each"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "locationApproximate": true,
+  "lastVerified": "2026-11-17",
+  "id": "sa-humain-riyadh-alsaad",
+  "name": "HUMAIN Riyadh Hyperscale AI Campus (Al-Saad)",
+  "operator": "HUMAIN",
+  "country": "Saudi Arabia",
+  "location": "Al-Saad area, east Riyadh (24 sq km site)",
+  "latitude": 24.7,
+  "longitude": 46.95,
+  "status": "announced",
+  "statusNote": "Infrastructure contract awarded to Al-Yamama Company on an early contractor involvement basis (MEED, 2026-09-24); delivered in two phases across six 1GW plots",
+  "facilityType": "AI",
+  "sources": [
+   {
+    "title": "MEED — Contractor wins 6GW data centre campus infrastructure",
+    "url": "https://www.meed.com/contractor-wins-6gw-data-centre-campus-infrastructure"
+   }
+  ]
+ },
+ {
+  "itLoad": null,
+  "campusPower": {
+   "mw": 100,
+   "quality": "reported",
+   "note": "Initial capacity 100MW"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": "Early 2026",
+  "currentTargetDate": "Q2 2026",
+  "locationApproximate": true,
+  "lastVerified": "2026-11-17",
+  "id": "sa-humain-riyadh-1",
+  "name": "HUMAIN Riyadh AI Data Centre",
+  "operator": "HUMAIN",
+  "country": "Saudi Arabia",
+  "location": "Riyadh",
+  "latitude": 24.71,
+  "longitude": 46.68,
+  "status": "construction",
+  "statusNote": "Under construction (reported 2025-08 and 2026-03); go-live was targeted for Q2 2026, completion not yet confirmed",
+  "facilityType": "AI",
+  "originalTargetYM": "2026-03",
+  "currentTargetYM": "2026-06",
+  "investors": [
+   "National Infrastructure Fund"
+  ],
+  "sources": [
+   {
+    "title": "Capacity — Humain data centre construction in Saudi Arabia",
+    "url": "https://capacityglobal.com/news/humain-data-centre-construction-saudi-arabia/"
+   },
+   {
+    "title": "MEA Tech Watch — Humain secures 211 land plots",
+    "url": "https://meatechwatch.com/2026/03/13/humain-secures-211-land-plots-in-saudi-arabia-for-gigawatt-scale-ai-expansion/"
+   }
+  ]
+ },
+ {
+  "itLoad": null,
+  "campusPower": {
+   "mw": 100,
+   "quality": "reported",
+   "note": "Initial capacity 100MW"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": "Early 2026",
+  "currentTargetDate": "Q2 2026",
+  "locationApproximate": true,
+  "lastVerified": "2026-11-17",
+  "id": "sa-humain-dammam-1",
+  "name": "HUMAIN Dammam AI Data Centre",
+  "operator": "HUMAIN",
+  "country": "Saudi Arabia",
+  "location": "Dammam, Eastern Province",
+  "latitude": 26.42,
+  "longitude": 50.09,
+  "status": "construction",
+  "statusNote": "Under construction (reported 2025-08 and 2026-03); go-live was targeted for Q2 2026, completion not yet confirmed",
+  "facilityType": "AI",
+  "originalTargetYM": "2026-03",
+  "currentTargetYM": "2026-06",
+  "investors": [
+   "National Infrastructure Fund"
+  ],
+  "sources": [
+   {
+    "title": "Capacity — Humain data centre construction in Saudi Arabia",
+    "url": "https://capacityglobal.com/news/humain-data-centre-construction-saudi-arabia/"
+   },
+   {
+    "title": "MEA Tech Watch — Humain secures 211 land plots",
+    "url": "https://meatechwatch.com/2026/03/13/humain-secures-211-land-plots-in-saudi-arabia-for-gigawatt-scale-ai-expansion/"
+   }
+  ]
+ },
+ {
+  "itLoad": {
+   "mw": 100,
+   "quality": "confirmed",
+   "note": "20 data halls of 5MW each"
+  },
+  "campusPower": null,
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [
+   "Grid (Etihad Water and Electricity)"
+  ],
+  "originalTargetDate": "December 2026 (initial phase)",
+  "currentTargetDate": "December 2026 (initial phase)",
+  "locationApproximate": true,
+  "lastVerified": "2026-11-17",
+  "id": "ae-khazna-qaj1-ajman",
+  "name": "Khazna QAJ1 Ajman AI Data Centre",
+  "operator": "Khazna Data Centers (G42)",
+  "country": "United Arab Emirates",
+  "location": "Ajman",
+  "latitude": 25.4,
+  "longitude": 55.48,
+  "status": "construction",
+  "statusNote": "Steel structures complete and construction progressing (MEED, 2025-04-22); initial phase due December 2026",
+  "facilityType": "AI",
+  "powerCategories": [
+   "grid"
+  ],
+  "sources": [
+   {
+    "title": "W.Media — Khazna announces construction of 100MW AI optimised data center in Ajman",
+    "url": "https://w.media/khazna-announces-construction-of-100-mw-ai-optimised-data-center-in-ajman/"
+   },
+   {
+    "title": "MEED — Khazna breaks ground on new UAE data centre projects",
+    "url": "https://www.meed.com/khazna-breaks-ground-on-new-uae-data-centre-projects/"
+   }
+  ]
+ },
+ {
+  "tenant": "Microsoft, G42",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 1000,
+   "quality": "reported",
+   "note": "100MW initial phase, expandable to 1GW"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "US$1bn (Microsoft and G42)",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "Geothermal"
+  ],
+  "originalTargetDate": "May 2026",
+  "currentTargetDate": null,
+  "locationApproximate": true,
+  "lastVerified": "2026-11-17",
+  "id": "ke-microsoft-g42-olkaria",
+  "name": "Microsoft / G42 Olkaria Geothermal Data Centre",
+  "operator": "EcoCloud",
+  "country": "Kenya",
+  "location": "Olkaria, KenGen Green Energy Park, Naivasha",
+  "latitude": -0.89,
+  "longitude": 36.3,
+  "status": "on_hold",
+  "statusNote": "Suspended: President Ruto announced suspension (reported 2026-04/05) after Treasury declined to fund a concept note; original May 2026 target missed",
+  "facilityType": "Hyperscale cloud",
+  "powerCategories": [
+   "renewable"
+  ],
+  "sources": [
+   {
+    "title": "DCD — Microsoft and G42 to build geothermal-powered data center in Kenya",
+    "url": "https://www.datacenterdynamics.com/en/news/microsoft-and-g42-to-build-geothermal-powered-data-center-in-kenya"
+   },
+   {
+    "title": "ThinkGeoEnergy — Kenya suspends plans for Microsoft geothermal-powered data centre",
+    "url": "https://www.thinkgeoenergy.com/kenya-suspends-plans-for-microsofts-geothermal-powered-data-centre/?amp=1"
+   }
+  ]
+ },
+ {
+  "itLoad": null,
+  "campusPower": {
+   "mw": 500,
+   "quality": "reported",
+   "note": "500MW target"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [
+   "Renewable energy (green data centre)"
+  ],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "locationApproximate": true,
+  "lastVerified": "2026-11-17",
+  "id": "ma-igoudar-dakhla",
+  "name": "Igoudar Dakhla Green Data Centre",
+  "operator": "Government of Morocco (public consortium)",
+  "country": "Morocco",
+  "location": "Dakhla, Dakhla-Oued Eddahab (Western Sahara, disputed territory)",
+  "latitude": 23.7,
+  "longitude": -15.94,
+  "status": "announced",
+  "statusNote": "Agreement signed 2026-04 between ministries, regional authorities, Mohammed VI Investment Fund and CDG to launch governance, economic model and financing studies",
+  "facilityType": "AI",
+  "powerCategories": [
+   "renewable"
+  ],
+  "sources": [
+   {
+    "title": "Medias24 — Dakhla 500MW green data center megaproject launched",
+    "url": "https://medias24.com/2026/04/17/dakhla-500-mw-green-data-center-megaproject-launched-to-bolster-moroccos-digital-sovereignty-1661807/"
+   }
+  ]
+ },
+ {
+  "itLoad": null,
+  "campusPower": {
+   "mw": 100,
+   "quality": "reported",
+   "note": "Planned campus total"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "US$250m reported at launch",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "Gas generation",
+   "Solar",
+   "Battery storage"
+  ],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "locationApproximate": true,
+  "lastVerified": "2026-11-17",
+  "id": "ng-kasi-lagos-lekki",
+  "name": "Kasi Lagos Campus (LOS1)",
+  "operator": "Kasi Cloud & Data Centers",
+  "country": "Nigeria",
+  "location": "Maiyegun, Lekki, Lagos",
+  "latitude": 6.44,
+  "longitude": 3.53,
+  "status": "operational",
+  "statusNote": "First building LOS1 opened (reported 2026-05-26); rest of the planned 100MW campus not yet built. IT capacity of LOS1 not disclosed",
+  "facilityType": "Colocation",
+  "powerCategories": [
+   "gas",
+   "renewable",
+   "battery"
+  ],
+  "investors": [
+   "Nigerian Sovereign Investment Authority"
+  ],
+  "sources": [
+   {
+    "title": "Baxtel — Kasi Cloud opens initial phase of 100MW facility in Nigeria",
+    "url": "https://baxtel.com/news/kasi-cloud-data-centers-opens-initial-phase-of-100mw-facility-in-nigeria"
+   }
+  ]
+ },
+ {
+  "tenant": "Crusoe (about 40MW)",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 100,
+   "quality": "reported",
+   "note": "About 100MW target (started at 40MW, expanded to 80MW)"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "About US$850m build cost (estimate)",
+   "quality": "estimate"
+  },
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "locationApproximate": true,
+  "lastVerified": "2026-11-17",
+  "id": "il-anan-afula",
+  "name": "Anan Afula Data Centre",
+  "operator": "Anan Group",
+  "country": "Israel",
+  "location": "Afula",
+  "latitude": 32.61,
+  "longitude": 35.29,
+  "status": "construction",
+  "statusNote": "Under construction; Crusoe lease for about 40MW announced (Globes, 2026-04-28); capacity target raised to about 100MW",
+  "facilityType": "AI",
+  "sources": [
+   {
+    "title": "Globes — Huge Crusoe Afula deal boosts Israel's data centers sector",
+    "url": "https://en.globes.co.il/en/article-1001541136"
+   }
+  ]
  }
 ]
