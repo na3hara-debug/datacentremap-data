@@ -1,6 +1,78 @@
 {
  "changes": [
   {
+   "date": "2026-11-17",
+   "id": "sa-datavolt-oxagon",
+   "name": "DataVolt Oxagon AI Campus (NEOM)",
+   "country": "Saudi Arabia",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-17",
+   "id": "sa-humain-riyadh-alsaad",
+   "name": "HUMAIN Riyadh Hyperscale AI Campus (Al-Saad)",
+   "country": "Saudi Arabia",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-17",
+   "id": "sa-humain-riyadh-1",
+   "name": "HUMAIN Riyadh AI Data Centre",
+   "country": "Saudi Arabia",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-17",
+   "id": "sa-humain-dammam-1",
+   "name": "HUMAIN Dammam AI Data Centre",
+   "country": "Saudi Arabia",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-17",
+   "id": "ae-khazna-qaj1-ajman",
+   "name": "Khazna QAJ1 Ajman AI Data Centre",
+   "country": "United Arab Emirates",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-17",
+   "id": "ke-microsoft-g42-olkaria",
+   "name": "Microsoft / G42 Olkaria Geothermal Data Centre",
+   "country": "Kenya",
+   "type": "new",
+   "to": "on_hold"
+  },
+  {
+   "date": "2026-11-17",
+   "id": "ma-igoudar-dakhla",
+   "name": "Igoudar Dakhla Green Data Centre",
+   "country": "Morocco",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-17",
+   "id": "ng-kasi-lagos-lekki",
+   "name": "Kasi Lagos Campus (LOS1)",
+   "country": "Nigeria",
+   "type": "new",
+   "to": "operational"
+  },
+  {
+   "date": "2026-11-17",
+   "id": "il-anan-afula",
+   "name": "Anan Afula Data Centre",
+   "country": "Israel",
+   "type": "new",
+   "to": "construction"
+  },
+  {
    "date": "2026-11-15",
    "id": "uk-qts-cambois",
    "name": "QTS Cambois Data Centre Campus",
@@ -289,5 +361,5 @@
    "to": "permitting"
   }
  ],
- "updatedAt": "2026-11-16"
+ "updatedAt": "2026-11-17"
 }
