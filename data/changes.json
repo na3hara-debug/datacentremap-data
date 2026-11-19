@@ -1,6 +1,54 @@
 {
  "changes": [
   {
+   "date": "2026-11-19",
+   "id": "hk-range-sandy-ridge",
+   "name": "Range Sandy Ridge Data Facility Cluster",
+   "country": "Hong Kong",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-19",
+   "id": "hk-sunevision-mega-idc",
+   "name": "SUNeVision MEGA IDC",
+   "country": "Hong Kong",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-19",
+   "id": "hk-goodman-tsuen-wan-west",
+   "name": "Goodman Tsuen Wan West Data Centre Campus",
+   "country": "Hong Kong",
+   "type": "new",
+   "to": "operational"
+  },
+  {
+   "date": "2026-11-19",
+   "id": "cn-jinko-zhongwei",
+   "name": "Jinko Power Zhongwei Green Computing Center",
+   "country": "China",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-19",
+   "id": "cn-chinamobile-hohhot",
+   "name": "China Mobile Hohhot Intelligent Computing Center",
+   "country": "China",
+   "type": "new",
+   "to": "operational"
+  },
+  {
+   "date": "2026-11-19",
+   "id": "cn-chinatelecom-lingang-2",
+   "name": "China Telecom Lin-gang Information Park Phase II",
+   "country": "China",
+   "type": "new",
+   "to": "construction"
+  },
+  {
    "date": "2026-11-17",
    "id": "sa-datavolt-oxagon",
    "name": "DataVolt Oxagon AI Campus (NEOM)",
@@ -361,5 +409,5 @@
    "to": "permitting"
   }
  ],
- "updatedAt": "2026-11-17"
+ "updatedAt": "2026-11-19"
 }
