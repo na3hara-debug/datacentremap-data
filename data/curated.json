@@ -1422,11 +1422,14 @@
   },
   "gridConnection": null,
   "operationalNow": null,
-  "investment": null,
+  "investment": {
+   "text": "US$1.4bn (first phase, 27MW)",
+   "quality": "confirmed"
+  },
   "powerSources": [],
   "originalTargetDate": "2026 (full build-out, reported)",
   "currentTargetDate": "2026 (full build-out, reported)",
-  "lastVerified": "2026-11-10",
+  "lastVerified": "2026-11-19",
   "id": "tw-foxconn-kaohsiung",
   "name": "Foxconn–NVIDIA AI Supercomputing Center",
   "operator": "Foxconn (Hon Hai)",
@@ -1436,7 +1439,7 @@
   "latitude": 22.63,
   "longitude": 120.3,
   "status": "construction",
-  "statusNote": "Announced at Computex 2025-05. Phased build — Phase 1 (~20MW) in Kaohsiung; later sites depend on power availability",
+  "statusNote": "Announced at Computex 2025-05 (100MW target). First phase: 27MW, US$1.4bn, Foxconn said ready by H1 2026 (Tech Day, 2025-11-21); completion not yet confirmed. Later sites depend on power availability",
   "facilityType": "AI",
   "sources": [
    {
@@ -1446,6 +1449,10 @@
    {
     "title": "Black Ridge Research — Taiwan data center projects",
     "url": "https://www.blackridgeresearch.com/blog/latest-list-top-largest-upcoming-new-data-center-projects-taiwan"
+   },
+   {
+    "title": "The Standard — Foxconn-Nvidia US$1.4bn supercomputing cluster ready by H1 2026",
+    "url": "https://www.thestandard.com.hk/finance/article/317480/Foxconn-Nvidia-US14-billion-Taiwan-supercomputing-cluster-to-be-ready-by-H1-2026-Foxconn-says"
    }
   ]
  },
@@ -1463,7 +1470,7 @@
   "powerSources": [],
   "originalTargetDate": "Late 2027–early 2028 (partial operation)",
   "currentTargetDate": "Late 2027–early 2028 (partial operation)",
-  "lastVerified": "2026-11-10",
+  "lastVerified": "2026-11-19",
   "id": "cn-deepseek-ulanqab",
   "name": "DeepSeek Ulanqab AI Data Center",
   "operator": "DeepSeek",
@@ -1472,7 +1479,7 @@
   "latitude": 40.99,
   "longitude": 113.13,
   "status": "announced",
-  "statusNote": "Reported by Bloomberg in 2026 — self-build plan (no official announcement)",
+  "statusNote": "Reported by Bloomberg in 2026 — self-build plan (no official announcement). Part of the facility expected to operate by end-2027; DeepSeek recruiting data centre engineers in Ulanqab (Aug 2026)",
   "facilityType": "AI",
   "sources": [
    {
@@ -1482,6 +1489,10 @@
    {
     "title": "Forkast — DeepSeek 1GW Ulanqab",
     "url": "https://forkast.news/deepseeks-1gw-ulanqab-pivot-signals-chinas-sovereign-compute-escalation/"
+   },
+   {
+    "title": "The Energy Mag — DeepSeek plans 1-gigawatt AI data center in Inner Mongolia",
+    "url": "https://theenergymag.com/news/market-news/deepseek-ai-inner-mongolia"
    }
   ]
  },
@@ -2796,5 +2807,257 @@
     "url": "https://en.globes.co.il/en/article-1001541136"
    }
   ]
+ },
+ {
+  "id": "hk-range-sandy-ridge",
+  "name": "Range Sandy Ridge Data Facility Cluster",
+  "operator": "Range Intelligent Computing Technology Group (Runze)",
+  "country": "Hong Kong",
+  "location": "Sandy Ridge (Lot 953 DD 89), North District, Northern Metropolis",
+  "latitude": 22.535,
+  "longitude": 114.135,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "Government land tender closed 2025-12-31; site awarded to Range (Runze) for HK$581m (JLL, 2026-03); groundbreaking held late March 2026 (The Standard, 2026-03-27). Operations expected from 2029 per The Standard; bank financing of about HK$20bn still under negotiation (The Star, 2026-09-17)",
+  "facilityType": "AI",
+  "itLoad": {
+   "mw": 200,
+   "quality": "estimate",
+   "note": "CBRE expected IT load 'well over 200MW' at full build-out"
+  },
+  "campusPower": {
+   "mw": 220,
+   "quality": "reported",
+   "note": "JLL: project requires around 220MW"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "HK$23.8bn (about US$3bn) from construction through first three years of operation",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": "2029 (operations start, reported)",
+  "currentTargetDate": "2029 (operations start, reported)",
+  "sources": [
+   {
+    "title": "The Standard — Major data center project in Northern Metropolis",
+    "url": "https://www.thestandard.com.hk/news/article/327934/Major-data-center-project-in-Northern-Metropolis-to-multiply-Hong-Kongs-computing-power"
+   },
+   {
+    "title": "JLL — Sandy Ridge data centre site sold for HKD 581 million",
+    "url": "https://www.jll.com/en-hk/insights/sandy-ridge-data-centre-site-sold-for-hkd-581-million"
+   },
+   {
+    "title": "CBRE — Sandy Ridge tender",
+    "url": "https://www.cbre.com.hk/insights/articles/hong-kong-sandy-ridge-tender-accelerates-the-ai-driven-transformation-of-hk-data-centre"
+   },
+   {
+    "title": "The Star — HK's DC ambitions face US$2.6bil funding test",
+    "url": "https://www.thestar.com.my/business/business-news/2026/09/17/hks-dc-ambitions-face-us26bil-funding-test"
+   }
+  ],
+  "lastVerified": "2026-11-19"
+ },
+ {
+  "id": "hk-sunevision-mega-idc",
+  "name": "SUNeVision MEGA IDC",
+  "operator": "SUNeVision (iAdvantage)",
+  "country": "Hong Kong",
+  "location": "Tseung Kwan O",
+  "latitude": 22.28,
+  "longitude": 114.27,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "Phase 1 (about 50MW) opened in 2024; Phase 2 construction started 2025-03 with completion scheduled for 2026/2027 (SHKP press release, 2025-03-27). Phase 3 timing not published",
+  "facilityType": "Colocation",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 180,
+   "quality": "confirmed",
+   "note": "Over 180MW power capacity across three phases"
+  },
+  "gridConnection": null,
+  "operationalNow": {
+   "mw": 50,
+   "quality": "confirmed",
+   "note": "Phase 1 (power capacity)"
+  },
+  "investment": {
+   "text": "Over HK$15bn",
+   "quality": "confirmed"
+  },
+  "powerSources": [],
+  "originalTargetDate": "2026/2027 (Phase 2)",
+  "currentTargetDate": "2026/2027 (Phase 2)",
+  "originalTargetYM": "2027-12",
+  "currentTargetYM": "2027-12",
+  "sources": [
+   {
+    "title": "SHKP — SUNeVision initiates MEGA IDC Phase Two development",
+    "url": "https://www.shkp.com/en-US/media/press-releases/20250327"
+   },
+   {
+    "title": "DCD — SUNeVision begins Phase II of MEGA campus",
+    "url": "https://datacenterdynamics.com/en/news/sunevision-begins-phase-ii-of-mega-campus-in-hong-kong"
+   }
+  ],
+  "lastVerified": "2026-11-19"
+ },
+ {
+  "id": "hk-goodman-tsuen-wan-west",
+  "name": "Goodman Tsuen Wan West Data Centre Campus",
+  "operator": "Goodman Group",
+  "tenant": "GDS International (HK3 and Building 4)",
+  "country": "Hong Kong",
+  "location": "8-14 Sha Tsui Road, Tsuen Wan West",
+  "latitude": 22.367,
+  "longitude": 114.108,
+  "locationApproximate": true,
+  "status": "operational",
+  "statusNote": "Buildings 1-2 completed 2022; Building 3 (50MW) handed to GDS 2024-10; Building 4 expected end-2024 (Mingtiandi, 2024-10-03). Completion of Building 4 not separately confirmed",
+  "facilityType": "Colocation",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 225,
+   "quality": "reported",
+   "note": "225MW campus"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "Mingtiandi — Goodman completes 50MW GDS-leased data centre in Hong Kong",
+    "url": "https://www.mingtiandi.com/real-estate/data-centres/goodman-completes-50mw-gds-leased-data-centre-in-hong-kong"
+   },
+   {
+    "title": "DataCenterNews Asia — Goodman completes third data centre at Tsuen Wan West",
+    "url": "https://datacenternews.asia/story/goodman-completes-third-data-centre-at-tsuen-wan-west"
+   }
+  ],
+  "lastVerified": "2026-11-19"
+ },
+ {
+  "id": "cn-jinko-zhongwei",
+  "name": "Jinko Power Zhongwei Green Computing Center",
+  "operator": "Jinko Power Technology",
+  "country": "China",
+  "location": "Xuanhe area, Zhongwei data centre cluster, Ningxia",
+  "latitude": 37.45,
+  "longitude": 105.05,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "Investment intention agreement signed with Zhongwei government (company announcement 2026-04-16, via Yicai). Construction planned to start in 2026 with completion targeted for 2028 (KrASIA, 2026-06-09)",
+  "facilityType": "AI",
+  "itLoad": {
+   "mw": 1000,
+   "quality": "confirmed",
+   "note": "1GW total IT load in three phases: 400MW + 300MW + 300MW"
+  },
+  "campusPower": null,
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "CNY24.5bn (about US$3.6bn)",
+   "quality": "confirmed"
+  },
+  "powerSources": [
+   "Dedicated solar PV power plant (planned)"
+  ],
+  "powerCategories": [
+   "renewable"
+  ],
+  "originalTargetDate": "2028 (reported)",
+  "currentTargetDate": "2028 (reported)",
+  "sources": [
+   {
+    "title": "Yicai — Jinko Power jumps on computing sector debut with US$3.6bn Zhongwei project",
+    "url": "https://www.yicaiglobal.com/news/jinko-power-jumps-on-computing-sector-debut-with-usd36-billion-zhongwei-project"
+   },
+   {
+    "title": "KrASIA — Chinese solar giant Jinko to supply power to desert AI data center",
+    "url": "https://kr-asia.com/chinese-solar-giant-jinko-to-supply-power-to-desert-ai-data-center"
+   }
+  ],
+  "lastVerified": "2026-11-19"
+ },
+ {
+  "id": "cn-chinamobile-hohhot",
+  "name": "China Mobile Hohhot Intelligent Computing Center",
+  "operator": "China Mobile",
+  "country": "China",
+  "location": "Horinger New Area, Hohhot, Inner Mongolia",
+  "latitude": 40.6,
+  "longitude": 111.8,
+  "locationApproximate": true,
+  "status": "operational",
+  "statusNote": "First phase in operation since 2024-04 (Yicai, 2024-04-29). Expansion (buildings B25/B27, 44,500 m2) reported complete in 2026-10 per Inner Mongolia Daily; operation of the expansion not yet confirmed",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 120,
+   "quality": "reported",
+   "note": "Electrical capacity of the expanded facility (reported 2026-10); IT vs total power not specified"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "Yicai — China Mobile opens world's biggest super computing hub run by global carrier",
+    "url": "https://yicaiglobal.com/news/china-mobile-opens-worlds-biggest-super-computing-hub-run-by-global-carrier"
+   },
+   {
+    "title": "DiarioBitcoin — China Mobile triples Inner Mongolia computing centre capacity",
+    "url": "https://www.diariobitcoin.com/china/china-mobile-triplica-la-capacidad-de-su-centro-de-computo-en-mongolia-interior/"
+   }
+  ],
+  "lastVerified": "2026-11-19"
+ },
+ {
+  "id": "cn-chinatelecom-lingang-2",
+  "name": "China Telecom Lin-gang Information Park Phase II",
+  "operator": "China Telecom",
+  "country": "China",
+  "location": "Lin-gang Special Area, Shanghai",
+  "latitude": 30.9,
+  "longitude": 121.92,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "Phase II under construction (Lin-gang Special Area news); construction reported to have begun 2025-12 (Black Ridge Research). Mainly for supercomputing (meteorology, aerospace)",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 290,
+   "quality": "reported",
+   "note": "290MW (Black Ridge Research); not stated in official Lin-gang release"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "CNY25bn (about US$3.6bn), reported",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "Lin-gang Special Area — Lin-gang powers Shanghai's push to become computing hub",
+    "url": "https://en.lingang.gov.cn/html/website/lg/English/News1630758253379031042/Updates/2029105684988063746.html"
+   },
+   {
+    "title": "Black Ridge Research — Top data center projects in China",
+    "url": "https://www.blackridgeresearch.com/blog/latest-list-top-largest-data-center-projects-china"
+   }
+  ],
+  "lastVerified": "2026-11-19"
  }
 ]

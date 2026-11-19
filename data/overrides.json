@@ -59,5 +59,11 @@
  "epoch-google-pryor-north": {
   "photoFile": "File:Google Mayes County P0004974a.jpg",
   "summary": "Part of Google's large data centre campus at the MidAmerica Industrial Park near Pryor in Mayes County, Oklahoma."
+ },
+ "hk-goodman-tsuen-wan-west": {
+  "address": "8-14 Sha Tsui Road, Tsuen Wan, Hong Kong"
+ },
+ "cn-jinko-zhongwei": {
+  "summary": "A planned 1GW (IT load) green computing centre by solar developer Jinko Power in the Zhongwei cluster of Ningxia, part of China's East Data West Computing programme. It is to be built in three phases with a dedicated solar plant, at a total cost of about CNY24.5bn."
  }
 }
