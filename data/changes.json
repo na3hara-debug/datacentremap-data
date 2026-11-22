@@ -1,6 +1,78 @@
 {
  "changes": [
   {
+   "date": "2026-11-22",
+   "id": "br-scala-ai-city",
+   "name": "Scala AI City",
+   "country": "Brazil",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-22",
+   "id": "br-omnia-tiktok-pecem",
+   "name": "TikTok Pecém Data Center",
+   "country": "Brazil",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-22",
+   "id": "br-elea-rio-ai-city",
+   "name": "Rio AI City (Elea)",
+   "country": "Brazil",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-22",
+   "id": "ar-stargate-argentina",
+   "name": "Stargate Argentina",
+   "country": "Argentina",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-22",
+   "id": "mx-cloudhq-queretaro",
+   "name": "CloudHQ Querétaro Campus",
+   "country": "Mexico",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-22",
+   "id": "ca-oleary-wonder-valley",
+   "name": "Wonder Valley (Alberta)",
+   "country": "Canada",
+   "type": "new",
+   "to": "permitting"
+  },
+  {
+   "date": "2026-11-22",
+   "id": "ca-meta-sturgeon-county",
+   "name": "Meta Sturgeon County Data Centre",
+   "country": "Canada",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-22",
+   "id": "us-fermi-matador",
+   "name": "Fermi America Project Matador (HyperGrid Campus)",
+   "country": "United States",
+   "type": "new",
+   "to": "permitting"
+  },
+  {
+   "date": "2026-11-22",
+   "id": "us-homer-city-energy-campus",
+   "name": "Homer City Energy Campus",
+   "country": "United States",
+   "type": "new",
+   "to": "construction"
+  },
+  {
    "date": "2026-11-19",
    "id": "hk-range-sandy-ridge",
    "name": "Range Sandy Ridge Data Facility Cluster",
@@ -409,5 +481,5 @@
    "to": "permitting"
   }
  ],
- "updatedAt": "2026-11-19"
+ "updatedAt": "2026-11-22"
 }
