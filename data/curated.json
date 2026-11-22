@@ -3059,5 +3059,446 @@
    }
   ],
   "lastVerified": "2026-11-19"
+ },
+ {
+  "id": "br-scala-ai-city",
+  "name": "Scala AI City",
+  "operator": "Scala Data Centers",
+  "country": "Brazil",
+  "location": "Eldorado do Sul, Rio Grande do Sul (about 32 km from Porto Alegre)",
+  "latitude": -30.0,
+  "longitude": -51.31,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "Announced 2024 with Rio Grande do Sul state partnership (Oct 2024); Teletime reported the campus under construction (2026-07-14), with a first phase of 54MW IT capacity. No tenant or operational date published.",
+  "facilityType": "AI",
+  "itLoad": {
+   "mw": 54,
+   "quality": "reported",
+   "note": "First phase IT capacity only"
+  },
+  "campusPower": {
+   "mw": 4750,
+   "quality": "reported",
+   "note": "Full build-out 'up to 4,750MW' per CEO Marcos Peigo; Teletime cites 5GW total"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "Initial about R$3bn; full plan cited at up to US$50bn over 10-20 years",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "Grid (municipal substation capacity up to 5GW)",
+   "100% renewable certified energy (source not specified)"
+  ],
+  "powerCategories": [
+   "grid",
+   "renewable"
+  ],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "Teletime — Eletronet and Scala Data Centers",
+    "url": "https://teletime.com.br/14/07/2026/eletronet-scala-data-centers/"
+   },
+   {
+    "title": "Olhar Digital — RS prepares for a 'city of data centers'",
+    "url": "https://olhardigital.com.br/2026/03/25/pro/rs-se-prepara-para-ter-verdadeira-cidade-de-data-centers-conheca/"
+   }
+  ],
+  "lastVerified": "2026-11-22"
+ },
+ {
+  "id": "br-omnia-tiktok-pecem",
+  "name": "TikTok Pecém Data Center",
+  "operator": "Omnia (Patria Investments)",
+  "tenant": "ByteDance (TikTok)",
+  "country": "Brazil",
+  "location": "Pecém Industrial and Port Complex (ZPE Ceará), Ceará",
+  "latitude": -3.55,
+  "longitude": -38.82,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "TikTok announced its first Latin American data centre on 2025-12-04; construction started January 2026 (Reuters via The Star); in assembly phase as of 2026-05 with structure due end-2026 and electrical works in H1 2027 (Diário do Nordeste). Commercial operation targeted for Q3 2027, expanding gradually through 2029.",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": {
+   "mw": 200,
+   "quality": "reported",
+   "note": "Initial capacity of 200MW 'processing' across 20 data halls in two buildings, fully contracted by ByteDance"
+  },
+  "campusPower": null,
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "More than R$200bn estimated total (TikTok), including R$108bn in equipment through 2035",
+   "quality": "confirmed"
+  },
+  "powerSources": [
+   "Dedicated wind farms (Casa dos Ventos: Ibiapaba 630MW complex and Dom Inocêncio, Piauí) under a US$2bn 20-year supply deal"
+  ],
+  "powerCategories": [
+   "renewable"
+  ],
+  "originalTargetDate": "Q3 2027 (commercial operation)",
+  "currentTargetDate": "Q3 2027 (commercial operation)",
+  "originalTargetYM": "2027-08",
+  "currentTargetYM": "2027-08",
+  "sources": [
+   {
+    "title": "TikTok Newsroom — First data center in Latin America",
+    "url": "https://newsroom.tiktok.com/tiktok-anuncia-seu-primeiro-data-center-na-america-latina-com-investimento-superior-a-200-billhoes?lang=pt-BR"
+   },
+   {
+    "title": "Diário do Nordeste — TikTok data center enters assembly phase",
+    "url": "https://diariodonordeste.verdesmares.com.br/negocios/data-center-do-tiktok-avanca-para-fase-de-montagem-e-recebera-avioes-com-maquinas-da-china-1.3760731"
+   },
+   {
+    "title": "The Star (Reuters) — Omnia, Casa dos Ventos US$2bn energy deal",
+    "url": "https://www.thestar.com.my/tech/tech-news/2026/05/18/brazil039s-omnia-casa-dos-ventos-sign-2-billion-energy-deal-for-tiktok-data-center"
+   }
+  ],
+  "lastVerified": "2026-11-22"
+ },
+ {
+  "id": "br-elea-rio-ai-city",
+  "name": "Rio AI City (Elea)",
+  "operator": "Elea Data Centers",
+  "country": "Brazil",
+  "location": "Parque Olímpico area, Barra da Tijuca, Rio de Janeiro",
+  "latitude": -22.977,
+  "longitude": -43.395,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "Announced May 2025; MoU with Rio de Janeiro city and federal partners signed June 2026 alongside a US$550m commitment tied to I Squared Capital's acquisition of Elea (Teletime, 2026-06-08). Elea's existing RJO1 site operates; the AI City campus itself has no construction date published.",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 1500,
+   "quality": "reported",
+   "note": "Initial 1.5GW energy capacity, expansion to up to 3GW by 2032 (2025 reports cited 3.2GW)"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "US$550m initial (June 2026); about US$65bn estimated over the next decade",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "Renewable energy (supplier not specified)"
+  ],
+  "originalTargetDate": "2032 (up to 3GW)",
+  "currentTargetDate": "2032 (up to 3GW)",
+  "investors": [
+   "I Squared Capital"
+  ],
+  "sources": [
+   {
+    "title": "Teletime — Elea announces US$550m for Rio AI City",
+    "url": "https://teletime.com.br/08/06/2026/elea-data-centers-anuncia-aporte-de-us-550-milhoes-no-rio-ai-city/"
+   },
+   {
+    "title": "Teletime — Elea 3.2GW project in Rio",
+    "url": "https://teletime.com.br/09/05/2025/elea-data-centers-tera-projeto-de-32-gw-no-rio-para-impulsionar-ia/"
+   }
+  ],
+  "lastVerified": "2026-11-22"
+ },
+ {
+  "id": "ar-stargate-argentina",
+  "name": "Stargate Argentina",
+  "operator": "Sur Energy",
+  "tenant": "OpenAI",
+  "country": "Argentina",
+  "location": "Patagonia (exact site not disclosed)",
+  "latitude": -41.0,
+  "longitude": -68.0,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "Announced 2025-10-10 by the Argentine government; OpenAI signed a letter of intent as offtaker. As of Sep 2026 no definitive contract with OpenAI and no secured financing (TechRepublic, citing Reuters). To be structured under the RIGI investment regime.",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 500,
+   "quality": "reported",
+   "note": "'Up to 500MW'; basis (IT vs total) not specified"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "Up to about US$25bn (government statement)",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "Renewable energy (planned)"
+  ],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "Buenos Aires Times — OpenAI, Sur Energy to build AI data centre in Patagonia",
+    "url": "https://www.batimes.com.ar/news/economy/openai-sur-energy-to-build-massive-ai-data-centre-in-patagonia.phtml"
+   },
+   {
+    "title": "iProfesional — Sur Energy, OpenAI's Argentine partner",
+    "url": "https://www.iprofesional.com/energia/439419-quien-es-socio-argentino-que-casi-nadie-conoce-en-millonario-proyecto-de-openai"
+   },
+   {
+    "title": "TechRepublic — AI data centre projects in Patagonia",
+    "url": "https://www.techrepublic.com/article/news-patagonia-ai-data-center-projects/"
+   }
+  ],
+  "lastVerified": "2026-11-22"
+ },
+ {
+  "id": "mx-cloudhq-queretaro",
+  "name": "CloudHQ Querétaro Campus",
+  "operator": "CloudHQ",
+  "country": "Mexico",
+  "location": "Querétaro (52ha site)",
+  "latitude": 20.59,
+  "longitude": -100.39,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "Announced Sept 2025 (US$4.8bn, six facilities, long-term lease with an unnamed global technology firm); construction underway with infrastructure delivery scheduled for 2027. Oct 2026: investment raised to almost US$6bn and planned electrical capacity from 250MW to about 1,000MW; construction on schedule (Intelligent CIO, 2026-10-19).",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": {
+   "mw": 900,
+   "quality": "reported",
+   "note": "Planned critical computing load; first 200MW secured"
+  },
+  "campusPower": null,
+  "gridConnection": {
+   "mw": 1000,
+   "quality": "reported",
+   "note": "Announced electrical capacity (raised from 250MW, Oct 2026); 900MW private substation planned"
+  },
+  "operationalNow": null,
+  "investment": {
+   "text": "Almost US$6bn (raised from US$4.8bn, Oct 2026)",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "CFE grid (900MW private substation and 2GW switching substation planned by 2027)"
+  ],
+  "powerCategories": [
+   "grid"
+  ],
+  "originalTargetDate": "2027 (infrastructure delivery)",
+  "currentTargetDate": "2027 (infrastructure delivery)",
+  "sources": [
+   {
+    "title": "Intelligent CIO — CloudHQ raises Mexico investment to US$6bn",
+    "url": "https://www.intelligentcio.com/latam/2026/10/19/cloudhq-raises-mexico-data-centre-investment-to-us6-billion-as-power-capacity-quadruples/"
+   },
+   {
+    "title": "Mexico Business News — CloudHQ invests US$4.8bn in Querétaro",
+    "url": "https://mexicobusiness.news/trade-and-investment/news/cloudhq-invests-us48-billion-queretaros-data-center-campus"
+   }
+  ],
+  "lastVerified": "2026-11-22"
+ },
+ {
+  "id": "ca-oleary-wonder-valley",
+  "name": "Wonder Valley (Alberta)",
+  "operator": "O'Leary Digital",
+  "country": "Canada",
+  "location": "Greenview Industrial Gateway, Municipal District of Greenview, about 40 km south of Grande Prairie, Alberta",
+  "latitude": 54.82,
+  "longitude": -118.9,
+  "locationApproximate": true,
+  "status": "permitting",
+  "statusNote": "Proposed Dec 2024 on an 800ha site; O'Leary Digital stated permitting underway (2026-02-18). The Logic (2025-12) reported the project behind schedule, with construction now hoped to start in late 2028 versus the original plan of first phase operating in 2027. No tenant; designed on spec.",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 7500,
+   "quality": "confirmed",
+   "note": "Planned on-site power generation capacity at full build-out"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [
+   "On-site natural gas generation (planned)",
+   "Geothermal (proposed)"
+  ],
+  "powerCategories": [
+   "gas",
+   "renewable"
+  ],
+  "originalTargetDate": "2027 (first phase operating)",
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "O'Leary Digital (PR Newswire) — Wonder Valley JV; Alberta permitting underway",
+    "url": "https://tools.prnewswire.com/en-us/live/20823/release/20260217EN90212"
+   },
+   {
+    "title": "The Logic — The big read: Wonder Valley",
+    "url": "https://thelogic.co/news/the-big-read/wonder-valley-data-centre-alberta-kevin-oleary/"
+   }
+  ],
+  "lastVerified": "2026-11-22"
+ },
+ {
+  "id": "ca-meta-sturgeon-county",
+  "name": "Meta Sturgeon County Data Centre",
+  "operator": "Meta",
+  "country": "Canada",
+  "location": "Sturgeon County (Alberta's Industrial Heartland), north of Edmonton, Alberta",
+  "latitude": 53.8,
+  "longitude": -113.3,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "Meta confirmed (2026-07-10, Canadian Press) a C$13bn-plus data centre to be online in two to three years, initially on grid power; the adjacent Greenlight Electricity Centre (932MW gas, Pembina/Kineticor/Morgan Stanley Infrastructure Partners) received go-ahead in July 2026 for H2 2030 start-up.",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": null,
+  "gridConnection": {
+   "mw": 970,
+   "quality": "reported",
+   "note": "First phase draw from the grid under a long-term contract with a wholesale power provider"
+  },
+  "operationalNow": null,
+  "investment": {
+   "text": "C$13bn-plus",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "Alberta grid (wholesale supply contract)",
+   "Capital Power 250MW supply agreement from H2 2028",
+   "Greenlight Electricity Centre 932MW natural gas plant (H2 2030)"
+  ],
+  "powerCategories": [
+   "grid",
+   "gas"
+  ],
+  "originalTargetDate": "2028-2029 (online in two to three years, stated July 2026)",
+  "currentTargetDate": "2028-2029 (online in two to three years, stated July 2026)",
+  "originalTargetYM": "2029-07",
+  "currentTargetYM": "2029-07",
+  "sources": [
+   {
+    "title": "BNN Bloomberg (CP) — Meta data centre north of Edmonton to start up ahead of Greenlight",
+    "url": "https://www.bnnbloomberg.ca/business/company-news/2026/07/10/meta-data-centre-north-of-edmonton-to-start-up-ahead-of-adjacent-greenlight-power-plant/"
+   },
+   {
+    "title": "Global News — Greenlight Electricity Centre go-ahead",
+    "url": "https://globalnews.ca/news/11950983/greenlight-electricity-centre-pembina-pipeline-artificial-intelligence/"
+   }
+  ],
+  "lastVerified": "2026-11-22"
+ },
+ {
+  "id": "us-fermi-matador",
+  "name": "Fermi America Project Matador (HyperGrid Campus)",
+  "operator": "Fermi America",
+  "country": "United States",
+  "location": "Carson County near Amarillo, Texas (land leased from Texas Tech University System)",
+  "latitude": 35.32,
+  "longitude": -101.56,
+  "locationApproximate": true,
+  "status": "permitting",
+  "statusNote": "TCEQ preliminarily approved 6GW of off-grid gas generation (Nov 2025). A US$150m tenant funding deal collapsed in Dec 2025; the Aug 2026 TensorWave lease (222MW) was terminated in Nov 2026. Nov 2026: an undisclosed investment-grade hyperscaler agreed to advance 600MW with a US$200m prepayment; development of the first 600MW begins in 2027 (Baxtel, 2026-11-13).",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 11000,
+   "quality": "reported",
+   "note": "Up to 11GW planned (Fermi has since cited about 17GW)"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [
+   "On-site natural gas turbines (6GW preliminarily approved by TCEQ)",
+   "Nuclear (proposed)",
+   "Solar (proposed)"
+  ],
+  "powerCategories": [
+   "gas",
+   "nuclear",
+   "renewable"
+  ],
+  "originalTargetDate": "End 2026 (first three buildings, about 1GW)",
+  "currentTargetDate": null,
+  "originalTargetYM": "2026-12",
+  "sources": [
+   {
+    "title": "Baxtel — Fermi secures 600MW hyperscaler deal, terminates TensorWave lease",
+    "url": "https://baxtel.com/news/fermi-secures-600mw-hyperscaler-deal-terminates-tensorwave-lease"
+   },
+   {
+    "title": "EnergyTech — HyperGrid gains first approval for off-grid gas power",
+    "url": "https://www.energytech.com/data-center-power/article/55328209/planned-hypergrid-ai-data-center-project-gains-first-approval-for-off-grid-gas-power"
+   },
+   {
+    "title": "ConstructConnect — US$150m deal fails at HyperGrid",
+    "url": "https://news.constructconnect.com/150m-deal-fails-at-hypergrid-ai-project-fermi-america-stock-falls"
+   }
+  ],
+  "lastVerified": "2026-11-22"
+ },
+ {
+  "id": "us-homer-city-energy-campus",
+  "name": "Homer City Energy Campus",
+  "operator": "Homer City Redevelopment",
+  "tenant": "Amazon Web Services (reported)",
+  "country": "United States",
+  "location": "Former Homer City Generating Station, Center and Blacklick townships, Indiana County, Pennsylvania",
+  "latitude": 40.51,
+  "longitude": -79.196,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "Announced 2025-04-02 (3,200-acre site, Kiewit EPC, GE Vernova turbines). First vertical steel for the gas plant in late March 2026 with first power expected early 2028 (Axios, 2026-03-31). AWS filed plans for a 36-building, 1,100-acre campus built in four stages from Dec 2026 to completion in June 2036 (TechRadar, 2026-10).",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 3700,
+   "quality": "reported",
+   "note": "Portion of the 4.5GW on-site gas plant allocated to data centres; remainder to the grid"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "Over US$10bn for power infrastructure and site readiness, plus data centre construction",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "On-site natural gas plant, 4.5GW (seven GE Vernova 7HA.02 turbines)",
+   "PJM and NYISO grid connection"
+  ],
+  "powerCategories": [
+   "gas",
+   "grid"
+  ],
+  "originalTargetDate": "2027 (commercial operations)",
+  "currentTargetDate": "Early 2028 (first power generation)",
+  "originalTargetYM": "2027-12",
+  "currentTargetYM": "2028-03",
+  "investors": [
+   "Knighthead Capital Management"
+  ],
+  "sources": [
+   {
+    "title": "Axios Pittsburgh — Homer City power plant",
+    "url": "https://www.axios.com/local/pittsburgh/2026/03/31/homer-city-power-plant-grid-data-centers-pennsylvania"
+   },
+   {
+    "title": "DCD — Homer City and Kiewit unveil 4.5GW gas-powered AI data center",
+    "url": "https://datacenterdynamics.com/en/news/homer-city-and-kiewit-unveil-plans-for-45gw-natural-gas-powered-ai-data-center-in-pennsylvania"
+   },
+   {
+    "title": "TechRadar — AWS 36-building campus at Homer City",
+    "url": "https://www.techradar.com/pro/aws-is-building-a-massive-36-building-1-100-acre-data-center-campus-in-pennsylvania-homer-city-energy-campus-will-create-around-1-500-2-000-jobs-and-be-powered-by-natural-gas"
+   },
+   {
+    "title": "GE Vernova — Homer City Redevelopment and Kiewit announcement",
+    "url": "https://gevernova.com/news/press-releases/homer-city-redevelopment-kiewit-announce-country-largest-natural-gas-powered-data-center-support-ai-hpc-demand"
+   }
+  ],
+  "lastVerified": "2026-11-22"
  }
 ]
