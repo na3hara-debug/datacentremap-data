@@ -65,5 +65,20 @@
  },
  "cn-jinko-zhongwei": {
   "summary": "A planned 1GW (IT load) green computing centre by solar developer Jinko Power in the Zhongwei cluster of Ningxia, part of China's East Data West Computing programme. It is to be built in three phases with a dedicated solar plant, at a total cost of about CNY24.5bn."
+ },
+ "au-goodman-macquarie-park": {
+  "address": "4-10 Talavera Road, Macquarie Park NSW 2113"
+ },
+ "au-aws-glendenning": {
+  "address": "2 Glendenning Road, Glendenning NSW 2761"
+ },
+ "au-keppel-latrobe-morwell": {
+  "summary": "A proposed hyperscale campus on 123ha of industrial land near the former Hazelwood coal power station in Victoria's Latrobe Valley. Singapore's Keppel holds lease rights from landowner Lightwood Group, and the Victorian Government says the site could access up to 720MW of power. A planning application had not yet been approved as of late 2026."
+ },
+ "nz-datagrid-southland": {
+  "summary": "A planned 280MW AI data centre campus at Makarewa near Invercargill, close to New Zealand's largest hydro station. Datagrid received full resource consent in March 2026, has a 140MW renewable power option agreement with Mercury, and is building a dedicated 360MVA substation targeted for late 2027."
+ },
+ "au-firmus-launceston": {
+  "summary": "Firmus Technologies' AI factory at St Leonards near Launceston, Tasmania, supplied with hydro power through Aurora Energy. A first 44MW stage is under construction, with a further 46MW and a 300MW second stage planned. It was the Tasmanian flagship of Project Southgate before Firmus and CDC ended that partnership in 2026."
  }
 }

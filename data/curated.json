@@ -3500,5 +3500,310 @@
    }
   ],
   "lastVerified": "2026-11-22"
+ },
+ {
+  "id": "nz-datagrid-southland",
+  "name": "Datagrid Southland AI Campus",
+  "operator": "Datagrid New Zealand",
+  "country": "New Zealand",
+  "location": "Makarewa, near Invercargill, Southland",
+  "latitude": -46.33,
+  "longitude": 168.34,
+  "locationApproximate": true,
+  "status": "approved",
+  "statusNote": "Full resource consent from Southland District Council, Environment Southland and Invercargill City Council reported 2026-03-11; construction targeted from mid-2026. 140MW 15-year power purchase option agreement with Mercury (2026-03-18). Transpower 360MVA on-site substation equipment pre-purchase agreed 2026-08, commissioning targeted late 2027. Construction start not confirmed.",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 280,
+   "quality": "reported",
+   "note": "280MW at full build-out; IT vs facility basis not stated"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [
+   "Grid via dedicated 220kV Grid Exit Point substation (Transpower, Manapouri-Tiwai line)",
+   "Mercury 140MW renewable power purchase option agreement"
+  ],
+  "powerCategories": [
+   "grid",
+   "renewable"
+  ],
+  "originalTargetDate": "2028 (full build-out)",
+  "currentTargetDate": "2028 (full build-out)",
+  "originalTargetYM": "2028-12",
+  "currentTargetYM": "2028-12",
+  "sources": [
+   {
+    "title": "W.Media — Datagrid secures approval for New Zealand's first AI factory in Southland",
+    "url": "https://w.media/datagrid-secures-approval-for-new-zealands-first-ai-factory-in-southland/"
+   },
+   {
+    "title": "W.Media — Datagrid secures 140MW power deal with Mercury",
+    "url": "https://w.media/datagrid-secures-140mw-power-deal-with-mercury-to-underpin-southland-ai-factory/"
+   },
+   {
+    "title": "W.Media — Datagrid inks equipment supply deal for 360MVA substation",
+    "url": "https://w.media/datagrid-inks-equipment-supply-deal-for-360mva-substation-to-power-new-zealands-largest-ai-data-center/"
+   }
+  ],
+  "lastVerified": "2026-11-24"
+ },
+ {
+  "id": "au-keppel-latrobe-morwell",
+  "name": "Keppel Latrobe Valley Data Centre Campus",
+  "operator": "Keppel",
+  "country": "Australia",
+  "location": "Near the former Hazelwood Power Station, Morwell, Latrobe Valley, Victoria",
+  "latitude": -38.27,
+  "longitude": 146.39,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "Announced 2026-01 after Keppel secured lease rights and early access to a 123ha site from Lightwood Group (Victorian Government, 2026-01-22). Planning application being prepared for Latrobe City Council; no approval yet.",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": null,
+  "gridConnection": {
+   "mw": 720,
+   "quality": "confirmed",
+   "note": "Potential access to 720MW of gross power (Victorian Government); dedicated transmission connection planned"
+  },
+  "operationalNow": null,
+  "investment": {
+   "text": "About A$10bn (reported)",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "Dedicated transmission connection to nearby terminal stations",
+   "Renewable supply from the Gippsland Renewable Energy Zone (planned)"
+  ],
+  "powerCategories": [
+   "grid",
+   "renewable"
+  ],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "Victorian DJSIR — Future data centre campus poised to bring jobs and investment in Latrobe Valley",
+    "url": "https://djsir.vic.gov.au/news-and-articles/future-data-centre-campus-poised-to-bring-jobs-and-investment-in-latrobe-valley"
+   },
+   {
+    "title": "The Urban Developer — Keppel $10bn Hazelwood data centre",
+    "url": "https://www.theurbandeveloper.com/articles/keppel-10-billion-hazelwood-data-centre-victoria"
+   },
+   {
+    "title": "Energy Magazine — Keppel to build 720MW data centre near Victorian coal plants",
+    "url": "https://www.energymagazine.com.au/keppel-to-build-720mw-data-centre-near-victorian-coal-plants/"
+   },
+   {
+    "title": "Latrobe City Council — $10 billion data centre proposed for Morwell",
+    "url": "https://www.latrobe.vic.gov.au/news-and-media/10_billion_data_centre_proposed_for_Morwell_0"
+   }
+  ],
+  "lastVerified": "2026-11-24"
+ },
+ {
+  "id": "au-goodman-macquarie-park",
+  "name": "Goodman Macquarie Park Data Centre (Project Apollo)",
+  "operator": "Goodman",
+  "country": "Australia",
+  "location": "4-10 Talavera Road, Macquarie Park, Sydney NSW",
+  "latitude": -33.776,
+  "longitude": 151.127,
+  "locationApproximate": true,
+  "status": "approved",
+  "statusNote": "NSW Department of Planning, Housing and Infrastructure approved the State Significant Development on 2026-09-02; tenants not yet known. Consent requires additional firmed renewable supply matching demand before operation.",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 135,
+   "quality": "confirmed",
+   "note": "Operational capacity up to 135MW per NSW planning department; IT vs facility basis not stated"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "A$1.365bn (planning documents)",
+   "quality": "confirmed"
+  },
+  "powerSources": [
+   "Grid",
+   "Firmed renewable supply (consent condition)"
+  ],
+  "powerCategories": [
+   "grid",
+   "renewable"
+  ],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "W.Media — Goodman wins approval for 135MW Macquarie Park data centre",
+    "url": "https://w.media/goodman-wins-approval-for-135mw-macquarie-park-data-centre/"
+   }
+  ],
+  "lastVerified": "2026-11-24"
+ },
+ {
+  "id": "au-aws-glendenning",
+  "name": "Glendenning Data Centre Campus (AWS, reported)",
+  "operator": "Amazon Web Services (reported)",
+  "country": "Australia",
+  "location": "2 Glendenning Road, Glendenning (Blacktown), western Sydney NSW",
+  "latitude": -33.775,
+  "longitude": 150.855,
+  "locationApproximate": true,
+  "status": "approved",
+  "statusNote": "State Significant Development for three data centre buildings (DC01-DC03) reported approved 2026-09 (W.Media, 2026-09-18). Proponent of record is Lehr Consultants International (Australia); widely reported as an AWS development. Blacktown City Council objected.",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": {
+   "mw": 193.6,
+   "quality": "reported",
+   "note": "EIS: DC01 79.2MW, DC02 35.2MW, DC03 79.2MW (earlier SEARs filing: 202MW)"
+  },
+  "campusPower": {
+   "mw": 235,
+   "quality": "reported",
+   "note": "Estimated electrical maximum demand, under review by Endeavour Energy"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "A$2.17bn estimated cost (EIS)",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "Grid (Endeavour Energy, 132kV underground feeder, three on-site substations)",
+   "Diesel backup generators"
+  ],
+  "powerCategories": [
+   "grid"
+  ],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "W.Media — Amazon receives approval for AUD 2.17bn Sydney data centre",
+    "url": "https://w.media/amazon-receives-approval-for-aud-2-17bn-sydney-data-centre/"
+   },
+   {
+    "title": "DCD — Plans filed for 202MW data center campus in Sydney",
+    "url": "https://www.datacenterdynamics.com/en/news/plans-filed-for-202mw-data-center-campus-in-sydney-australia/"
+   }
+  ],
+  "lastVerified": "2026-11-24"
+ },
+ {
+  "id": "au-firmus-bell-bay",
+  "name": "Firmus Long Reach AI Factory (Bell Bay)",
+  "operator": "Firmus Technologies",
+  "country": "Australia",
+  "location": "Former Gunns pulp mill site, Bell Bay Advanced Manufacturing Zone, George Town, Tasmania",
+  "latitude": -41.15,
+  "longitude": 146.88,
+  "locationApproximate": true,
+  "status": "permitting",
+  "statusNote": "Development application lodged with George Town Council; public submissions closed 2026-06-29 (The Urban Developer, 2026-06-17). DCD (2026-09) reported the project had been granted approval, not yet confirmed by other sources. Firmus and CDC ended the wider Project Southgate partnership in 2026 (Baxtel, 2026-10-06).",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 288,
+   "quality": "reported",
+   "note": "288MW (Baxtel, DCD); The Urban Developer cites 300MW"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [
+   "Grid via existing 220kV transmission (Sheffield-George Town)",
+   "Diesel backup generators"
+  ],
+  "powerCategories": [
+   "grid"
+  ],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "investors": [
+   "Coatue",
+   "Nvidia",
+   "Blackstone"
+  ],
+  "sources": [
+   {
+    "title": "The Urban Developer — Firmus plots AI supercampus for Tassie mill site",
+    "url": "https://www.theurbandeveloper.com/articles/firmus-technologies-ai-factory-bell-bay-gunns-pulp-mill-tasmania"
+   },
+   {
+    "title": "Baxtel — Firmus plans 288MW data campus in Tasmania",
+    "url": "https://baxtel.com/posts/firmus-plans-288mw-data-campus-in-tasmania"
+   },
+   {
+    "title": "DCD — Firmus proposes third data center project in Tasmania",
+    "url": "https://www.datacenterdynamics.com/en/news/firmus-proposes-third-data-center-project-in-tasmania/"
+   },
+   {
+    "title": "Baxtel — Firmus and CDC scrap 1.6GW Project Southgate",
+    "url": "https://baxtel.com/news/firmus-and-cdc-scrap-1-6gw-project-southgate-with-just-42mw-built"
+   }
+  ],
+  "lastVerified": "2026-11-24"
+ },
+ {
+  "id": "au-firmus-launceston",
+  "name": "Firmus Launceston AI Factory (St Leonards)",
+  "operator": "Firmus Technologies",
+  "country": "Australia",
+  "location": "St Leonards, Launceston, Tasmania",
+  "latitude": -41.46,
+  "longitude": 147.19,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "Stage 1a (44MW) under construction with Stage 1b (46MW) planned and a 300MW Stage 2 in land bank (Baxtel, 2026-10-06). Aurora Energy three-year supply deal for up to 104MW (2026-03). Reported expected operational early 2027 (ABC via Let's Data Science, 2026-06). Firmus and CDC ended the Project Southgate partnership in 2026.",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 390,
+   "quality": "reported",
+   "note": "90MW Stage 1 (44MW + 46MW) plus 300MW Stage 2 subject to approvals; sources vary (DCD cites 104MW)"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "A$2.1bn (Stage 1a, reported)",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "Aurora Energy supply up to 104MW (Hydro Tasmania hydro power)"
+  ],
+  "powerCategories": [
+   "grid",
+   "renewable"
+  ],
+  "originalTargetDate": "2026 (Stage 1, 90MW)",
+  "currentTargetDate": "Early 2027 (Stage 1a operational, reported)",
+  "originalTargetYM": "2026-12",
+  "currentTargetYM": "2027-03",
+  "investors": [
+   "Coatue",
+   "Nvidia",
+   "Blackstone"
+  ],
+  "sources": [
+   {
+    "title": "Baxtel — Firmus and CDC scrap 1.6GW Project Southgate",
+    "url": "https://baxtel.com/news/firmus-and-cdc-scrap-1-6gw-project-southgate-with-just-42mw-built"
+   },
+   {
+    "title": "Let's Data Science — Firmus proposes three AI factories in Tasmania",
+    "url": "https://letsdatascience.com/news/firmus-proposes-three-ai-factories-threatens-largest-tasmani-08ab187a"
+   },
+   {
+    "title": "The Urban Developer — Firmus Bell Bay (Aurora Energy deal context)",
+    "url": "https://www.theurbandeveloper.com/articles/firmus-technologies-ai-factory-bell-bay-gunns-pulp-mill-tasmania"
+   }
+  ],
+  "lastVerified": "2026-11-24"
  }
 ]
