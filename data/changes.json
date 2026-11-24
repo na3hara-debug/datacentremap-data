@@ -1,6 +1,54 @@
 {
  "changes": [
   {
+   "date": "2026-11-24",
+   "id": "nz-datagrid-southland",
+   "name": "Datagrid Southland AI Campus",
+   "country": "New Zealand",
+   "type": "new",
+   "to": "approved"
+  },
+  {
+   "date": "2026-11-24",
+   "id": "au-keppel-latrobe-morwell",
+   "name": "Keppel Latrobe Valley Data Centre Campus",
+   "country": "Australia",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-24",
+   "id": "au-goodman-macquarie-park",
+   "name": "Goodman Macquarie Park Data Centre (Project Apollo)",
+   "country": "Australia",
+   "type": "new",
+   "to": "approved"
+  },
+  {
+   "date": "2026-11-24",
+   "id": "au-aws-glendenning",
+   "name": "Glendenning Data Centre Campus (AWS, reported)",
+   "country": "Australia",
+   "type": "new",
+   "to": "approved"
+  },
+  {
+   "date": "2026-11-24",
+   "id": "au-firmus-bell-bay",
+   "name": "Firmus Long Reach AI Factory (Bell Bay)",
+   "country": "Australia",
+   "type": "new",
+   "to": "permitting"
+  },
+  {
+   "date": "2026-11-24",
+   "id": "au-firmus-launceston",
+   "name": "Firmus Launceston AI Factory (St Leonards)",
+   "country": "Australia",
+   "type": "new",
+   "to": "construction"
+  },
+  {
    "date": "2026-11-22",
    "id": "br-scala-ai-city",
    "name": "Scala AI City",
@@ -481,5 +529,5 @@
    "to": "permitting"
   }
  ],
- "updatedAt": "2026-11-23"
+ "updatedAt": "2026-11-24"
 }

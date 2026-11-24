@@ -87,6 +87,11 @@
   "lat": 44.738819595512,
   "lng": -93.057004685235
  },
+ "2 Glendenning Road, Glendenning NSW 2761, Australia": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": -33.7582103,
+  "lng": 150.8511066
+ },
  "216 Greenfield Rd, Lancaster, PA \n, United States": {
   "by": "US Census Geocoder",
   "lat": 40.048690305089,
@@ -138,6 +143,11 @@
   "lng": -121.2023887
  },
  "3525–3543 Portugee Rd, Sandston, VA 23150, United States": null,
+ "4-10 Talavera Road, Macquarie Park NSW 2113, Australia": {
+  "by": "OpenStreetMap Nominatim",
+  "lat": -33.7826211,
+  "lng": 151.1316307
+ },
  "4250 Messenger Lp, Los Lunas, NM 87031, United States": {
   "by": "OpenStreetMap Nominatim",
   "lat": 34.8301645,
