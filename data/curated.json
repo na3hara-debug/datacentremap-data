@@ -3805,5 +3805,343 @@
    }
   ],
   "lastVerified": "2026-11-24"
+ },
+ {
+  "id": "jp-bitgrit-s2-akita",
+  "name": "S2 / Bitgrit Akita AI Data Center",
+  "operator": "S2 / Bitgrit",
+  "country": "Japan",
+  "location": "Northern industrial zone, Akita City, Akita Prefecture",
+  "latitude": 39.78,
+  "longitude": 140.08,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "Announced 2026-08 (Jiji Press): led by Akita server firm S2 and US startup Bitgrit in an industrial zone to be developed by Akita City and Prefecture; a special purpose company will seek investment. A UAE sovereign wealth fund has shown interest.",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 500,
+   "quality": "reported",
+   "note": "Power-receiving capacity of up to 500MW; further expansion possible"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "About JPY 2tn (estimated construction cost, reported)",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": "As early as 2030",
+  "currentTargetDate": "As early as 2030",
+  "sources": [
+   {
+    "title": "Nippon.com (Jiji Press) — One of Japan's largest AI data centers to be built in Akita",
+    "url": "https://www.nippon.com/en/news/yjj2026081600208/"
+   }
+  ],
+  "lastVerified": "2026-11-26"
+ },
+ {
+  "id": "jp-dayone-imari",
+  "name": "DayOne Imari Data Center Campus",
+  "operator": "DayOne",
+  "country": "Japan",
+  "location": "Imari East Industrial Park, Imari City, Saga Prefecture",
+  "latitude": 33.27,
+  "longitude": 129.89,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "Plan announced 2026-10 with Imari City, supported by Saga Prefecture: 133,000 sqm site in Imari East Industrial Park, phased development, first phase targeted for 2030.",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": null,
+  "gridConnection": {
+   "mw": 200,
+   "quality": "reported",
+   "note": "200MW of grid power; 160MW of secured powered land"
+  },
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [
+   "Grid power"
+  ],
+  "originalTargetDate": "2030 (first phase)",
+  "currentTargetDate": "2030 (first phase)",
+  "sources": [
+   {
+    "title": "W.Media — DayOne plans 200MW data center in Japan's Imari City",
+    "url": "https://w.media/dayone-plans-200mw-data-center-in-japans-imari-city/"
+   }
+  ],
+  "lastVerified": "2026-11-26"
+ },
+ {
+  "id": "jp-ntt-tky12-shiroi",
+  "name": "NTT Tokyo TKY12 Data Center Campus",
+  "operator": "NTT Global Data Centers (NTT DATA)",
+  "country": "Japan",
+  "location": "Shiroi, Chiba Prefecture (Inzai-Shiroi area)",
+  "latitude": 35.79,
+  "longitude": 140.06,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "Planned six-building campus announced 2026-04 by NTT DATA via NTT Global Data Centers; first phase expected to begin operations after 2030. Construction timeline not detailed.",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": {
+   "mw": 200,
+   "quality": "reported",
+   "note": "Around 200MW IT capacity across six buildings"
+  },
+  "campusPower": null,
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": "After 2030 (first phase)",
+  "currentTargetDate": "After 2030 (first phase)",
+  "originalTargetYM": "2031-12",
+  "currentTargetYM": "2031-12",
+  "sources": [
+   {
+    "title": "W.Media — NTT Data plans a 200 MW data center campus in Japan",
+    "url": "https://w.media/ntt-data-plans-a-200-mw-data-center-campus-in-japan/"
+   }
+  ],
+  "lastVerified": "2026-11-26"
+ },
+ {
+  "id": "jp-apl-gci-kitakyushu",
+  "name": "APL / GCI Kitakyushu Data Center Hub",
+  "operator": "Asia Pacific Land / Global Compute Infrastructure (JV)",
+  "country": "Japan",
+  "location": "Kitakyushu, Fukuoka Prefecture",
+  "latitude": 33.88,
+  "longitude": 130.88,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "JV of Asia Pacific Land and Global Compute Infrastructure announced for a 6.3ha site in Kitakyushu; development expected to begin as early as 2026, first 60MW phase targeted for September 2027.",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 250,
+   "quality": "reported",
+   "note": "Initial 120MW power capacity, scaling to about 250MW by 2029"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": "September 2027 (first 60MW phase)",
+  "currentTargetDate": "September 2027 (first 60MW phase)",
+  "originalTargetYM": "2027-09",
+  "currentTargetYM": "2027-09",
+  "investors": [
+   "Asia Pacific Land",
+   "Global Compute Infrastructure"
+  ],
+  "sources": [
+   {
+    "title": "Converge Digest — Plans unveiled for 120MW data center hub in Kyushu",
+    "url": "https://convergedigest.com/plans-unveiled-for-120mw-data-center-hub-in-kyushu/?amp=1"
+   }
+  ],
+  "lastVerified": "2026-11-26"
+ },
+ {
+  "id": "in-adaniconnex-coreweave-taloja",
+  "name": "AdaniConneX Taloja Campus (CoreWeave)",
+  "operator": "AdaniConneX",
+  "tenant": "CoreWeave",
+  "country": "India",
+  "location": "Taloja, Navi Mumbai, Maharashtra",
+  "latitude": 19.07,
+  "longitude": 73.12,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "Announced 2026-10-06: CoreWeave to lease 240MW in three 80MW buildings at AdaniConneX Taloja campus as sole tenant, with an option for a further 240MW; first phase expected mid-2028.",
+  "facilityType": "AI",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 240,
+   "quality": "reported",
+   "note": "240MW leased to CoreWeave (three 80MW buildings); option for another 240MW (480MW). IT vs total not stated"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "Several billion US dollars over project life (Bloomberg via Baxtel)",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": "Mid-2028 (first phase)",
+  "currentTargetDate": "Mid-2028 (first phase)",
+  "sources": [
+   {
+    "title": "CRN Asia — CoreWeave brings 240 MW AI cloud capacity to India with AdaniConneX",
+    "url": "https://www.crnasia.com/india/news/2026/coreweave-brings-240-mw-ai-cloud-capacity-to-india-with-adaniconnex"
+   },
+   {
+    "title": "Baxtel — CoreWeave enters India with 240MW AdaniConneX lease in Navi Mumbai",
+    "url": "https://baxtel.com/news/coreweave-enters-india-with-240mw-adaniconnex-lease-in-navi-mumbai"
+   }
+  ],
+  "lastVerified": "2026-11-26",
+  "originalTargetYM": "2028-06",
+  "currentTargetYM": "2028-06"
+ },
+ {
+  "id": "in-pdg-mu2-navi-mumbai",
+  "name": "Princeton Digital Group MU2 Navi Mumbai",
+  "operator": "Princeton Digital Group",
+  "country": "India",
+  "location": "Navi Mumbai, Maharashtra",
+  "latitude": 19.1,
+  "longitude": 73.02,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "Plan reported 2026-03: single five-storey 120MW building; power and land approvals reportedly secured. Part of a US$2.5bn PDG India commitment.",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 120,
+   "quality": "reported",
+   "note": "IT vs total not stated"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "US$2.5bn committed across PDG India (MU2 and Hyderabad HY1)",
+   "quality": "reported"
+  },
+  "powerSources": [],
+  "originalTargetDate": null,
+  "currentTargetDate": null,
+  "sources": [
+   {
+    "title": "Baxtel — PDG plans two new data center campuses in India totaling 210MW",
+    "url": "https://baxtel.com/news/pdg-plans-two-new-data-center-campuses-in-india-totaling-210mw"
+   }
+  ],
+  "lastVerified": "2026-11-26"
+ },
+ {
+  "id": "my-stack-jhb01",
+  "name": "STACK JHB01 Campus",
+  "operator": "STACK Infrastructure",
+  "country": "Malaysia",
+  "location": "SiLC industrial park, Iskandar Puteri, Johor",
+  "latitude": 1.4715,
+  "longitude": 103.5885,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "Announced 2025-01-14 on a 10.8ha former steel centre site; construction began 2025 (Baxtel lists JHB01A under construction, JHB01B planned for 2028). Initial delivery targeted Q4 2026; go-live not yet confirmed.",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 220,
+   "quality": "confirmed",
+   "note": "Two buildings: 120MW and 100MW. IT vs total not stated"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": {
+   "text": "RM7bn (about US$1.66bn, Malaysian minister, 2025)",
+   "quality": "reported"
+  },
+  "powerSources": [
+   "TNB grid supply at 275kV via on-site substation"
+  ],
+  "originalTargetDate": "Q4 2026 (initial delivery)",
+  "currentTargetDate": "Q4 2026 (initial delivery)",
+  "originalTargetYM": "2026-12",
+  "currentTargetYM": "2026-12",
+  "investors": [
+   "Blue Owl"
+  ],
+  "sources": [
+   {
+    "title": "GlobeNewswire — STACK Infrastructure announces 220MW campus in Malaysia",
+    "url": "https://www.globenewswire.com/news-release/2025/01/14/3008955/0/en/STACK-Infrastructure-Announces-220MW-Campus-in-Malaysia.html"
+   },
+   {
+    "title": "W.Media — STACK Infrastructure to invest US$1.66 billion in Johor",
+    "url": "https://w.media/?p=181031"
+   },
+   {
+    "title": "Baxtel — STACK Iskandar Puteri JHB01 campus",
+    "url": "https://baxtel.com/campus/stack-iskandar-puteri-jhb01-campus"
+   }
+  ],
+  "lastVerified": "2026-11-26"
+ },
+ {
+  "id": "vn-viettel-tan-phu-trung",
+  "name": "Viettel Tan Phu Trung Data Center",
+  "operator": "Viettel",
+  "country": "Vietnam",
+  "location": "Tan Phu Trung Industrial Park, Cu Chi, Ho Chi Minh City",
+  "latitude": 10.97,
+  "longitude": 106.56,
+  "locationApproximate": true,
+  "status": "construction",
+  "statusNote": "Groundbreaking 2025-04-23 on a ~4ha site; about 10,000 racks, Tier III. Phase one was targeted for Q1 2026 (go-live not confirmed in sources); full completion before 2030.",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 140,
+   "quality": "reported",
+   "note": "Total designed capacity; Developing Telecoms describes it as IT load"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": "Q1 2026 (phase one); full completion by 2030",
+  "currentTargetDate": "Q1 2026 (phase one, not confirmed); full completion by 2030",
+  "originalTargetYM": "2026-03",
+  "currentTargetYM": "2026-03",
+  "sources": [
+   {
+    "title": "VietNamNet — Vietnam breaks ground on first data center exceeding 100MW",
+    "url": "https://vietnamnet.vn/en/vietnam-breaks-ground-on-first-data-center-exceeding-100mw-2394651.html"
+   },
+   {
+    "title": "Developing Telecoms — Viettel breaks ground on Vietnam's biggest data centre yet",
+    "url": "https://www.developingtelecoms.com/telecom-technology/data-centres-networks/18397-viettel-breaks-ground-on-vietnam-s-biggest-data-centre-yet.html"
+   }
+  ],
+  "lastVerified": "2026-11-26"
+ },
+ {
+  "id": "ph-pldt-vitro-cavite",
+  "name": "PLDT VITRO General Trias (Cavite)",
+  "operator": "ePLDT / VITRO",
+  "country": "Philippines",
+  "location": "General Trias, Cavite",
+  "latitude": 14.38,
+  "longitude": 120.88,
+  "locationApproximate": true,
+  "status": "announced",
+  "statusNote": "Announced 2025-04 as PLDT's 12th and largest hyperscale data centre; construction planned to start 2026 and complete by 2028, phased from 20MW. PLDT told the PSE the project remained in planning (2025-05).",
+  "facilityType": "Hyperscale cloud",
+  "itLoad": null,
+  "campusPower": {
+   "mw": 100,
+   "quality": "reported",
+   "note": "Up to 100MW, phased from 20MW. IT vs total not stated"
+  },
+  "gridConnection": null,
+  "operationalNow": null,
+  "investment": null,
+  "powerSources": [],
+  "originalTargetDate": "2028 (completion)",
+  "currentTargetDate": "2028 (completion)",
+  "sources": [
+   {
+    "title": "W.Media — PLDT to build 100MW data center in Cavite, Philippines in 2026",
+    "url": "https://w.media/pldt-to-build-100mw-data-center-in-cavite-philippines-in-2026/"
+   }
+  ],
+  "lastVerified": "2026-11-26"
  }
 ]

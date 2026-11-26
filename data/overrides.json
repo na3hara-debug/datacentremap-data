@@ -80,5 +80,15 @@
  },
  "au-firmus-launceston": {
   "summary": "Firmus Technologies' AI factory at St Leonards near Launceston, Tasmania, supplied with hydro power through Aurora Energy. A first 44MW stage is under construction, with a further 46MW and a 300MW second stage planned. It was the Tasmanian flagship of Project Southgate before Firmus and CDC ended that partnership in 2026."
+ },
+ "my-stack-jhb01": {
+  "address": "27 Jalan SiLC 1/5, Kawasan Perindustrian SiLC, 79200 Iskandar Puteri, Johor, Malaysia",
+  "summary": "A two-building hyperscale campus being built by STACK Infrastructure on a 10.8-hectare former steel centre site in the SiLC industrial park, Iskandar Puteri. The plan totals 220MW (120MW and 100MW buildings) with a 275kV TNB supply through an on-site substation, and first delivery was targeted for Q4 2026."
+ },
+ "jp-bitgrit-s2-akita": {
+  "summary": "A planned AI data centre in a new industrial zone in northern Akita City, led by local server firm S2 and US startup Bitgrit. Power-receiving capacity is slated to reach up to 500MW, with construction costs estimated at about JPY 2 trillion and operations from as early as 2030."
+ },
+ "in-adaniconnex-coreweave-taloja": {
+  "summary": "CoreWeave has agreed to lease 240MW across three 80MW buildings at AdaniConneX's Taloja campus in Navi Mumbai, its first India deployment. An option covers a further 240MW, and the first phase is expected in mid-2028."
  }
 }
