@@ -1,6 +1,6 @@
 {
- "generatedAt": "2026-11-24",
- "count": 171,
+ "generatedAt": "2026-11-26",
+ "count": 180,
  "attribution": "Epoch AI, \"AI data centers\" (CC BY 4.0), https://epoch.ai/data/ai-data-centers — transformed. Curated records cite their own sources.",
  "records": [
   {
@@ -4209,6 +4209,378 @@
    "delayMonths": 3
   },
   {
+   "id": "jp-bitgrit-s2-akita",
+   "name": "S2 / Bitgrit Akita AI Data Center",
+   "operator": "S2 / Bitgrit",
+   "country": "Japan",
+   "location": "Northern industrial zone, Akita City, Akita Prefecture",
+   "latitude": 39.78,
+   "longitude": 140.08,
+   "locationApproximate": true,
+   "status": "announced",
+   "statusNote": "Announced 2026-08 (Jiji Press): led by Akita server firm S2 and US startup Bitgrit in an industrial zone to be developed by Akita City and Prefecture; a special purpose company will seek investment. A UAE sovereign wealth fund has shown interest.",
+   "facilityType": "AI",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 500,
+    "quality": "reported",
+    "note": "Power-receiving capacity of up to 500MW; further expansion possible"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "About JPY 2tn (estimated construction cost, reported)",
+    "quality": "reported"
+   },
+   "powerSources": [],
+   "originalTargetDate": "As early as 2030",
+   "currentTargetDate": "As early as 2030",
+   "sources": [
+    {
+     "title": "Nippon.com (Jiji Press) — One of Japan's largest AI data centers to be built in Akita",
+     "url": "https://www.nippon.com/en/news/yjj2026081600208/"
+    }
+   ],
+   "lastVerified": "2026-11-26",
+   "summary": "A planned AI data centre in a new industrial zone in northern Akita City, led by local server firm S2 and US startup Bitgrit. Power-receiving capacity is slated to reach up to 500MW, with construction costs estimated at about JPY 2 trillion and operations from as early as 2030.",
+   "powerCategories": [],
+   "originalTargetYM": "2030-12",
+   "currentTargetYM": "2030-12",
+   "delayMonths": 0
+  },
+  {
+   "id": "jp-dayone-imari",
+   "name": "DayOne Imari Data Center Campus",
+   "operator": "DayOne",
+   "country": "Japan",
+   "location": "Imari East Industrial Park, Imari City, Saga Prefecture",
+   "latitude": 33.27,
+   "longitude": 129.89,
+   "locationApproximate": true,
+   "status": "announced",
+   "statusNote": "Plan announced 2026-10 with Imari City, supported by Saga Prefecture: 133,000 sqm site in Imari East Industrial Park, phased development, first phase targeted for 2030.",
+   "facilityType": "Hyperscale cloud",
+   "itLoad": null,
+   "campusPower": null,
+   "gridConnection": {
+    "mw": 200,
+    "quality": "reported",
+    "note": "200MW of grid power; 160MW of secured powered land"
+   },
+   "operationalNow": null,
+   "investment": null,
+   "powerSources": [
+    "Grid power"
+   ],
+   "originalTargetDate": "2030 (first phase)",
+   "currentTargetDate": "2030 (first phase)",
+   "sources": [
+    {
+     "title": "W.Media — DayOne plans 200MW data center in Japan's Imari City",
+     "url": "https://w.media/dayone-plans-200mw-data-center-in-japans-imari-city/"
+    }
+   ],
+   "lastVerified": "2026-11-26",
+   "powerCategories": [
+    "grid"
+   ],
+   "originalTargetYM": "2030-12",
+   "currentTargetYM": "2030-12",
+   "delayMonths": 0
+  },
+  {
+   "id": "jp-ntt-tky12-shiroi",
+   "name": "NTT Tokyo TKY12 Data Center Campus",
+   "operator": "NTT Global Data Centers (NTT DATA)",
+   "country": "Japan",
+   "location": "Shiroi, Chiba Prefecture (Inzai-Shiroi area)",
+   "latitude": 35.79,
+   "longitude": 140.06,
+   "locationApproximate": true,
+   "status": "announced",
+   "statusNote": "Planned six-building campus announced 2026-04 by NTT DATA via NTT Global Data Centers; first phase expected to begin operations after 2030. Construction timeline not detailed.",
+   "facilityType": "Hyperscale cloud",
+   "itLoad": {
+    "mw": 200,
+    "quality": "reported",
+    "note": "Around 200MW IT capacity across six buildings"
+   },
+   "campusPower": null,
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": null,
+   "powerSources": [],
+   "originalTargetDate": "After 2030 (first phase)",
+   "currentTargetDate": "After 2030 (first phase)",
+   "originalTargetYM": "2031-12",
+   "currentTargetYM": "2031-12",
+   "sources": [
+    {
+     "title": "W.Media — NTT Data plans a 200 MW data center campus in Japan",
+     "url": "https://w.media/ntt-data-plans-a-200-mw-data-center-campus-in-japan/"
+    }
+   ],
+   "lastVerified": "2026-11-26",
+   "powerCategories": [],
+   "delayMonths": 0
+  },
+  {
+   "id": "jp-apl-gci-kitakyushu",
+   "name": "APL / GCI Kitakyushu Data Center Hub",
+   "operator": "Asia Pacific Land / Global Compute Infrastructure (JV)",
+   "country": "Japan",
+   "location": "Kitakyushu, Fukuoka Prefecture",
+   "latitude": 33.88,
+   "longitude": 130.88,
+   "locationApproximate": true,
+   "status": "announced",
+   "statusNote": "JV of Asia Pacific Land and Global Compute Infrastructure announced for a 6.3ha site in Kitakyushu; development expected to begin as early as 2026, first 60MW phase targeted for September 2027.",
+   "facilityType": "AI",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 250,
+    "quality": "reported",
+    "note": "Initial 120MW power capacity, scaling to about 250MW by 2029"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": null,
+   "powerSources": [],
+   "originalTargetDate": "September 2027 (first 60MW phase)",
+   "currentTargetDate": "September 2027 (first 60MW phase)",
+   "originalTargetYM": "2027-09",
+   "currentTargetYM": "2027-09",
+   "investors": [
+    "Asia Pacific Land",
+    "Global Compute Infrastructure"
+   ],
+   "sources": [
+    {
+     "title": "Converge Digest — Plans unveiled for 120MW data center hub in Kyushu",
+     "url": "https://convergedigest.com/plans-unveiled-for-120mw-data-center-hub-in-kyushu/?amp=1"
+    }
+   ],
+   "lastVerified": "2026-11-26",
+   "powerCategories": [],
+   "delayMonths": 0
+  },
+  {
+   "id": "in-adaniconnex-coreweave-taloja",
+   "name": "AdaniConneX Taloja Campus (CoreWeave)",
+   "operator": "AdaniConneX",
+   "tenant": "CoreWeave",
+   "country": "India",
+   "location": "Taloja, Navi Mumbai, Maharashtra",
+   "latitude": 19.07,
+   "longitude": 73.12,
+   "locationApproximate": true,
+   "status": "announced",
+   "statusNote": "Announced 2026-10-06: CoreWeave to lease 240MW in three 80MW buildings at AdaniConneX Taloja campus as sole tenant, with an option for a further 240MW; first phase expected mid-2028.",
+   "facilityType": "AI",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 240,
+    "quality": "reported",
+    "note": "240MW leased to CoreWeave (three 80MW buildings); option for another 240MW (480MW). IT vs total not stated"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "Several billion US dollars over project life (Bloomberg via Baxtel)",
+    "quality": "reported"
+   },
+   "powerSources": [],
+   "originalTargetDate": "Mid-2028 (first phase)",
+   "currentTargetDate": "Mid-2028 (first phase)",
+   "sources": [
+    {
+     "title": "CRN Asia — CoreWeave brings 240 MW AI cloud capacity to India with AdaniConneX",
+     "url": "https://www.crnasia.com/india/news/2026/coreweave-brings-240-mw-ai-cloud-capacity-to-india-with-adaniconnex"
+    },
+    {
+     "title": "Baxtel — CoreWeave enters India with 240MW AdaniConneX lease in Navi Mumbai",
+     "url": "https://baxtel.com/news/coreweave-enters-india-with-240mw-adaniconnex-lease-in-navi-mumbai"
+    }
+   ],
+   "lastVerified": "2026-11-26",
+   "originalTargetYM": "2028-06",
+   "currentTargetYM": "2028-06",
+   "summary": "CoreWeave has agreed to lease 240MW across three 80MW buildings at AdaniConneX's Taloja campus in Navi Mumbai, its first India deployment. An option covers a further 240MW, and the first phase is expected in mid-2028.",
+   "powerCategories": [],
+   "delayMonths": 0
+  },
+  {
+   "id": "in-pdg-mu2-navi-mumbai",
+   "name": "Princeton Digital Group MU2 Navi Mumbai",
+   "operator": "Princeton Digital Group",
+   "country": "India",
+   "location": "Navi Mumbai, Maharashtra",
+   "latitude": 19.1,
+   "longitude": 73.02,
+   "locationApproximate": true,
+   "status": "announced",
+   "statusNote": "Plan reported 2026-03: single five-storey 120MW building; power and land approvals reportedly secured. Part of a US$2.5bn PDG India commitment.",
+   "facilityType": "Hyperscale cloud",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 120,
+    "quality": "reported",
+    "note": "IT vs total not stated"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "US$2.5bn committed across PDG India (MU2 and Hyderabad HY1)",
+    "quality": "reported"
+   },
+   "powerSources": [],
+   "originalTargetDate": null,
+   "currentTargetDate": null,
+   "sources": [
+    {
+     "title": "Baxtel — PDG plans two new data center campuses in India totaling 210MW",
+     "url": "https://baxtel.com/news/pdg-plans-two-new-data-center-campuses-in-india-totaling-210mw"
+    }
+   ],
+   "lastVerified": "2026-11-26",
+   "powerCategories": [],
+   "originalTargetYM": null,
+   "currentTargetYM": null,
+   "delayMonths": null
+  },
+  {
+   "id": "my-stack-jhb01",
+   "name": "STACK JHB01 Campus",
+   "operator": "STACK Infrastructure",
+   "country": "Malaysia",
+   "location": "SiLC industrial park, Iskandar Puteri, Johor",
+   "latitude": 1.4715,
+   "longitude": 103.5885,
+   "locationApproximate": true,
+   "status": "construction",
+   "statusNote": "Announced 2025-01-14 on a 10.8ha former steel centre site; construction began 2025 (Baxtel lists JHB01A under construction, JHB01B planned for 2028). Initial delivery targeted Q4 2026; go-live not yet confirmed.",
+   "facilityType": "Hyperscale cloud",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 220,
+    "quality": "confirmed",
+    "note": "Two buildings: 120MW and 100MW. IT vs total not stated"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": {
+    "text": "RM7bn (about US$1.66bn, Malaysian minister, 2025)",
+    "quality": "reported"
+   },
+   "powerSources": [
+    "TNB grid supply at 275kV via on-site substation"
+   ],
+   "originalTargetDate": "Q4 2026 (initial delivery)",
+   "currentTargetDate": "Q4 2026 (initial delivery)",
+   "originalTargetYM": "2026-12",
+   "currentTargetYM": "2026-12",
+   "investors": [
+    "Blue Owl"
+   ],
+   "sources": [
+    {
+     "title": "GlobeNewswire — STACK Infrastructure announces 220MW campus in Malaysia",
+     "url": "https://www.globenewswire.com/news-release/2025/01/14/3008955/0/en/STACK-Infrastructure-Announces-220MW-Campus-in-Malaysia.html"
+    },
+    {
+     "title": "W.Media — STACK Infrastructure to invest US$1.66 billion in Johor",
+     "url": "https://w.media/?p=181031"
+    },
+    {
+     "title": "Baxtel — STACK Iskandar Puteri JHB01 campus",
+     "url": "https://baxtel.com/campus/stack-iskandar-puteri-jhb01-campus"
+    }
+   ],
+   "lastVerified": "2026-11-26",
+   "address": "27 Jalan SiLC 1/5, Kawasan Perindustrian SiLC, 79200 Iskandar Puteri, Johor, Malaysia",
+   "summary": "A two-building hyperscale campus being built by STACK Infrastructure on a 10.8-hectare former steel centre site in the SiLC industrial park, Iskandar Puteri. The plan totals 220MW (120MW and 100MW buildings) with a 275kV TNB supply through an on-site substation, and first delivery was targeted for Q4 2026.",
+   "powerCategories": [
+    "grid"
+   ],
+   "delayMonths": 0
+  },
+  {
+   "id": "vn-viettel-tan-phu-trung",
+   "name": "Viettel Tan Phu Trung Data Center",
+   "operator": "Viettel",
+   "country": "Vietnam",
+   "location": "Tan Phu Trung Industrial Park, Cu Chi, Ho Chi Minh City",
+   "latitude": 10.97,
+   "longitude": 106.56,
+   "locationApproximate": true,
+   "status": "construction",
+   "statusNote": "Groundbreaking 2025-04-23 on a ~4ha site; about 10,000 racks, Tier III. Phase one was targeted for Q1 2026 (go-live not confirmed in sources); full completion before 2030.",
+   "facilityType": "Hyperscale cloud",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 140,
+    "quality": "reported",
+    "note": "Total designed capacity; Developing Telecoms describes it as IT load"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": null,
+   "powerSources": [],
+   "originalTargetDate": "Q1 2026 (phase one); full completion by 2030",
+   "currentTargetDate": "Q1 2026 (phase one, not confirmed); full completion by 2030",
+   "originalTargetYM": "2026-03",
+   "currentTargetYM": "2026-03",
+   "sources": [
+    {
+     "title": "VietNamNet — Vietnam breaks ground on first data center exceeding 100MW",
+     "url": "https://vietnamnet.vn/en/vietnam-breaks-ground-on-first-data-center-exceeding-100mw-2394651.html"
+    },
+    {
+     "title": "Developing Telecoms — Viettel breaks ground on Vietnam's biggest data centre yet",
+     "url": "https://www.developingtelecoms.com/telecom-technology/data-centres-networks/18397-viettel-breaks-ground-on-vietnam-s-biggest-data-centre-yet.html"
+    }
+   ],
+   "lastVerified": "2026-11-26",
+   "powerCategories": [],
+   "delayMonths": 0
+  },
+  {
+   "id": "ph-pldt-vitro-cavite",
+   "name": "PLDT VITRO General Trias (Cavite)",
+   "operator": "ePLDT / VITRO",
+   "country": "Philippines",
+   "location": "General Trias, Cavite",
+   "latitude": 14.38,
+   "longitude": 120.88,
+   "locationApproximate": true,
+   "status": "announced",
+   "statusNote": "Announced 2025-04 as PLDT's 12th and largest hyperscale data centre; construction planned to start 2026 and complete by 2028, phased from 20MW. PLDT told the PSE the project remained in planning (2025-05).",
+   "facilityType": "Hyperscale cloud",
+   "itLoad": null,
+   "campusPower": {
+    "mw": 100,
+    "quality": "reported",
+    "note": "Up to 100MW, phased from 20MW. IT vs total not stated"
+   },
+   "gridConnection": null,
+   "operationalNow": null,
+   "investment": null,
+   "powerSources": [],
+   "originalTargetDate": "2028 (completion)",
+   "currentTargetDate": "2028 (completion)",
+   "sources": [
+    {
+     "title": "W.Media — PLDT to build 100MW data center in Cavite, Philippines in 2026",
+     "url": "https://w.media/pldt-to-build-100mw-data-center-in-cavite-philippines-in-2026/"
+    }
+   ],
+   "lastVerified": "2026-11-26",
+   "powerCategories": [],
+   "originalTargetYM": "2028-12",
+   "currentTargetYM": "2028-12",
+   "delayMonths": 0
+  },
+  {
    "id": "epoch-openai-stargate-new-mexico",
    "name": "OpenAI Stargate New Mexico",
    "operator": "Oracle",
@@ -4260,7 +4632,7 @@
      "url": "https://www.oracle.com/news/announcement/oracle-borderplex-and-bloom-energy-to-power-project-jupiter-with-fuel-cell-technology-2026-04-27/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": null,
    "powerCategories": [
@@ -4328,7 +4700,7 @@
      "url": "https://t.co/HsAO7oyKa2"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "55001 Larrison Blvd, New Carlisle, IN 46552",
    "summary": "Amazon's AI campus in New Carlisle, Indiana, used by Anthropic. Epoch AI estimates more than 1.2GW is already operating, with about 2.3GW at full build-out.",
@@ -4404,7 +4776,7 @@
      "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026036936/spaceexplorationtechnologi.htm"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "5420 Tulane Rd, Memphis, TN 38109",
    "summary": "xAI's second Colossus campus in the Whitehaven area of Memphis, based on a large former warehouse bought in 2025 and later expanded with more buildings. Epoch AI estimates it is already partly operating and heading for about 2GW of facility power.",
@@ -4468,7 +4840,7 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026024094"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "175 Private Road 1604, Abilene, TX 79601, Shackelford County",
    "powerCategories": [],
@@ -4536,7 +4908,7 @@
      "url": "https://newsletter.semianalysis.com/p/meta-compute-everyone-wants-to-be"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "6200 76th Ave SW, Fairfax, IA 52228",
    "powerCategories": [
@@ -4597,7 +4969,7 @@
      "url": "https://www.bloomberg.com/news/articles/2025-10-09/us-approves-several-billion-dollars-of-nvidia-nvda-ai-chip-sales-to-uae"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "Nexus L&T Project Office, Al Bihouth, Al Dhafrah, Abu Dhabi, United Arab Emirates",
    "powerCategories": [],
@@ -4663,7 +5035,7 @@
      "url": "https://www.thesalinebarn.com/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": null,
    "powerCategories": [],
@@ -4728,7 +5100,7 @@
      "url": "https://drive.google.com/file/d/1OMbFbdNGPmfSkwVWqOAK-5pOufiKQBu1/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "1 Community Cir, New Albany, OH 43054",
    "summary": "Meta's Prometheus AI cluster in New Albany, Ohio. Epoch AI estimates about 600MW is operating, growing to about 1.3GW.",
@@ -4785,7 +5157,7 @@
      "url": "https://drive.google.com/file/d/1ft2ZzqAYZtsTqMwyML4eo_EFYuclVxE6/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": null,
    "powerCategories": [],
@@ -4853,7 +5225,7 @@
      "url": "https://drive.google.com/file/d/1sI8t1MzjDTAEnn-yY4zv3SiiTCpruzSQ/view?usp=drive_link"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "10001 Lima Rd, Claude, TX 79019",
    "powerCategories": [
@@ -4913,7 +5285,7 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026017746"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": null,
    "powerCategories": [],
@@ -4975,7 +5347,7 @@
      "url": "https://citycouncildocuments.acfw.net/documents/download/2023-12-19/R-23-12-02.pdf"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "6015 Adams Center Road, Fort Wayne, IN 46806",
    "powerCategories": [],
@@ -5044,7 +5416,7 @@
      "url": "https://www.nytimes.com/2025/06/24/technology/amazon-ai-data-centers.html"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "1626 County Line Road Ridgeland, Mississippi",
    "powerCategories": [
@@ -5109,7 +5481,7 @@
      "url": "https://x.com/mustafasuleyman/status/2037547756320141587"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "5502 Spinks Rd, Abilene, TX 79601",
    "powerCategories": [],
@@ -5178,7 +5550,7 @@
      "url": "https://www.bloomberg.com/news/features/2024-12-08/georgia-s-blackstone-backed-qts-data-center-hits-resistance-over-ai-power-needs"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "1435 Hwy 54 W, Fayetteville, GA 30214",
    "summary": "Microsoft's Fairwater AI site in Fayetteville, Georgia, south of Atlanta. Epoch AI estimates it reached its full capacity of about 860MW in mid-2026.",
@@ -5248,7 +5620,7 @@
      "url": "https://newsletter.semianalysis.com/p/amazons-ai-resurgence-aws-anthropics-multi-gigawatt-trainium-expansion"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "Amazon Data Services Inc, Madison Mega Site Nissan Parkway and Highway 22 Canton, Mississippi Madison County",
    "powerCategories": [],
@@ -5314,7 +5686,7 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2025012175"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "984 County Road 112, Afton, TX 79220",
    "powerCategories": [],
@@ -5365,7 +5737,7 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "Bayin, Ulanqab, China",
    "powerCategories": [],
@@ -5431,7 +5803,7 @@
      "url": "https://www.ft.com/content/96fe9898-a3a4-4a33-be1d-da06bdb6cb2b"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": null,
    "powerCategories": [],
@@ -5481,7 +5853,7 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": null,
    "powerCategories": [],
@@ -5547,7 +5919,7 @@
      "url": "https://www.ft.com/content/96fe9898-a3a4-4a33-be1d-da06bdb6cb2b"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "HP79+MP, 81300 Johor Bahru, Johor, Malaysia",
    "powerCategories": [],
@@ -5597,7 +5969,7 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "Wuhu, China",
    "powerCategories": [],
@@ -5661,7 +6033,7 @@
      "url": "https://drive.google.com/file/d/1L154XKyiHqRzeZj36zqMRkjdG7QIFL41/view?usp=drive_link"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "12356 Middleton Pike, Bowling Green, OH 43402",
    "powerCategories": [
@@ -5726,7 +6098,7 @@
      "url": "https://ir.applieddigital.com/news-events/press-releases/detail/157/applied-digital-delivers-second-building-at-polaris-forge-1"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "9685 87th Ave SE, Ellendale, ND 58436",
    "powerCategories": [],
@@ -5789,7 +6161,7 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25966/638633868679100000"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "9590 Hornbaker Rd, Manassas, VA 20109",
    "powerCategories": [],
@@ -5848,7 +6220,7 @@
      "url": "https://sustainability.google/reports/google-2025-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "11110 State St, Omaha, NE 68142",
    "powerCategories": [],
@@ -5911,7 +6283,7 @@
      "url": "https://www.henselphelps.com/meta-awards-hensel-phelps-montgomery-data-center/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "Co Rd 42, Montgomery, AL 36105, USA",
    "powerCategories": [],
@@ -5970,7 +6342,7 @@
      "url": "https://www.aeptransmission.com/ohio/docs/Hartman%20Farms%20Extension%20No.%202%20138%20kV%20Transmission%20Line%20Project%20Construction%20Notice.pdf"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "5076 S High St, Columbus, OH 43207",
    "powerCategories": [],
@@ -6033,7 +6405,7 @@
      "url": "https://techcrunch.com/2022/05/11/google-launches-a-9-exaflop-cluster-of-cloud-tpu-v4-pods-into-public-preview/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "4581 Webb St, Pryor, OK 74361",
    "summary": "Part of Google's large data centre campus at the MidAmerica Industrial Park near Pryor in Mayes County, Oklahoma.",
@@ -6104,7 +6476,7 @@
      "url": "https://www.anthropic.com/news/anthropic-invests-50-billion-in-american-ai-infrastructure"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "7725 Lake Rd, Barker, NY 14012",
    "powerCategories": [],
@@ -6155,7 +6527,7 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "Huawei, Horinger, China",
    "powerCategories": [],
@@ -6209,7 +6581,7 @@
      "url": "https://daqpermitting.utah.gov/DocViewer?IntDocID=155764&contentType=application/pdf"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "652 E Hyperscale Way, Eagle Mountain, UT 84013",
    "powerCategories": [],
@@ -6276,7 +6648,7 @@
      "url": "https://www.wosu.org/politics-government/2023-09-20/new-albany-city-council-approves-tax-break-deal-for-3-5-billion-amazon-data-center-project"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "13360 Miller Rd NW",
    "powerCategories": [],
@@ -6335,7 +6707,7 @@
      "url": "https://sustainability.google/reports/google-2025-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "1101 Beech Rd SW, New Albany, OH 43054",
    "powerCategories": [],
@@ -6402,7 +6774,7 @@
      "url": "https://www.wsj.com/tech/ai/coreweave-stock-market-ai-bubble-a3c8c321"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "8171 Jim Christal Rd, Denton, TX 76207",
    "powerCategories": [],
@@ -6465,7 +6837,7 @@
      "url": "https://www.youtube.com/watch?v=HODHjDbFt10"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "YTL Green Data Centers, Kulai, Johor, Malaysia",
    "powerCategories": [],
@@ -6527,7 +6899,7 @@
      "url": "https://datacenters.google/locations/storey-county-nevada/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": null,
    "powerCategories": [],
@@ -6589,7 +6961,7 @@
      "url": "https://lnklan.granicus.com/DocumentViewer.php?file=lnklan_bfe1e3023d49404348f26355e113cb22.pdf&view=1"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "5475 Cloud Ct, Lincoln, NE 68514",
    "powerCategories": [],
@@ -6650,7 +7022,7 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "3525–3543 Portugee Rd, Sandston, VA 23150",
    "powerCategories": [
@@ -6712,7 +7084,7 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "6000 Technology Blvd, Sandston, VA 23150",
    "powerCategories": [
@@ -6781,7 +7153,7 @@
      "url": "https://www.google.com/maps/@1.695402,103.4214409,3a,47.7y,213.04h,92.05t/data=!3m7!1e1!3m5!1sG4O28vWhkgGAlyz3dZ-fdg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D-2.0537269881136098%26panoid%3DG4O28vWhkgGAlyz3dZ-fdg%26yaw%3D213.043859649809!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgxMi4wIKXMDSoASAFQAw%3D%3D"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "Bridge Data Centres, Sedenak Tech Park, Johor, Malaysia",
    "powerCategories": [],
@@ -6835,7 +7207,7 @@
      "url": "https://www.govonlinesaas.com/LCPH/EasyAir/Public/EnSuite/Shared/Pages/util/StreamDoc.ashx?id=260&type=attachment"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "5800 EDGEWOOD RD SW CEDAR RAPIDS, IA 52404",
    "powerCategories": [],
@@ -6906,7 +7278,7 @@
      "url": "https://www.datacenterdynamics.com/en/news/cipher-mining-secures-fluidstack-as-a-customer-and-google-as-an-investor/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": null,
    "powerCategories": [],
@@ -6964,7 +7336,7 @@
      "url": "https://drive.google.com/file/d/1xl4Ql2jdmKhcYFhn43ymM2TJ56Z8cInL/view?usp=drivesdk"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "2300 Hallock Young Rd, Warren, OH 44481",
    "powerCategories": [],
@@ -7019,7 +7391,7 @@
      "url": "https://sustainability.google/reports/google-2026-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "13001 Rollins Ford Road, Bristow, VA 20136",
    "powerCategories": [],
@@ -7078,7 +7450,7 @@
      "url": "https://programs.iowadnr.gov/easyair/Public/EnSuite/Shared/Pages/Util/ServerRptViewer.aspx?sr=/IDNR/Reports/EASY/RPT_Construction_Application_E_EU&SUBMISSION_RID=67330&SUB_FORM_RID=148297"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "10410 Bunge Ave, Council Bluffs, IA 51503",
    "powerCategories": [],
@@ -7137,7 +7509,7 @@
      "url": "https://sustainability.google/reports/google-2025-environmental-report/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "14651-15249 Gold Coast Rd 68138 Papillion Nebraska, USA",
    "powerCategories": [],
@@ -7199,7 +7571,7 @@
      "url": "https://lp.startcampus.pt/start-campus-hosts-eus-first-nvidia-gb300-chips-with-nscale-for-microsoft"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "Start Campus - Sustainable Data Center Services, Sines, Portugal",
    "powerCategories": [],
@@ -7261,7 +7633,7 @@
      "url": "https://fortisconstruction.com/project/meta-los-lunas-campus/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "4250 Messenger Lp, Los Lunas, NM 87031",
    "powerCategories": [],
@@ -7320,7 +7692,7 @@
      "url": "https://www.streamdatacenters.com/wp-content/uploads/2026/01/SDC-Goodyear-CaseStudy-251218.pdf"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "2950 S. Litchfield Road",
    "powerCategories": [],
@@ -7383,7 +7755,7 @@
      "url": "https://newsletter.semianalysis.com/p/microsofts-ai-strategy-deconstructed"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "14250 W Broadway Rd, Goodyear, AZ 85338",
    "powerCategories": [],
@@ -7444,7 +7816,7 @@
      "url": "https://www.deq.virginia.gov/home/showpublisheddocument/25650/638627871515730000"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "6030–6070 Technology Blvd, Sandston, VA 23150",
    "powerCategories": [
@@ -7508,7 +7880,7 @@
      "url": "https://cheyenneleads.org/meta-announces-new-data-center-a-major-investment-in-cheyenne-wyoming/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "Cheyenne, WY 82007, USA",
    "powerCategories": [],
@@ -7569,7 +7941,7 @@
      "url": "https://q.com/news/avangrid-and-portland-general-electric-collaborate-with-qts-and-meta-to-build-120-mwac-solar-project-in-oregon/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "4755 NE Huffman St, Hillsboro, OR 97124",
    "powerCategories": [
@@ -7630,7 +8002,7 @@
      "url": "https://drive.google.com/file/d/1i2D0eMp9uc1CfRhymu69Bms5wz9q0Rkc/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "1772-2396 145th St, Rosemount, MN 55068, USA",
    "powerCategories": [],
@@ -7693,7 +8065,7 @@
      "url": "https://drive.google.com/file/d/1RpOCS_z32qaWskhhAJL8_QjU9VSz5Eqh/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "500 8th St, Jeffersonville, IN 47130, USA",
    "powerCategories": [],
@@ -7752,7 +8124,7 @@
      "url": "https://www.datacenterdynamics.com/en/news/google-files-to-build-second-data-center-at-mesa-campus-in-arizona/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": null,
    "powerCategories": [],
@@ -7814,7 +8186,7 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/TABS2026008019"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "2310 Eberhardt Rd, Temple, TX 76504",
    "powerCategories": [],
@@ -7881,7 +8253,7 @@
      "url": "https://news.microsoft.com/source/features/ai/west-des-moines-iowa-ai-supercomputer/?msockid=23bbdd21a02166402e27c929a1a567ce"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "5855 SW Kerry St, Cumming, IA 50061",
    "powerCategories": [],
@@ -7947,7 +8319,7 @@
      "url": "https://www.srbc.gov/about/news/docs/2025-159-final-public-comment-responses-20260128.pdf"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "1125 Electron Ave, Berwick, PA 18603",
    "powerCategories": [],
@@ -7998,7 +8370,7 @@
      "url": "https://epoch.ai/data/ai-data-centers"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "Alibaba Zhangbei Yun Calculation Data Center, Zhangbei County, Zhangjiakou, Hebei, China, 076471",
    "powerCategories": [],
@@ -8074,7 +8446,7 @@
      "url": "https://puc.idaho.gov/Fileroom/PublicFiles/ELEC/IPC/IPCE2442/OrdNotc/20241210Notice_of_Application_Order_No_36419.pdf"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "601 Kuna Mora Rd,  Kuna ID 83634",
    "powerCategories": [
@@ -8139,7 +8511,7 @@
      "url": "https://www.prnewswire.com/news-releases/tva-announces-largest-valley-solar-installations--built-for-facebook-300743255.html"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "5400 Prosperity Dr NW, Toney, AL",
    "powerCategories": [
@@ -8204,7 +8576,7 @@
      "url": "https://www.datacenterdynamics.com/en/news/chirisa-offers-former-capital-one-data-center-in-virginia-to-hyperscalers/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "1401 Meadowville Technology Parkway, Chester, VA",
    "powerCategories": [],
@@ -8263,7 +8635,7 @@
      "url": "https://nebius.com/blog/posts/first-live-nvidia-gb300-nvl72-deployment-in-europe"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": null,
    "powerCategories": [],
@@ -8321,7 +8693,7 @@
      "url": "https://datacenters.google/efficiency/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "3500 River Rd, The Dalles, OR",
    "summary": "Google's first company-built data centre, opened in 2006 on the Columbia River in The Dalles, Oregon. The campus has since grown with further buildings and is now one of Google's largest sites.",
@@ -8388,7 +8760,7 @@
      "url": "https://datacenters.google/efficiency/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "330 Austin Blvd, Red Oak, TX 75154",
    "powerCategories": [],
@@ -8447,7 +8819,7 @@
      "url": "https://applications.deq.ok.gov/permitspublic/storedpermits/9138.pdf"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "1525 W 43rd St S, Muskogee, OK 74401, USA",
    "powerCategories": [],
@@ -8507,7 +8879,7 @@
      "url": "https://ukozvhzgrcnkcatjqfoo.supabase.co/storage/v1/object/public/03-00-air-construction/2026.02.05_Eagle%20Mountain%20Power%20Plant_Application_32a5238b.pdf"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "1275 N Community Cir, Eagle Mountain, UT 84005",
    "powerCategories": [
@@ -8571,7 +8943,7 @@
      "url": "https://drive.google.com/file/d/1rbF-RT5Sq-iZ26hK5cKzbM2K4Vq2vObY/view?usp=sharing"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "14720 Omicron Dr, San Antonio, TX 78245",
    "powerCategories": [],
@@ -8630,7 +9002,7 @@
      "url": "https://www.dpr.com/projects/meta-aiken-data-center-aiken-sc"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "7601 State Hwy 105, Trenton, SC 29847, USA",
    "powerCategories": [],
@@ -8684,7 +9056,7 @@
      "url": "https://www.datacenterdynamics.com/en/news/google-to-build-two-more-data-centers-in-columbus-ohio/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "105 Whiley Rd, Lancaster, OH 43130",
    "powerCategories": [],
@@ -8743,7 +9115,7 @@
      "url": "https://www.datacenterdynamics.com/en/news/google-files-project-plan-for-data-center-in-kansas-city-missouri/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": null,
    "powerCategories": [],
@@ -8812,7 +9184,7 @@
      "url": "https://www.cpreherts.org.uk/resources/land-at-maxwells-farm-west-great-cambridge-road-cheshunt-hertfordshire/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "Land at Maxwell's Farm West, Great Cambridge Road, Cheshunt, EN8 8XH",
    "powerCategories": [
@@ -8868,7 +9240,7 @@
      "url": "https://www.datacenterdynamics.com/en/news/machine-investment-acquires-two-printing-press-sites-in-pennsylvania-plans-data-center-redevelopment/?utm_source=datacentermap.com"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "216 Greenfield Rd, Lancaster, PA \n",
    "powerCategories": [],
@@ -8927,7 +9299,7 @@
      "url": "https://time.com/article/2026/06/03/ai-norway-nscale-data-center/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": null,
    "powerCategories": [],
@@ -8985,7 +9357,7 @@
      "url": "https://archive-stream.granicus.com/OnDemand/_definst_/mp4:swagitVideo/midlothiantx/eefcd9e0-4c12-41ba-986a-165a20124c72.mp4/playlist.m3u8"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "3250 Railport Parkway, Midlothian, TX 76065",
    "powerCategories": [],
@@ -9044,7 +9416,7 @@
      "url": "https://www.gallatingetsit.com/newsroom/meta-approved-for-another-data-center-on-gallatin-campus"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "1 Meta Lp, Gallatin, TN 37066",
    "powerCategories": [],
@@ -9102,7 +9474,7 @@
      "url": "https://www.tdlr.texas.gov/TABS/Search/Project/EABPRJB8824650"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "15000 Lambda Drive, San Antonio, TX 78245",
    "powerCategories": [],
@@ -9156,7 +9528,7 @@
      "url": "https://datacenters.atmeta.com/asset/sarpy-data-center-info-sheet/"
     }
    ],
-   "lastVerified": "2026-11-24",
+   "lastVerified": "2026-11-26",
    "dataSource": "Epoch AI",
    "address": "14436-14998 Fairview Rd, Springfield, NE 68059, USA",
    "powerCategories": [],

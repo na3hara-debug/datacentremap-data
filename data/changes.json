@@ -1,6 +1,78 @@
 {
  "changes": [
   {
+   "date": "2026-11-26",
+   "id": "jp-bitgrit-s2-akita",
+   "name": "S2 / Bitgrit Akita AI Data Center",
+   "country": "Japan",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-26",
+   "id": "jp-dayone-imari",
+   "name": "DayOne Imari Data Center Campus",
+   "country": "Japan",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-26",
+   "id": "jp-ntt-tky12-shiroi",
+   "name": "NTT Tokyo TKY12 Data Center Campus",
+   "country": "Japan",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-26",
+   "id": "jp-apl-gci-kitakyushu",
+   "name": "APL / GCI Kitakyushu Data Center Hub",
+   "country": "Japan",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-26",
+   "id": "in-adaniconnex-coreweave-taloja",
+   "name": "AdaniConneX Taloja Campus (CoreWeave)",
+   "country": "India",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-26",
+   "id": "in-pdg-mu2-navi-mumbai",
+   "name": "Princeton Digital Group MU2 Navi Mumbai",
+   "country": "India",
+   "type": "new",
+   "to": "announced"
+  },
+  {
+   "date": "2026-11-26",
+   "id": "my-stack-jhb01",
+   "name": "STACK JHB01 Campus",
+   "country": "Malaysia",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-26",
+   "id": "vn-viettel-tan-phu-trung",
+   "name": "Viettel Tan Phu Trung Data Center",
+   "country": "Vietnam",
+   "type": "new",
+   "to": "construction"
+  },
+  {
+   "date": "2026-11-26",
+   "id": "ph-pldt-vitro-cavite",
+   "name": "PLDT VITRO General Trias (Cavite)",
+   "country": "Philippines",
+   "type": "new",
+   "to": "announced"
+  },
+  {
    "date": "2026-11-24",
    "id": "nz-datagrid-southland",
    "name": "Datagrid Southland AI Campus",
@@ -529,5 +601,5 @@
    "to": "permitting"
   }
  ],
- "updatedAt": "2026-11-24"
+ "updatedAt": "2026-11-26"
 }
